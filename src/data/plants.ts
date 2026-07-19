@@ -1,10 +1,12 @@
-// Dataset ilustrativo — mock data para o MVP de demonstração do AmazonBio Atlas.
-// As 4 primeiras espécies replicam os textos já aprovados no arquivo de design
-// de referência; os campos ausentes do arquivo original (familia,
-// sintomasDoencas, similaridade, timeline, referencias), assim como as
-// espécies adicionadas depois (jambu, pracaxi, ...), foram redigidos no mesmo
-// tom editorial a partir de fontes gerais, mas não representam pesquisa
-// curada ou revisada por pares.
+// Espécies curadas à mão para a demo — fotos reais, dados mais completos
+// (compostos, timeline, propriedades com evidência variada). As 4 primeiras
+// replicam os textos já aprovados no arquivo de design de referência; os
+// campos ausentes dele, assim como as espécies adicionadas depois (jambu,
+// pracaxi, ...), foram redigidos no mesmo tom editorial a partir de fontes
+// gerais, mas não representam pesquisa curada ou revisada por pares.
+//
+// O grosso do acervo (centenas de espécies) vem de um catálogo real via
+// hortoAdapter.ts — ver src/data/catalog.ts para a lista combinada.
 
 export type NivelEvidencia = 'clinica' | 'pre-clinica' | 'in-vitro' | 'tradicional';
 
@@ -24,7 +26,7 @@ export interface Planta {
   nomeCientifico: string;
   familia: string;
   regiao: string;
-  indice: number; // 0–100
+  indice?: number; // 0–100, quando o registro tem uma base para o score
   fotoDescricao: string; // orientação para a foto real usada (macro, fundo neutro)
   descricaoCurta: string;
   descricaoLonga: string;
@@ -35,6 +37,9 @@ export interface Planta {
   usoTradicional: string;
   timeline: EventoTimeline[];
   referencias: string[];
+  // true para espécies vindas de um catálogo real (ex.: hortoAdapter.ts) —
+  // nesse caso usoTradicional/referencias são dados reais, não ilustrativos.
+  fonteReal?: boolean;
 }
 
 export const plantas: Planta[] = [
@@ -231,7 +236,3 @@ export const plantas: Planta[] = [
     ],
   },
 ];
-
-export function getPlantaBySlug(slug: string): Planta | undefined {
-  return plantas.find((p) => p.slug === slug);
-}

@@ -7,6 +7,10 @@ interface PropriedadesProps {
 }
 
 export function Propriedades({ planta }: PropriedadesProps) {
+  if (planta.propriedades.length === 0) {
+    return <p className="text-sm text-forest-900/50">Nenhuma propriedade documentada ainda para esta espécie.</p>;
+  }
+
   return (
     <div className="bg-white border border-line rounded-2xl p-2 max-w-[640px]">
       {planta.propriedades.map((p, i) => {

@@ -1,0 +1,3595 @@
+{
+  "fonte_catalogo": {
+    "titulo": "Catálogo do Horto de Plantas Medicinais e Aromáticas",
+    "autor": "Osmar Alves Lameira",
+    "editora": "Embrapa",
+    "instituicao": "Embrapa Amazônia Oriental",
+    "ano": 2024,
+    "isbn": "978-65-5467-043-2",
+    "escopo": "Espécies cultivadas no Horto de Plantas Medicinais e Aromáticas da Embrapa Amazônia Oriental (Belém, PA) — não é um levantamento exaustivo da flora amazônica."
+  },
+  "especies": [
+    {
+      "id": "abiu",
+      "nome_popular": "Abiu",
+      "nome_cientifico": "Pouteria caimito (Ruiz & Pav.) Radlk",
+      "familia": "Sapotaceae.",
+      "uso_medicinal": "trata afecções pulmonares, anemia e atua como tônico.",
+      "parte_utilizada": "polpa do fruto, casca e folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "acaizeiro",
+      "nome_popular": "Açaizeiro",
+      "nome_cientifico": "Euterpe oleraceae Mart.",
+      "familia": "Arecaceae.",
+      "uso_medicinal": "atua como adstringente e trata anemia.",
+      "parte_utilizada": "frutos, raiz.",
+      "pagina_catalogo_inicio": 9,
+      "paginas_catalogo": [
+        9
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "acoita-cavalo",
+      "nome_popular": "Açoita-cavalo",
+      "nome_cientifico": "Luehea speciosa Willd.",
+      "familia": "Malvaceae.",
+      "uso_medicinal": "trata hemorragia, reumatismo e leucorreia.",
+      "parte_utilizada": "casca.",
+      "pagina_catalogo_inicio": 10,
+      "paginas_catalogo": [
+        10
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; ASSIS, R. M. A. de. Fenologia e screening fitoquímico do açoita-cavalo. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970420"
+        },
+        {
+          "citacao": "MOURA, R. C.; LAMEIRA, O. A.; COSTA, K. J. A.; ASSIS, R. M. A. de; SOUZA, S. B. P.; ALMEIDA, L. da S. S. de. Aspectos fenológicos de açoita-cavalo - Luehea divaricata Mart. (Tiliaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 142-145",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053837"
+        },
+        {
+          "citacao": "COSTA, K. J. A.; LAMEIRA, O. A.; SOUZA, I. N. G.; MAVÃO, L. dos S. Aspectos fenológicos do açoita-cavalo - Luehea speciosa Willd. (Malvaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076297"
+        },
+        {
+          "citacao": "RAMIRES, A. C. S.; LAMEIRA, O. A.; SOUZA, I. N. G.; PORTAL, R. K. V. P.; CAMPELO, M. F. Análise do período fenológico do açoita-cavalo em relação à precipitação pluviométrica. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 23., 2019, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2019. p. 124-127",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1113333"
+        }
+      ]
+    },
+    {
+      "id": "agiru",
+      "nome_popular": "Agirú",
+      "nome_cientifico": "Chrysobalanus icaco L.",
+      "familia": "Chrysobalanaceae.",
+      "uso_medicinal": "trata disenterias, catarro de bexiga, leucorreias e diabetes.",
+      "parte_utilizada": "flor, folhas e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SALDANHA, A. L. M.; LAMEIRA, O. A. Efeito do ácido indolil butírico (AIB) no enraizamento de estacas de agirú (Chrysobalanus icaco L.). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 4.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 10., 2007, Belém, PA. Anais... Belém, PA: UFRA: Embrapa Amazônia Oriental, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/380537"
+        },
+        {
+          "citacao": "SOUZA, S. B. P.; LAMEIRA, O. A.; ASSIS, R. M. A. de; MOURA, R. C.; ALMEIDA, L. da S. S. de; FERNANDES, V. S. Aspectos fenológicos do ajirú, Chrysobalanus icaco L. (Chrysobalanaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 150-153",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053840"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; MAVÃO, L. dos S.; ASSIS, R. M. A. de. Fenológia da espécie - Chrysobalanus icaco L. (Chrysobalanaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076341"
+        }
+      ]
+    },
+    {
+      "id": "alfavacao",
+      "nome_popular": "Alfavacão",
+      "nome_cientifico": "Ocimum gratissimum L.",
+      "familia": "Lamiaceae (Labiatae).",
+      "uso_medicinal": "atua como aromático, estomático e diurético.",
+      "parte_utilizada": "folhas, sementes e raízes.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; PORTAL, R. K. V. P.; ROCHA, T. T. Análise do período fenológico da espécie Ocimum gratissimum L. (Lamiaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994558"
+        }
+      ]
+    },
+    {
+      "id": "algodoeiro",
+      "nome_popular": "Algodoeiro",
+      "nome_cientifico": "Gossypium arboreum L.",
+      "familia": "Malvaceae.",
+      "uso_medicinal": "atua como hemostático, trata fraqueza pulmonar e alivia queimaduras.",
+      "parte_utilizada": "folhas, casca da raiz e óleo da semente.",
+      "pagina_catalogo_inicio": 11,
+      "paginas_catalogo": [
+        11
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "FAÇANHA, T. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; BATISTA, W. R. Avaliação fenológica de Gossypium hirsutum L. e Hibiscus sabdariffa L. pertencentes à família Malvaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 16., 2012, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/949666"
+        }
+      ]
+    },
+    {
+      "id": "amor-crescido",
+      "nome_popular": "Amor-crescido",
+      "nome_cientifico": "Portulaca pilosa L.",
+      "familia": "Portulacaceae.",
+      "uso_medicinal": "atua como diurético e analgésico.",
+      "parte_utilizada": "raiz, caule e folhas.",
+      "pagina_catalogo_inicio": 12,
+      "paginas_catalogo": [
+        12
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RIBEIRO, F. N. S.; LAMEIRA, O. A.; PORTAL, R. K. V. P.; NUNES, R. L. P. Caracterização fenológica da espécie Portulaca pilosa L. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970307"
+        },
+        {
+          "citacao": "RODRIGUES, Y. H. T. de M.; LAMEIRA, O. A.; CORREIA, R. G.; PIRES, H. C. G.; CARVALHO, A. C. M. Aspectos fenológicos de Portulaca pilosa L. (Portulacaceae). In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1001024"
+        },
+        {
+          "citacao": "RODRIGUES, Y. H. T. de M.; LAMEIRA, O. A.; ROCHA, T. T.; MEDEIROS, A. P. R. Avaliação fenológica de Portulaca pilosa L. (Portulacaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994730"
+        }
+      ]
+    },
+    {
+      "id": "amora",
+      "nome_popular": "Amora",
+      "nome_cientifico": "Rubus brasiliensis Mart.",
+      "familia": "Rosaceae.",
+      "uso_medicinal": "atua como diurético, laxativo, antiespasmódico, tônico e antidiarreico.",
+      "parte_utilizada": "folhas e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ROCHA, T. T.; RIBEIRO, F. N. S.; LAMEIRA, O. A.; MEDEIROS, A. P. R.; NEVES, R. L. P. Caracterização fenológica de Rubus brasiliensis Mart. In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1000974"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A.; RODRIGUES, Y. H. T. de M.; BARBOSA, S. M. Fenofases de amora (Rubus brasiliensis Mart.). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994727"
+        }
+      ]
+    },
+    {
+      "id": "anador",
+      "nome_popular": "Anador",
+      "nome_cientifico": "Plecthranthus barbatus Andr",
+      "familia": "Lamiaceae (Labiatae).",
+      "uso_medicinal": "atua como calmante, hipotensor e cardioativo.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "andirobeira",
+      "nome_popular": "Andirobeira",
+      "nome_cientifico": "Carapa guianensis Aubl.",
+      "familia": "Meliaceae.",
+      "uso_medicinal": "atua como anti-inflamatório, antisséptico e cicatrizante .",
+      "parte_utilizada": "sementes.",
+      "pagina_catalogo_inicio": 13,
+      "paginas_catalogo": [
+        13,
+        14
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RIBEIRO, F. N.; LAMEIRA, O. A.; ROCHA, T. T.; AZULAY, L. B. O. Avaliação do desenvolvimento de mudas de andiroba sob a influência da adubação mineral e orgânica. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 15., 2011, Belém, PA. A ciência de fazer ciência: anais. Belém, PA: Embrapa Amazônia Oriental, 2011. 1 CD-ROM. PIBIC-2011",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/899911"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; NEVES, R. L. P.; LAMEIRA, O. A.; ROCHA, T. T.; RIBEIRO, F. N. S. Caracterização fenológica de Carapa guianensis Aubl. (Meliaceae) no campus da Embrapa Amazônia Oriental. In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1001003"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; LAMEIRA, O. A.; ASSIS, R. M. A. de; ROCHA, T. T. Efeito do processo de conservação e do tempo de armazenamento sobre a germinação de sementes e a formação de mudas de Carapa guianensis Aubl. - Meliaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994693"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; LAMEIRA, O. A.; ASSIS, R. M. A. de; PORTAL, R. K. V. P. Fenologia de Carapa guianensis Aubl. (Meliaceae) no município de Belém, Pará. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994695"
+        },
+        {
+          "citacao": "FERNANDES, V. S.; LAMEIRA, O. A.; ASSIS, R. M. A. de; COSTA, K. J. A.; ALMEIDA, L. da S. de; SOUZA, S. B. P. Aspectos fenológicos de andiroba - Carapa guianensis Aubl. (Meliaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 154-157",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053843"
+        },
+        {
+          "citacao": "BARBOSA, R. K. da C.; LAMEIRA, O. A.; COSTA, K. J. A.; COSTA, A. da S. Avaliação fenológica da espécie Carapa guianensis Aubl. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076345"
+        },
+        {
+          "citacao": "PIRES, H. C. G.; COSTA, K. J. A.; CAMPELO, M. F.; CARVALHO, A. N. C. de; LAMEIRA, O. A. Fenologia reprodutiva de Carapa guianensis Aubl. no horto de plantas medicinais da Embrapa Amazônia Oriental. In: CONGRESSO INTERNACIONAL DAS CIÊNCIAS AGRÁRIAS, 3., 2018, João Pessoa. Ciência, tecnologia e desenvolvimento rural: compartilhando conhecimentos inovadores e experiências. João Pessoa: Instituto Internacional Despertando Vocações, 2018",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1105936"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; PACHECO, N. A.; RAMIRES, A. C. S. Fenologia da espécie Carapa guianensis Aubl. nas condições climatológicas de Belém-PA, Brasil. In: SIMPÓSIO INTERNACIONAL DE CLIMATOLOGIA, 8., 2019, Belém, PA. Anais 2019. [S.l.]: SBMET; [Belém, PA]: UFPA, 2019. p. 141-145",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1121320"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; LAMEIRA, O. A.; NEVES, R. L. P.; LEÃO, F. M.; OLIVEIRA, M. G. de. Armazenamento de sementes e extração artesanal do óleo de andiroba. In: RODRIGUES, T. de A.; LEANDRO NETO, J.; GALVÃO, D. O. (org.). Meio Ambiente, Sustentabilidade e Agroecologia 5. Ponta Grossa: Atena Editora, 2019. Cap. 7, p. 72-77",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1112387"
+        }
+      ]
+    },
+    {
+      "id": "angico",
+      "nome_popular": "Angico",
+      "nome_cientifico": "Anadenanthera peregrina (L.) Speg.",
+      "familia": "Fabaceae.",
+      "uso_medicinal": "trata alergia e asma.",
+      "parte_utilizada": "casca e gomo.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "apii",
+      "nome_popular": "Apií",
+      "nome_cientifico": "Dorstenia asaroides Gardner",
+      "familia": "Moraceae.",
+      "uso_medicinal": "atua como sudorífero, tônico e diurético.",
+      "parte_utilizada": "perianto frutificado e rizoma.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "araca-boi",
+      "nome_popular": "Araçá-boi",
+      "nome_cientifico": "Eugenia stipitata McVaugh",
+      "familia": "Myrtaceae.",
+      "uso_medicinal": "atua como antioxidante, antiproliferativo, antimutagênico e antigenotóxica.",
+      "parte_utilizada": "fruto.",
+      "pagina_catalogo_inicio": 15,
+      "paginas_catalogo": [
+        15
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "MEDEIROS, A. P. R.; ROCHA, T. T.; LAMEIRA, O. A.; ASSIS, R. M. A. de. Fenologia reprodutiva de árvores frutíferas de interesse para quintais urbanos na Amazônia. In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 7., 2015, Belém, PA. Segurança alimentar: diretrizes para Amazônia. Belém, PA: UFRA, 2015. 1 CD-ROM. VII ENAAg",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1014659"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; LAMEIRA, O. A.; ASSIS, R. M. A. de; NEVES, R. L. P. Fenologia de espécies de interesse para quintais agroflorestais na Amazônia. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 19.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 3., 2015, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2015. p. 301-305.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "araruta",
+      "nome_popular": "Araruta",
+      "nome_cientifico": "Maranta arundinacea L.",
+      "familia": "Marantaceae.",
+      "uso_medicinal": "atua como demulcente e laxante.",
+      "parte_utilizada": "rizoma.",
+      "pagina_catalogo_inicio": 16,
+      "paginas_catalogo": [
+        16
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "arnica",
+      "nome_popular": "Arnica",
+      "nome_cientifico": "Solidago microglossa DC.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "trata contusões e inchaços.",
+      "parte_utilizada": "capítulos florais e rizomas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RODRIGUES, Y. H. T. de M.; LAMEIRA, O. A.; ROCHA, T. T.; MEDEIROS, A. P. R. Fenologia de Solidago microglossa DC. (Asteraceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994733"
+        },
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; COSTA, K. J. A.; MOURA, R. C. Aspectos fenológicos da espécie Solidago microglossa DC. (Asteraceae). In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 8., 2016, Belém, PA. Anais... Belém, PA: [s.n.], 2016. p. 34-39. Livro VI - Produção vegetal",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1058905"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; COSTA, K. J. A.; BARBOSA, R. K. da C. Estudo de fenofases da espécie - Solidago microglossa DC. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076342"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; PORTAL, R. K. V. P.; SOUZA, I. N. G.; PACHECO, N. A. Caracterização fenológica da arnica (Solidago microglossa DC.). Enciclopédia Biosfera, v. 15, n. 28, p. 230-236, 2018",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1100632"
+        }
+      ]
+    },
+    {
+      "id": "artemisia",
+      "nome_popular": "Artemísia",
+      "nome_cientifico": "Artemisia vulgaris L.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "atua como calmante e trata afecções gástricas e hepáticas.",
+      "parte_utilizada": "folhas, flores e raiz.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "babosa-dentada",
+      "nome_popular": "Babosa-dentada",
+      "nome_cientifico": "Aloe arborescens Mill",
+      "familia": "Asparagaceae.",
+      "uso_medicinal": "atua em ferimentos e reconstituição da pele, irritação nos olhos e queimaduras.",
+      "parte_utilizada": "folha, seiva e polpa.",
+      "pagina_catalogo_inicio": 17,
+      "paginas_catalogo": [
+        17
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SILVA, C. T. B. da; NAKASONE, A. K.; LEMOS, W. de P.; LAMEIRA, O. A.; OLIVEIRA, L. C. de. Antimicrobial activity of alcoholic extracts of medicinal plants against Phytopathogenic fungi. Journal of Experimental Agriculture International, v. 41, n. 6, 2019. Article no. JEAI.53424",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1119033"
+        }
+      ]
+    },
+    {
+      "id": "babosa-miuda",
+      "nome_popular": "Babosa-miúda",
+      "nome_cientifico": "Aloe vera L.",
+      "familia": "Asparagaceae.",
+      "uso_medicinal": "atua como laxante, depurativo, vermífugo, tônico capilar, além de tratar o fígado e queimaduras.",
+      "parte_utilizada": "folha, seiva e polpa.",
+      "pagina_catalogo_inicio": 18,
+      "paginas_catalogo": [
+        18
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SILVA, C. T. B. da; NAKASONE, A. K.; LEMOS, W. de P.; LAMEIRA, O. A.; OLIVEIRA, L. C. de. Antimicrobial activity of alcoholic extracts of medicinal plants against Phytopathogenic fungi. Journal of Experimental Agriculture International, v. 41, n. 6, 2019. Article no. JEAI.53424",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1119033"
+        }
+      ]
+    },
+    {
+      "id": "bacurizinho",
+      "nome_popular": "Bacurizinho",
+      "nome_cientifico": "Garcinia madruno (Kunth) Hammel",
+      "familia": "Clusiaceae.",
+      "uso_medicinal": "auxilia no emagrecimento e regula os níveis de colesterol.",
+      "parte_utilizada": "frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "bananeira",
+      "nome_popular": "Bananeira",
+      "nome_cientifico": "Musa paradisiaca L.",
+      "familia": "Musaceae.",
+      "uso_medicinal": "atua como adstringente, anti-helmíntico, emoliente, laxante e constipativo.",
+      "parte_utilizada": "frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "barbatimao",
+      "nome_popular": "Barbatimão",
+      "nome_cientifico": "Connarus angustifolius (Radlk.) G. Schellenb",
+      "familia": "Connaraceae.",
+      "uso_medicinal": "trata úlceras, feridas e doenças de pele.",
+      "parte_utilizada": "casca e folhas.",
+      "pagina_catalogo_inicio": 19,
+      "paginas_catalogo": [
+        19
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "MÜLLER, L. S.; SILVEIRA, G. D. da; PRÁ, V. D.; LAMEIRA, O.; VIANA, C.; CARVALHO, L. M. de. Investigation of phenolic antioxidants as chemical markers in extracts of Connarus perrottetii var. angustifolius Radlk by capillary zone electrophoresis. Journal of Liquid Chromatography & Related Technologies, v. 39, n. 1, p. 13-20, 2016.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "boa-noite",
+      "nome_popular": "Boa-noite",
+      "nome_cientifico": "Mirabilis jalapa L.",
+      "familia": "Nyctaginaceae.",
+      "uso_medicinal": "trata manchas na pele e vermes.",
+      "parte_utilizada": "flores, folhas e raiz.",
+      "pagina_catalogo_inicio": 20,
+      "paginas_catalogo": [
+        20
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "boldo",
+      "nome_popular": "Boldo",
+      "nome_cientifico": "Plectranthus amboinicus (Lous.). Spreng",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "trata rouquidão, bronquite, inflamação da boca e dores de garganta.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "boldo-africano",
+      "nome_popular": "Boldo-africano",
+      "nome_cientifico": "Gymnanthemum amygdalinum (Delile) Sch.Bip. ex Walp.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "atua como antipirético, laxativo, antimalárico e anti-helmíntico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RIBEIRO, F. N. S.; ROCHA, T. T.; LAMEIRA, O. A.; MEDEIROS, A. P. R.; NEVES, R. L. P. Comportamento fenológico de Gymnanthemum amygdalinum (Delile) Sch.Bip. ex Walp. In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1000976"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A.; ASSIS, R. M. A. de; MEDEIROS, A. P. R. Estudo fenológico da espécie Gymnanthemum amygdalinum (Delile) Sch.Bip. ex Walp. In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 7., 2015, Belém, PA. Segurança alimentar: diretrizes para Amazônia. Belém, PA: UFRA, 2015. 1 CD-ROM. VII ENAAg",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1014633"
+        }
+      ]
+    },
+    {
+      "id": "boldo-miudo",
+      "nome_popular": "Boldo-miúdo",
+      "nome_cientifico": "Plectranthus ornatus Codd",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "trata gastrite, dispepsia, azia, mal-estar gástrico e ressaca.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 21,
+      "paginas_catalogo": [
+        21
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "brasileirinho",
+      "nome_popular": "Brasileirinho",
+      "nome_cientifico": "Kalanchoe crenata (Andrews) Haw.",
+      "familia": "Crassulaceae.",
+      "uso_medicinal": "trata inflamações.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 22,
+      "paginas_catalogo": [
+        22
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cabi",
+      "nome_popular": "Cabí",
+      "nome_cientifico": "Banisteriopsis caapi (Spruce ex Griseb.). Morton",
+      "familia": "Malpighiaceae.",
+      "uso_medicinal": "utilizada em rituais indígenas.",
+      "parte_utilizada": "folhas e casca.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cajueiro",
+      "nome_popular": "Cajueiro",
+      "nome_cientifico": "Anacardium occidentale L.",
+      "familia": "Anacardiaceae.",
+      "uso_medicinal": "trata inflamação na garganta, aftas, reumatismo.",
+      "parte_utilizada": "casca do caule e ramos, edúnculo, casca da castanha, raiz e folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "camapu",
+      "nome_popular": "Camapu",
+      "nome_cientifico": "Physalis angulata L.",
+      "familia": "Solanaceae.",
+      "uso_medicinal": "tem atividade imunoestimulante e ação citotóxica para diversos tipos de células cancerosas, além de tratar mal de Alzheimer.",
+      "parte_utilizada": "folhas, frutos maduros e raízes.",
+      "pagina_catalogo_inicio": 23,
+      "paginas_catalogo": [
+        23
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "LAMEIRA, O. A.; RODRIGUES, S. de M.; SOUZA, I. N. G.; CAMPELO, M. F.; MOREIRA, R. K. V. P. P.; SILVA, A. C. B. da; SANTOS, M. C. A. dos; RAMIRES, A. C. S. Efeitos de diferentes concentrações de nitrato de amônio e nitrato de potássio na micropropagação de Physalis angulata L. Brazilian Journal of Development, v. 6, n. 11 , p. 85090-85097, nov. 2020",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1131460"
+        },
+        {
+          "citacao": "BARROS, T. M.; LAMEIRA, O. A.; COSTA, K. J. A.; SOUZA, I. N. G. Efeitos de diferentes concentrações de nitrato de amônio e nitrato de potássio na micropropagação de Physalis angulata L. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 22., 2018, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2018. p. 208-212",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1106046"
+        }
+      ]
+    },
+    {
+      "id": "canarana-da-folha-lisa",
+      "nome_popular": "Canarana-da-folha-lisa",
+      "nome_cientifico": "Costus arabicus L.",
+      "familia": "Costaceae.",
+      "uso_medicinal": "atua como adstringente e trata doenças das vias urinárias.",
+      "parte_utilizada": "folhas, hastes novas e rizomas.",
+      "pagina_catalogo_inicio": 24,
+      "paginas_catalogo": [
+        24
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "canarana-da-folha-peluda",
+      "nome_popular": "Canarana-da-folha-peluda",
+      "nome_cientifico": "Costus spicatus (Jacq.) Sw.",
+      "familia": "Costaceae.",
+      "uso_medicinal": "trata irritações vaginais, leucorreias e úlceras.",
+      "parte_utilizada": "folhas e colmo.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "canela",
+      "nome_popular": "Canela",
+      "nome_cientifico": "Cinnamomum verum J. Presl",
+      "familia": "Lauraceae.",
+      "uso_medicinal": "atua como anti-inflamatório e antioxidante, além de tratar doenças cardiovasculares, câncer e diabetes.",
+      "parte_utilizada": "folhas e casca.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "capim-doce",
+      "nome_popular": "Capim-doce",
+      "nome_cientifico": "Lippia dulcis (Trevir.)",
+      "familia": "Verbenaceae.",
+      "uso_medicinal": "usado como adoçante natural, trata tosse, bronquite e retenção urinária.",
+      "parte_utilizada": "folhas e flores.",
+      "pagina_catalogo_inicio": 25,
+      "paginas_catalogo": [
+        25
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "COSTA, K. J. A.; LAMEIRA, O. A.; ASSIS, R. M. A. de; MOURA, R. C.; SOUZA, S. B. P.; FERNANDES, V. S. Micropropagação do capim doce - Phyla betulifolia (Kunth) Greene. (Verbenaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 129-132",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053831"
+        },
+        {
+          "citacao": "ROCHA, T. T.; RIBEIRO, F. N.; GERMANO, C. M.; BERTOLUCCI, S. K. V.; LAMEIRA, O. A.; PINTO, J. E. B. P. Concentrações de sais no estabelecimento e manutenção in vitro de Phyla betulifolia. In: CONGRESSO DE PÓS-GRADUAÇÃO DA UFLA, 25., 2016, Lavras, MG. Anais... Lavras: UFLA, 2016",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1072542"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; SOUZA, I. N. G.; COSTA, A. da S. Aspecto fenológico da espécie Phyla betulifolia (Kunth) Greene. (Verbenaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076348"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; CAMPELO, M. F.; RODRIGUES, S. de M.; RAMIRES, A. C. S. Relação entre a fenologia da espécie Phyla betulifolia (Kunth) Greene e elementos climáticos. Research, Society and Development, v.10, n.5, e50910515159, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1133358"
+        }
+      ]
+    },
+    {
+      "id": "capim-santo",
+      "nome_popular": "Capim-santo",
+      "nome_cientifico": "Cymbopogon citratus (DC.) Stapf",
+      "familia": "Poaceae.",
+      "uso_medicinal": "atua como calmante, analgésico e digestivo.",
+      "parte_utilizada": "folhas, rizomas e raízes.",
+      "pagina_catalogo_inicio": 26,
+      "paginas_catalogo": [
+        26
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "carambola",
+      "nome_popular": "Carambola",
+      "nome_cientifico": "Averrhoa carambola L.",
+      "familia": "Oxalidaceae.",
+      "uso_medicinal": "atua como antioxidante.",
+      "parte_utilizada": "frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "AZULAY, L. B. O.; LAMEIRA, O. A.; ROCHA, T. T.; RIBEIRO, F. N. S. Avaliação fenológica e screening fitoquímico de Averrhoa carambola L.- Oxalidaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 15., 2011, Belém, PA. A ciência de fazer ciência: anais. Belém, PA: Embrapa Amazônia Oriental, 2011. 1 CD-ROM. PIBIC-2011",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/899912"
+        },
+        {
+          "citacao": "CARDOSO, L. G. R.; LAMEIRA, O. A.; FAÇANHA, T. P.; BATISTA, W. R. Avaliação fenológica e screening fitoquímico da carambola (Averroha carambola L.). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 16., 2012, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/949615"
+        }
+      ]
+    },
+    {
+      "id": "castanha-do-para",
+      "nome_popular": "Castanha-do-pará",
+      "nome_cientifico": "Bertholletia excelsa Bonpl.",
+      "familia": "Lecythidaceae.",
+      "uso_medicinal": "atua como antioxidante.",
+      "parte_utilizada": "amêndoas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cebolao",
+      "nome_popular": "Cebolão",
+      "nome_cientifico": "Hippeastrum puniceum (Lam.) Kuntze",
+      "familia": "Amaryllidaceae.",
+      "uso_medicinal": "trata dores de ouvido e lesões cancerosas diversas no reto, boca e pulmão.",
+      "parte_utilizada": "folhas e bulbo.",
+      "pagina_catalogo_inicio": 27,
+      "paginas_catalogo": [
+        27
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "chapeu-de-couro",
+      "nome_popular": "Chapéu-de-couro",
+      "nome_cientifico": "Echinodorus macrophyllus (Kunth) Micheli",
+      "familia": "Alismataceae.",
+      "uso_medicinal": "atua como diurético e depurativo do sangue, além de tratar inchaço nos pés e micose da pele.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 28,
+      "paginas_catalogo": [
+        28
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "PEREIRA, F. D.; PINTO, J. E. B. P.; CARDOSO, M. das G.; LAMEIRA, O. A. Propagação in vitro de chapéu-de-couro (Echinodorus cf. scaber Rataj): uma planta medicinal. Ciência e Agrotecnologia, v. 24, p. 74-80, 2000. Edição Especial",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/403710"
+        }
+      ]
+    },
+    {
+      "id": "chicoria",
+      "nome_popular": "Chicória",
+      "nome_cientifico": "Eryngium foetidum L.",
+      "familia": "Apiaceae.",
+      "uso_medicinal": "trata infecções no trato urinário e pedras nos rins.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cipo-da-india",
+      "nome_popular": "Cipó-da-índia",
+      "nome_cientifico": "Cissus sulcicaulis (Baker) Planch.",
+      "familia": "Vitaceae.",
+      "uso_medicinal": "alivia azia e gases.",
+      "parte_utilizada": "folhas e ramos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cipo-de-alho",
+      "nome_popular": "Cipó-de-alho",
+      "nome_cientifico": "Mansoa alliacea (Lam.) A.H.Gentry",
+      "familia": "Bignoniaceae.",
+      "uso_medicinal": "trata insuficiência respiratória, febre e dores.",
+      "parte_utilizada": "folhas e ramos.",
+      "pagina_catalogo_inicio": 29,
+      "paginas_catalogo": [
+        29
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cipo-puca",
+      "nome_popular": "Cipó-pucá",
+      "nome_cientifico": "Cissus verticillata (L.)",
+      "familia": "Vitaceae.",
+      "uso_medicinal": "atua como sudorífico, hipotensor, preventivo de derrame, antidiabético e anti-inflamatório.",
+      "parte_utilizada": "folhas e ramos.",
+      "pagina_catalogo_inicio": 30,
+      "paginas_catalogo": [
+        30
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ABREU, I. N. de; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; MORAIS, A. R. de; GEROMEL, C.; LADEIRA, A.; LAMEIRA, O. A. Propagação in vivo e in vitro de Cissus sicyoides, uma planta medicinal. Acta Amazonica, v. 33, n. 1, p. 1-7, jan. mar. 2003",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/402706"
+        },
+        {
+          "citacao": "MOREIRA, R. K. V. P. P.; LAMEIRA, O. A.; CAMPELO, M. F.; RAMIRES, A. C. S.; PACHECO, N. A. Avaliação fenológica da espécie Cissus sicyoides L. associada com a precipitação pluviométrica. In: SIMPÓSIO DE ESTUDOS E PESQUISAS EM CIÊNCIAS AMBIENTAIS NA AMAZÔNIA, 8., 2019, Belém, PA. Anais. Belém, PA: UEPA, 2019. v. 4, p. 48-52.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "citronela",
+      "nome_popular": "Citronela",
+      "nome_cientifico": "Cymbopogon winterianus Jowitt ex Bor",
+      "familia": "Graminae-Poaceae.",
+      "uso_medicinal": "atua como repelente para insetos, aromatizador, bactericida e calmante.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "copaibeira",
+      "nome_popular": "Copaibeira",
+      "nome_cientifico": "Copaifera reticulata Duche",
+      "familia": "Fabaceae-Caesalpinoideae.",
+      "uso_medicinal": "atua como anti-inflamatório, cicatrizante e em dermatoses.",
+      "parte_utilizada": "óleo extraído do lenho.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [
+        31,
+        32
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "LAMEIRA, O. A.; OLIVEIRA, E. C. P. de; POLTRONIERI, L. S. Avaliação da atividade antifúngica do óleo-resina de Copaifera spp. Horticultura Brasileira, v. 23, n. 2, p. 497, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936835"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; OLIVEIRA, E. C. P. de; ZOGHBI, M. das G. B. Identificação da época de coleta do óleo de copaíba (Copaifera sp.) no município de Moju-PA. Horticultura Brasileira, v. 23, n. 2, p. 495, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936833"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; BARROS, P. L. C. de; POLTRONIERI, L. S. Avaliação do óleo de copaíba (Copaifera) na inibição do crescimento micelial in vitro de fitopatógenos. Revista de Ciências Agrárias, n. 46, p. 53-61, jul./dez. 2006",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/405879"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; OLIVEIRA, E. C. P. de; ZOGHBI, M. das G. B. Determinação da época de coleta do óleo de copaíba (Copaifera spp.). Horticultura brasileira, v. 24, n. 1, p. 239, jul. 2006. Suplemento. Resumos do 46º Congresso Brasileiro de Olericultura, agosto 2006, em Goiânia",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/579682"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P.; LAMEIRA, O. A.; ZOGHBI, M. G. B. Identificação da época de coleta do óleo-resina de copaíba (Copaifera spp.) no município de Moju, PA. Revista Brasileira de Plantas Medicinais, v. 8, n. 3, p. 14-23, 2006",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/578061"
+        },
+        {
+          "citacao": "ZOGHBI, M. das G. B.; LAMEIRA, O. A.; OLIVEIRA, E. C. Seasonal variation of oleoresin and volatiles from Copaifera martii hayne growing wild in the State of Pará, Brazil. Journal Essential Oil Research, v. 19, n. 6, p. 504-506, 2007. OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; LAMEIRA, C. N. Avaliação do óleo de copaíba no crescimento micelial in vitro de fitopatógenos. In: CONGRESSO BRASILEIRO DE PLANTAS OLEAGINOSAS, ÓLEOS, GORDURAS E BIODIESEL, 5.; CLÍNICA TECNOLÓGICA EM BIODIESEL, 2., 2008, Lavras. Biodiesel: tecnologia limpa: anais completos. Lavras: UFLA, 2008",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/957297"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; LAMEIRA, C. N.; OLIVEIRA, E. C. P. de. Atividade do óleo de copaiba em três espécies fitopatógenas. In: CONGRESSO BRASILEIRO DE PLANTAS OLEAGINOSAS, ÓLEOS, GORDURAS E BIODIESEL, 6., 2009, Montes Claros. Biodiesel: inovação tecnológica: anais. Lavras: UFLA, 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/660510"
+        },
+        {
+          "citacao": "SACHETTI, C. G.; FASCINELI, M. L.; SAMPAIO, J. A.; LAMEIRA, O. A.; CALDAS, E. D. Avaliação da toxicidade aguda e potencial neurotóxico do óleo-resina de copaíba (Copaifera reticulata Ducke, Fabaceae). Revista Brasileira de Farmacognosia, v. 19, n. 4, p. 937-941, out./dez. 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/661326"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; FRANÇA, S. K. S. de; COSTA, R. C. da. Avaliação do óleo de Copaifera reticulata Ducke na inibição do crescimento micelial in vitro de fitopatógenos. In: CONGRESSO BRASILEIRO DE PLANTAS OLEAGINOSAS, ÓLEOS, GORDURAS E BIODIESEL, 6., 2009, Montes Claros. Biodiesel: inovação tecnológica: anais. Lavras: UFLA, 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/660506"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; OLIVEIRA, E. C. P. de; NONATO, C. V. F. Produção de óleo de Copaifera reticulata Ducke em diferentes épocas do ano na Floresta Nacional do Tapajós. In: JORNADA PAULISTA DE PLANTAS MEDICINAIS, 9., 2009, São Paulo. Anais... São Paulo: Instituto de Botânica, 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/660173"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; BORGES, F. I.; NONATO, C. V. de F. Produção sazonal do óleo de Copaifera reticulata Ducke na Floresta Nacional do Tapajós-PA. In: CONGRESSO BRASILEIRO DE PLANTAS OLEAGINOSAS, ÓLEOS, GORDURAS E BIODIESEL, 6., 2009, Montes Claros. Biodiesel: inovação tecnológica: anais. Lavras: UFLA, 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/660501"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; MARTINS-DA-SILVA, R. C. V.; ZOGHBI, M. das G. B.; OLIVEIRA, E. C. P. Seasonal variation in the volatiles of Copaifera duckei Dwyer growing wild in the state of Pará -Brazil. Journal of essential oil research, v. 21, n. 2, p. 105-107, Mar./Apr. 2009. SACHETTI, C. G.; CARVALHO, R. R. de; PAUMGARTTEN, F. J.; LAMEIRA, O. A.; CALDAS, E. D. Developmental toxicity of copaiba tree (Copaifera reticulata Ducke, Fabaceae) oleoresin in rat. Food and Chemical Toxicology, v. 49, n. 5, p. 1080-1085, 2011. GUIMARÃES-SANTOS, A.; LAMEIRA, O. A. Copaiba oil-resin treatment is neuroprotective and reduces neutrophil recruitment and microglia activation after motor cortex excitotoxic injury. Evidence-Based Complementary and Alternative Medicine, v. 2012, p. 1-9, 2012",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/950612"
+        },
+        {
+          "citacao": "ZIECH, R. E.; FARIAS, L. D.; BALZAN, C.; ZIECH, M. F.; HEINZMANN, B. M.; LAMEIRA, O. A.; VARGAS, A. C. de. Atividade antimicrobiana do oleorresina de copaíba (Copaifera reticulata) frente a Staphylococcus coagulase positiva isolados de casos de otite em cães. Pesquisa Veterinária Brasileira, v. 33, n. 7, p. 909-913, jun. 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/971137"
+        },
+        {
+          "citacao": "PIRES, H. C. G.; LAMEIRA, O. A.; ISHIDA, A. K. N.; CARVALHO, A. N. C. de. Ação da óleoresina de copaíba na inibição do crescimento micelial in vitro de fitopatógenos. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076292"
+        },
+        {
+          "citacao": "PIRES, H. C. G.; LAMEIRA, O. A.; BESERRA, R. B.; AMORIM, T. S. Caracterização morfológica das cascas de árvores de Copaifera reticulata Ducke em correlação com o solo de uma floresta manejada no município de Mojú - Pará. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076295"
+        },
+        {
+          "citacao": "GHIZONI, C. V. C.; AMES, A. P. A.; LAMEIRA, O. A.; AMADO, C. A. B.; NAKANISHI, A. B. S.; BRACHT, L.; NATALI, M. R. M.; PERALTA, R. M.; BRACHT, A.; COMAR, J. F. Anti-inflammatory and antioxidant actions of Copaiba oil are related to liver cell modifications in arthritic rats. Journal of Cellular Biochemistry, v. 118, n. 10, p. 3409-3423, 2017. WAGNER, V. P.; WEBBER, L. P.; ORTIZ, L.; RADOS, P. V.; MEURER, L.; LAMEIRA, O. A.; LIMA, R. R.; MARTINS, M. D. Effects of copaiba oil topical administration on oral wound healing. Phytotherapy Research, v. 31, n. 8, p. 1283-1288, 2017. TEIXEIRA, F. B.; SILVA, R. de B.; LAMEIRA, O. A.; WEBBER, L. P.; COUTO, R. S. D.; MARTINS, M. D.; LIMA, R. R. Copaiba oil-resin (Copaifera reticulata Ducke) modulates the inflammation in a model of injury to rats’ tongues. BMC Complementary and Alternative Medicine, v. 17, n. 1, article 313, June 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1072092"
+        },
+        {
+          "citacao": "LAMEIRA, C. N.; SANTOS FILHO, B. G. dos; LAMEIRA, O. A.; ALCOFORADO, R. S. R.; ALVES, H. F.; MEDEIROS, A. P. R. Inibição do crescimento micelial in vitro de fitopatógenos pela óleoresina de Copaifera reticulata Ducke (copaíba). Revista Cubana de Plantas Medicinales, v. 22, n. 4, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1100643"
+        },
+        {
+          "citacao": "BARBOSA, M. M. C.; VICENTINI, F. A.; CASTRO-GHIZONI, C. V.; LAMEIRA, O. A.; SÁ-NAKANISHI, A. B.; BRACHT, L.; PERALTA, R. M.; NATALI, M. R. M.; BRACHT, A.; COMAR, J. F. Copaiba oil decreases oxidative stress and inflammation but not colon damage in rats with TNBS-induced colitis. Endocrine, Metabolic & Immune Disorders. Drug Targets, v. 18, n. 3, p. 268-280, 2018. ALVARENGA, M. O. P.; BITTENCOURT, L. O.; MENDES, P. F. S.; RIBEIRA, J. T.; LAMEIRA, O. A.; MONTEIRO, M. C.; BARBOZA, C. A. G.; MARTINS, M. D.; LIMA, R. R. Safety and effectiveness of Copaiba Oleoresin (C. reticulata Ducke) on inflammation and tissue repair of oral wounds in rats. International Journal of Molecular Science, v. 21, n. 10, article 3568, 2020",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1122369"
+        },
+        {
+          "citacao": "SANTOS, V. R. N. dos; MOTTA, J. V. da S.; FRAZÃO, D. R.; FERREIRA, R. de O.; SOUZA-MONTEIRO, D.; BAIA-DA- SILVA, D. C.; MENDES, P. F. S.; BITTENCOURT, L. O.; MOURA, J. D. M. de; LAMEIRA, O. A.; BALBINOT, G. de S.; COLLARES, F. M.; RÖSING, C. K.; LIMA, R. R. Biological activity of copaiba in damage to the alveolar bone in a model of periodontitis induced in rats. Molecules, v. 27, n. 19, 6255, 2022",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1147853"
+        }
+      ]
+    },
+    {
+      "id": "coramina",
+      "nome_popular": "Coramina",
+      "nome_cientifico": "Euphorbia tithymaloides L.",
+      "familia": "Euphorbiaceae.",
+      "uso_medicinal": "trata sífilis, úlceras, verrugas e amenorreia, além de regenerar carne dilacerada.",
+      "parte_utilizada": "folhas, caule e látex.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "corrente",
+      "nome_popular": "Corrente",
+      "nome_cientifico": "Pfaffia glomerata (Spreng) Pedersen",
+      "familia": "Amaranthaceae.",
+      "uso_medicinal": "trata afecções hepáticas, diabete e hemorroidas.",
+      "parte_utilizada": "raiz e folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cuieira",
+      "nome_popular": "Cuieira",
+      "nome_cientifico": "Crescentia cujete L.",
+      "familia": "Bignoniaceae.",
+      "uso_medicinal": "atua como emoliante e expectorante, além de tratar dor de cabeça e asma.",
+      "parte_utilizada": "polpa dos frutos.",
+      "pagina_catalogo_inicio": 33,
+      "paginas_catalogo": [
+        33
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "cupuacuzeiro",
+      "nome_popular": "Cupuaçuzeiro",
+      "nome_cientifico": "Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.",
+      "familia": "Malvaceae.",
+      "uso_medicinal": "trata bronquites, infecções renais, diarreia.",
+      "parte_utilizada": "folhas e cascas.",
+      "pagina_catalogo_inicio": 34,
+      "paginas_catalogo": [
+        34
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "LEDO, A. da S.; LAMEIRA, O. A.; BENBADIS, A. K.; MOURA, E. F. Calogênese in vitro em diferentes explantes de cupuaçuzeiro (Theobroma grandiflorum (Willd. ex Spreng.) Schum.). In: CONGRESSO BRASILEIRO DE FISIOLOGIA VEGETAL, 8., 2001, Ilhéus. Resumos expandidos... Ilhéus: Sociedade Brasileira de Fisiologia Vegetal, 2001",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406269"
+        },
+        {
+          "citacao": "LEDO, A. da S.; LAMEIRA, O. A.; BENBADIS, A. K.; MOURA, E. F. Efeito da adição de água de coco em culturas de calos de cupuaçuzeiro (Theobroma grandiflorum (Willd. ex Spreng.) Schum.). In: CONGRESSO BRASILEIRO DE FISIOLOGIA VEGETAL, 8., 2001, Ilhéus. Anais... Ilhéus: SBFV, 2001",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/405446"
+        },
+        {
+          "citacao": "LEDO, A. da S.; LAMEIRA, O. A.; RENBADIS, A. K.; MOURA, E.; MENEZES, I. C. de. In vitro culture of cupuassu zygotic embryos (Theobroma gradiflorum (Willd.ex spreng.) Scham.). In: ENCUENTRO LATINOAMERICANO DE BIOTECNOLOGIA VEGETAL, REDBIO, 4., 2001, Goiânia. [Trabajos presentados]. Goiânia: REDBIO, 2001",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/404083"
+        },
+        {
+          "citacao": "LEDO, A. da S.; LAMEIRA, O. A.; BENBADIS, A. K. Explantes de cupuaçuzeiro submetidos a diferentes condições de cultura in vitro. Revista Brasileira de Fruticultura, v. 24, n. 3, p. 604-607, dez. 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/408506"
+        },
+        {
+          "citacao": "LEDO, A. da S.; LAMEIRA, O. A.; BENBADIS, A. K.; MEDEIROS FILHO, S.; MENEZES, I. C. de. Cultura in vitro de embriões zigóticos de cupuaçuzeiro (Theobroma ghrandiflorum Schum.). Revista de Ciências Agrarias, n. 40, p. 73-80, jul./dez. 2003",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/402996"
+        }
+      ]
+    },
+    {
+      "id": "curaua",
+      "nome_popular": "Curauá",
+      "nome_cientifico": "Ananas comosus (L.) Merril",
+      "familia": "Bromeliaceae.",
+      "uso_medicinal": "é refrescante, diurético, expectorante, anti-inflamatório, digestivo.",
+      "parte_utilizada": "fruto.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [
+        35,
+        36
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "REIS, I. N. R. de S.; LAMEIRA, O. A. Aprimoramento de protocolos de propagação in vitro de curauá (Ananas erectifolius) e pimenta-do-reino (Piper nigrum L). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA FCAP, 12.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 6., 2002, Belém, PA. A contribuição do profissional de Ciências Agrárias no uso e conservação da biodiversidade: anais. Belém, PA: FCAP: Embrapa Amazônia Oriental, 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/959123"
+        },
+        {
+          "citacao": "COSTA, M. R.; LAMEIRA, O. A.; YOSBINO, V. C. Caracterização genética do Curauá (Ananas erectifolius) através de marcadores RAPD. Biotecnologia Ciência & Desenvolvimento, v. 5, n. 26, p. 28-30, 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/405903"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; REIS, I. N. R. de S.; CORDEIRO, I. M. C. C. Otimização da propagação in vitro de Curauá (Ananas erectifolius L. B. Smith). Biotecnologia Ciência e Desenvolvimento, n. 30, p. 78-81, 2003",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406916"
+        },
+        {
+          "citacao": "CORDEIRO, I. M. C. C.; LAMEIRA, O. A.; OLIVEIRA, E. C. P. de. Comportamento do curauá (Ananas erectifolius L. B. Smith) em plantio de paricá (Schizolobium amazonicum Hube ex Ducke) de diferentes idades. In: CONGRESSO BRASILEIRO DE SISTEMAS AGROFLORESTAIS, 5., 2004, Curitiba. SAFs: desenvolvimento com proteção ambiental: anais. Colombo: Embrapa Florestas, 2004. p. 329-331. (Embrapa Florestas. Documentos, 98)",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/401728"
+        },
+        {
+          "citacao": "REIS, I. N. R. de S.; LAMEIRA, O. A.; CORDEIRO, I. M. C. C. Efeito da adubação orgânica e de NPK no desenvolvimento de curauá (Ananas erectfolius). In: CONGRESSO BRASILEIRO DE SISTEMAS AGROFLORESTAIS, 5., 2004, Curitiba. SAFs: desenvolvimento com proteção ambiental: anais. Colombo: Embrapa Florestas, 2004. p. 332-334. il. (Embrapa Florestas. Documentos, 98)",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/402039"
+        },
+        {
+          "citacao": "ALBIM, E. de M. e S.; LAMEIRA, O. A.; REIS, I. N. R. de S.; PANTOJA, S. do S. P. Assepsia e estabelecimento in vitro de gemas axilares de curauá (Ananas erectifolius L.B. Smith) - Bromeliaceae. Revista de Ciências Agrárias, n. 43, p. 17-28, jan./jun. 2005",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/388139"
+        },
+        {
+          "citacao": "RODRIGUES, H. C. de A.; PEREIRA, F. D.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; TEIXEIRA, R. N.; ROSADO, L. D. S.; SOUZA, R. R. de; BEIJO, L. A.; LAMEIRA, O. A. Avaliação da biomassa fresca e seca de plântulas de curauá submetidos a diferentes condições de cultivo. Horticultura Brasileira, v. 23, n. 2, p. 650, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936860"
+        },
+        {
+          "citacao": "PEREIRA, F. D.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; ROSADO, L. D. S.; RODRIGUES, H. C. de A.; SOUZA, R. R. de; TEIXEIRA, R. N.; BEIJO, L. A.; LAMEIRA, O. A. Avaliação de tampas na indução de brotos estiolados e na micropropagação de plântulas de curauá. Horticultura Brasileira, v. 23, n. 2, p. 633, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936850"
+        },
+        {
+          "citacao": "TEIXEIRA, R. N.; PEREIRA, F. D.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; SOUZA, R. R. de; RODRIGUES, H. C. de A.; ROSADO, L. D. S.; BEIJO, L. A.; LAMEIRA, O. A. Avaliação do volume de meio na proliferação in vitro de brotos de curauá. Horticultura Brasileira, v. 23, n. 2, p. 511, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936826"
+        },
+        {
+          "citacao": "REIS, I. N. R. de S.; LAMEIRA, O. A.; CORDEIRO, I. M. C. Desenvolvimento do curauá (Anana erectifolius L.B.Smith) a partir de adubação orgânica e de NPK. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575669"
+        },
+        {
+          "citacao": "PEREIRA, F. D.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; SOUZA, R. R. de; ROSADO, L. D. S.; RODRIGUES, H. C. de A.; TEIXEIRA, R. N.; BEIJO, L. A.; LAMEIRA, O. A. Diferentes condições de cultivo de brotos estiolados para obtenção de mudas de curauá. Horticultura Brasileira, v. 23, n. 2, p. 633, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936847"
+        },
+        {
+          "citacao": "ALBIM, E. de M. e S.; LAMEIRA, O. A.; REIS, I. N. R. de S. Propagação in vitro de curauá (Ananas erectifolius L.B.Smith) - Bromeliaceae. Revista de Ciências Agrárias, n. 44, p. 131-143, jul./dez. 2005",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053075"
+        },
+        {
+          "citacao": "ROSADO, L. D. S.; PEREIRA, F. D.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; SOUZA, R. R. de; RODRIGUES, H. C. de A.; TEIXEIRA, R. N.; BEIJO, L. A.; LAMEIRA, O. A. Tamanho do explante utilizado para obtenção de brotos estiolados in vitro de curauá. Horticultura Brasileira, v. 23, n. 2, p. 649, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936830"
+        },
+        {
+          "citacao": "CORDEIRO, I. M. C. C.; LAMEIRA, O. A.; OHASHI, S. T. Avaliação do crescimento do paricá (Shizolobium parahyba var. amazonicum Huber ex Ducke (Barneby)) consorciado com curauá (Ananas erectifolius L. B. Smith) em diferentes idades de plantio. In: CONGRESSO BRASILEIRO DE SISTEMAS AGROFLORESTAIS, 6., 2006, Campos dos Goytacazes. Sistemas agroflorestais: bases científicas para o desenvolvimento sustentável. Campos dos Goytacazes: Universidade Estadual do Norte Fluminense Darcy Ribeiro; Salvador: Sociedade Brasileira de Sistemas Agroflorestais, 2006. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/577229"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; MONFORT, L. E. F.; MENESES, A. A. S. de. Efeito do ácido giberélico sobre o desenvolvimento in vitro de gemas de curauá (Ananas erectifolius L. B. Smith). Horticultura brasileira, v. 24, n. 1, p. 232, jul. 2006. Suplemento. Resumos do 46º Congresso Brasileiro de Olericultura, agosto 2006, em Goiânia",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/579676"
+        },
+        {
+          "citacao": "PEREIRA, F. D.; PINTO, J. E. B. P.; RODRIGUES, H. C. de A.; ROSADO, L. D. S.; BEIJO, L. A.; LAMEIRA, O. A. Proliferação in vitro de brotos de curauá utilizando diferentes volumes de meio de cultura. Plant Cell Culture & Micropropagation, v. 2, n. 2, p. 102-106, 2006",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/579080"
+        },
+        {
+          "citacao": "PEREIRA, F. D.; PINTO, J. E. B. P.; ROSADO, L. D. S.; CASTRO, D. M. de; RODRIGUES, H. C. de A.; BEIJO, L. A.; LAMEIRA, O. A. Caracteres anatômicos de fibras foliares de brotações de curauá propagadas in vitro. Acta Scientiarum Biological Science, v. 29, n. 1, p. 23-28, jan./mar. 2007. Título em inglês: Anatomical characters of curauá foliar fibers from plantlets in vitro propagation",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409257"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; SOUZA, F. I. B. de; SILVA, R. J. F. da; GARCIA, T. B.; SILVA, L. M. da. Caracterização anatômica de Ananas comosus var. erectifolius (Bromeliaceae). In: CONGRESSO NACIONAL DE BOTÂNICA, 58., 2007, São Paulo. A botânica no Brasil: pesquisa, ensino e políticas públicas ambientais: resumos. São Paulo: Sociedade Botânica do Brasil, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409296"
+        },
+        {
+          "citacao": "CORDEIRO, I. M. C. C. Comportamento de Schizolobium parahyba var. amazonicum (Huber ex Ducke) Barneby e Ananas comosus var. erectifolius (L. B. Smith) Coppens & leal sob diferentes sistemas de cultivo no município de Aurora do Pará (PA). 2007. 115 f. Tese (Doutorado em Ciências Agrárias) – Universidade Federal Rural da Amazônia, Belém, PA. Orientador: Osmar Alves Lameira, Embrapa Amazônia Oriental. LAMEIRA, O. A.; MONFORT, L. E. F.; SALDANHA, A. L. M. Efeito de substratos na formação de mudas de curauá (Ananas comosus var. erectifolius L. B. Smith). In: CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 16.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 3.; SIMPÓSIO DE PLANTAS ORNAMENTAIS NATIVAS, 1., 2007, Goiânia. Biodiversidade e competitividade: buscando novas opções. Campinas: Sociedade Brasileira de Floricultura e Plantas Ornamentais, 2007",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/391951"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de. Influência da radiação fotossinteticamente ativa (RFA) nas propriedades físico- mecânicas das fibras e na anatomia foliar de Ananas comosus var. erectifolius (L.B.Smith) Coppens & Leal (curauá) em sistemas agroflorestais. 2007. 75 f. il. Tese (Doutorado em Ciências Agrárias) – Universidade Federal Rural da Amazônia, Belém, PA. Orientador: Osmar Alves Lameira, Embrapa Amazônia Oriental. SILVA, G. M. da; LAMEIRA, O. A.; NONATO, C. V. de F. Efeito de diferentes concentrações de 2,4-D em rosetas de curauá cultivadas in vitro. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 6.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO - 2008), 12., 2008, Belém, PA. A importância da iniciação científica para a pós-graduação: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2008",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/393878"
+        },
+        {
+          "citacao": "NONATO, C. V. de F.; LAMEIRA, O. A.; SILVA, G. M. da. Efeito do BAP no subcultivo in vitro de brotos de curauá (Annanas erectifolius L. B. SMITH). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 6.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO - 2008), 12., 2008, Belém, PA. A importância da iniciação científica para a pós-graduação: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2008",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409901"
+        },
+        {
+          "citacao": "OLIVEIRA, E. C. P. de; LAMEIRA, O. A.; SOUSA, F. I. B. de; SILVA, R. J. F. Estrutura foliar de curauá em diferentes intensidades de radiação fotossinteticamente ativa. Pesquisa Agropecuária Brasileira, v. 43, n. 2, p. 163- 169, fev. 2008. CORDEIRO, I. M. C. C.; SANTANA, A. C. de; LAMEIRA, O. A.; SILVA, I. M. Análise econômica dos sistemas de cultivo com Schizolobium parahyba var. amazonicum (Huber ex Ducke) Barneby (Paricá) e Ananas comosus var. erectifolius (L. B. Smith) Coppus & Leal (Curauá) no município de Aurora do Pará (PA), Brasil. Revista de la Facultad de Agronomía, v. 26, n. 2, p. 243-265, abr./jun. 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/658250"
+        },
+        {
+          "citacao": "LAMEIRA, O. A. Aspectos técnicos e sócio-econômicos da aplicação da micropropagação na produção de fibras: o caso do curauá. In: CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 17.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 4., 2009, Aracaju. Ciência, inovação e sustentabilidade. Aracaju: Embrapa Tabuleiros Costeiros; Cruz das Almas: Embrapa Mandioca e Fruticultura Tropical, 2009. 1 CD-ROM. (Embrapa Tabuleiros Costeiros. Documentos, 150)",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/658943"
+        },
+        {
+          "citacao": "CORDEIRO, I. M. C. C.; LAMEIRA, O. A.; GAZEL FILHO, A. B. Influência de diferentes intensidades de luz sob o cultivo de curauá. In: CONGRESSO BRASILEIRO DE SISTEMAS AGROFLORESTAIS, 7., 2009, Luziánia. Diálogo e integração de saberes em sistemas agroflorestais para sociedades sustentáveis. [Luziânia]: Sociedade Brasileira de Sistemas Agroflorestais; [Brasília, DF]: EMATER-DF: Embrapa, 2009. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/657112"
+        },
+        {
+          "citacao": "NONATO, C. V. de F.; LAMEIRA, O. A.; SILVA, G. M. da. Eliminação de contaminantes microbianos em gemas de Curauá (Ananas erectifolius L. B. Smith). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 14., 2010, Belém, PA. Bolsista de iniciação científica: um aporte ao desenvolvimento da pesquisa agropecuária: anais. Belém, PA: Embrapa Amazônia Oriental, 2010. 1 CD-ROM. PIBIC 2010",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/880053"
+        },
+        {
+          "citacao": "ANDRADE, C. R. S.; LAMEIRA, O. A.; TRINDADE, M. J. de S. Padrão de venação de Ananas comosus var. erectifolius (L.B. Smith) Coppens & F. LEAL In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994699"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; MAVÃO, L. dos S.; ASSIS, R. M. A. de. Fenológia da espécie - Ananas comosus (L.) Merr. var. erectifolius (L. B. Smith) Coppens & F. Leal. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076344"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; GIMENES, M. A.; NEVES, R. L. P.; OLIVEIRA, M. do S. P. de; RODRIGUES, S. de M.; DIONISIO, L. F. S.; COSTA, M. R. T. da R. Curauá genetic diversity in germplasm banks and natural populations. Journal of Plant Breeding and Crop Science, v. 10, n. 12, p. 347-353, Dec. 2018. CORDEIRO, I. M.; SCHWARTZ, G.; FERREIRA, G. C.; LAMEIRA, O. A. Crescimento inicial de curauá e paricá submetidos à aplicação de extrato vegetal de curauá. Revista Verde, v. 14, n. 4, p. 586-590, out./dez. 2019",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1120646"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; PONTAL, R. K. V. P.; CAMPELO, M. F.; NEVES, R. L. P.; CORDEIRO, I. M. C. C.; PIRES, H. C. G. Características morfológicas, agronômicos e genéticas das espécies Pilocarpus microphyllus Stapf ex Wardleworth, Ananas comosus var. erectifolius (L.B. Smith) Coppens & F. Leal e Psychotria ipecacuanha brotero stokes. In: LAMEIRA, O. A.; CORDEIRO, I. M. C. C.; PIRES, H. C. G. (org.). Avaliação dos descritores morfoagronômico e morfoanatomia da lâmina foliar de Pilocarpus microphyllus Stapf ex Wardleworth - Rutaceae, Ananas comosus var. erectifolius (L. B. Smith) Coppens & F. Leal - Bromeliacea e Psychotria ipecacuanha (Brot.) Stokes – Rubiaceae. Curitiba: Appris, 2020. Cap. 2, p. 35-61. CAMPELO, M. F.; LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; RAMIRES, A. C. S. Fenologia reprodutiva de Ananas comosus var. erectifolius (L. B. Smith) Coppens & F. Leal. e sua correlação com a temperatura média do ar e precipitação pluviométrica. Research, Society and Development, v. 10, n. 5, e7010514621, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1134704"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; RAMIRES, A. C. S. Avaliação morfológica de Ananas comosus var. erectifolius (L. B. Smith) Coppens & F. Leal-Bromeliacea. Research, Society and Development, v. 10, n. 9, e20010915284, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1139261"
+        }
+      ]
+    },
+    {
+      "id": "damiana",
+      "nome_popular": "Damiana",
+      "nome_cientifico": "Turnera ulmifolia L.",
+      "familia": "Turneraceae.",
+      "uso_medicinal": "atua como emoliente e tônico geral, além de tratar diabete.",
+      "parte_utilizada": "raiz e folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; ASSIS, R. M. A. de; PORTAL, R. K. V. P. Avaliação fenológica da espécie Turnera diffusa Willd. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994719"
+        }
+      ]
+    },
+    {
+      "id": "dende",
+      "nome_popular": "Dendê",
+      "nome_cientifico": "Elaeis oleifera (Kunth) Cortés",
+      "familia": "Arecaceae.",
+      "uso_medicinal": "atua como anódino, antídoto, afrodisíaco, emoliente, antirreumático e vermífugo.",
+      "parte_utilizada": "folhas, frutos ou óleo do fruto.",
+      "pagina_catalogo_inicio": 37,
+      "paginas_catalogo": [
+        37
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "elixir-paregorico",
+      "nome_popular": "Elixir paregórico",
+      "nome_cientifico": "Piper callosum Ruiz & Pav.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "trata diarreias, cólicas menstruais e intestinais.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 38,
+      "paginas_catalogo": [
+        38
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Avaliação fenológica da espécie Piper callosus L. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970415"
+        }
+      ]
+    },
+    {
+      "id": "embauba",
+      "nome_popular": "Embaúba",
+      "nome_cientifico": "Cecropia obtusa Trécul",
+      "familia": "Urticaceae.",
+      "uso_medicinal": "diurética, cardiotônica, expectorante.",
+      "parte_utilizada": "folha, raiz e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RAMOS, T. J. N.; FREITAS, K. C.; LAMEIRA, O. A. Conteúdo de Ca, Cu, Fe, K, Mg, Mn, Na e Zn em chás de Cecropia obtusa Trécul (Cecropiaceae). In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 2., 2012, Belém, PA. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2012. 1 CD-ROM. RAMOS, T. de J. N. Compostos fenólicos, atividade antioxidante e efeito da sazonalidade na composição mineral em folhas de Cecropia obtusa Trécul. e Cecropia palmata Will. (Cecropiaceae). 2013. 72 f. Tese (Doutorado em Ciências Agrárias) – Universidade Federal Rural da Amazônia, Belém, PA. Orientador: Osmar Alves Lameira, Embrapa Amazônia Oriental. RAMOS, T. de J. N.; LAMEIRA, O. A.; FAIAL, K. do C. F.; RIBEIRO, F. N. S. Conteúdo de Ca, Cu, Fe, K, Mg, Mn, Na e Zn em chás de Cecropia palmata Willd. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970489"
+        }
+      ]
+    },
+    {
+      "id": "erva-cidreira",
+      "nome_popular": "Erva-cidreira",
+      "nome_cientifico": "Lippia alba (Mill.) N.E.Br. ex P.Wilson",
+      "familia": "Verbenaceae.",
+      "uso_medicinal": "atua como digestivo e trata cólicas.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "RIBEIRO, F. N. S.; LAMEIRA, O. A.; ASSIS, R. M. A. de; PORTAL, R. K. V. P. Caracterização fenológica de duas espécies de Lippia spp. In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 5., 2013, Belém, PA. A importância da tecnologia e do empreendedorismo no desenvolvimento amazônico. Belém, PA: UFRA, 2013. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/974558"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; SOUZA, I. N. G.; MAVÃO, L. dos S. Fenologia de Lippia alba (Mill.) N.E.Br. (Verbenaceae) no município de Belém-Pará. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076356"
+        },
+        {
+          "citacao": "RAMIRES, A. C. S.; LAMEIRA, O. A.; SOUZA, I. N. G.; PORTAL, R. K. V. P.; CAMPELO, M. F. Fenologia reprodutiva da erva cidreira (Verbenaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 23., 2019, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2019. p. 128-131",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1113346"
+        }
+      ]
+    },
+    {
+      "id": "erva-de-jaboti",
+      "nome_popular": "Erva-de-jaboti",
+      "nome_cientifico": "Peperomia pellucida (L.) Kunth.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "atua como diurético, emoliente e trata tosse.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": 39,
+      "paginas_catalogo": [
+        39
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "espada-de-sao-jorge",
+      "nome_popular": "Espada-de-são-jorge",
+      "nome_cientifico": "Sansevieria trifasciata Prain",
+      "familia": "Asparagaceae. Uso ornamental.",
+      "uso_medicinal": "",
+      "parte_utilizada": "",
+      "pagina_catalogo_inicio": 40,
+      "paginas_catalogo": [
+        40
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "espinheira-santa",
+      "nome_popular": "Espinheira-santa",
+      "nome_cientifico": "Monteverdia ilicifolia (Mart. ex Reissek) Biral",
+      "familia": "Celastraceae.",
+      "uso_medicinal": "trata gastrite, indigestão, azia, úlcera.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "eucalipto",
+      "nome_popular": "Eucalipto",
+      "nome_cientifico": "Eucalyptus angulosa Schauer",
+      "familia": "Myrtaceae.",
+      "uso_medicinal": "atua como expectorante e trata resfriados.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "falsa-ipeca",
+      "nome_popular": "Falsa-ipeca",
+      "nome_cientifico": "Pombalia calceolaria (L.) Paula Souza",
+      "familia": "Violaceae.",
+      "uso_medicinal": "atua como expectorante e trata bronquite.",
+      "parte_utilizada": "folhas e raízes.",
+      "pagina_catalogo_inicio": 41,
+      "paginas_catalogo": [
+        41
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "BARBOSA, S. M.; LAMEIRA, O. A.; PORTAL, R. K. V. P.; ASSIS, R. M. A. de. Caracterização fenológica da espécie Hybanthus ipecacuanha (L.) Saill. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994573"
+        }
+      ]
+    },
+    {
+      "id": "falso-girassol",
+      "nome_popular": "Falso girassol",
+      "nome_cientifico": "Tithonia diversifolia (Hemsl.) A. Gray",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "atua como anti-inflamatório, antimalárico e trata diabetes.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 42,
+      "paginas_catalogo": [
+        42
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "flamboyant",
+      "nome_popular": "Flamboyant",
+      "nome_cientifico": "Delonix regia (Bojer ex Hook.) Raf.",
+      "familia": "Fabaceae-Caesalpinoideae.",
+      "uso_medicinal": "atua como antibacteriano, antidiabético, antidiarreico, antifúngico, antinflamatório, antimalárico, antimicrobiano.",
+      "parte_utilizada": "folhas, flores, sementes e cascas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "flecha-de-sao-jorge",
+      "nome_popular": "Flecha-de-são-jorge",
+      "nome_cientifico": "Sansevieria cylindrica Bojer ex Hook.",
+      "familia": "Asparagaceae.",
+      "uso_medicinal": "atua como analgésico, antioxidante, antimutagênico, antinflamatório e hepatoprotetor.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "forsangue",
+      "nome_popular": "Forsangue",
+      "nome_cientifico": "Justicia secunda Vahl",
+      "familia": "Acanthaceae.",
+      "uso_medicinal": "trata anemia ferropriva, dores estomacais e diarreia.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 43,
+      "paginas_catalogo": [
+        43
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "gengibre",
+      "nome_popular": "Gengibre",
+      "nome_cientifico": "Zingiber officinale Roscoe",
+      "familia": "Zingiberaceae.",
+      "uso_medicinal": "trata cólicas, dores de garganta e resfriados.",
+      "parte_utilizada": "rizoma.",
+      "pagina_catalogo_inicio": 44,
+      "paginas_catalogo": [
+        44
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "ginja",
+      "nome_popular": "Ginja",
+      "nome_cientifico": "Eugenia uniflora L.",
+      "familia": "Myrtaceae.",
+      "uso_medicinal": "atua como antioxidante, hipoglicemiante e antirreumático.",
+      "parte_utilizada": "folhas e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "goiabeira",
+      "nome_popular": "Goiabeira",
+      "nome_cientifico": "Psidium guajava L.",
+      "familia": "Myrtaceae.",
+      "uso_medicinal": "tem ação digestiva, antibiótica, cicatrizante, anti-hemorrágica e relaxante.",
+      "parte_utilizada": "folhas e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "graviola",
+      "nome_popular": "Graviola",
+      "nome_cientifico": "Annona muricata L.",
+      "familia": "Annonaceae.",
+      "uso_medicinal": "trata diabete, bronquite e atua como calmante.",
+      "parte_utilizada": "folhas, flores e frutos.",
+      "pagina_catalogo_inicio": 45,
+      "paginas_catalogo": [
+        45
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Caracterização de aspectos fenológicos da espécie Annona muricata L. In: SIMPÓSIO DE ESTUDOS E PESQUISAS EM CIÊNCIAS AMBIENTAIS NA AMAZÔNIA, 2., 2013, Belém, PA. [Anais]. [Belém, PA]: Universidade do Estado do Pará, Centro de Ciências Naturais e Tecnologia, 2013. p. 241-246",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/978360"
+        }
+      ]
+    },
+    {
+      "id": "guaco",
+      "nome_popular": "Guaco",
+      "nome_cientifico": "Mikania laevigata Sch. Bip. ex Baker",
+      "familia": "Asteraceae-Compositae.",
+      "uso_medicinal": "atua como antiasmático, diurético e broncodilador.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 46,
+      "paginas_catalogo": [
+        46
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "guarana",
+      "nome_popular": "Guaraná",
+      "nome_cientifico": "Paullinia cupana Kunth",
+      "familia": "Sapindaceae.",
+      "uso_medicinal": "atua como tônico e trata diarreia e males do estômago.",
+      "parte_utilizada": "sementes.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "hortelazinho",
+      "nome_popular": "Hortelãzinho",
+      "nome_cientifico": "Mentha pulegium L.",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "trata gases e atua como vermífugo e analgésico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "ingazeiro",
+      "nome_popular": "Ingazeiro",
+      "nome_cientifico": "Inga edulis Mart.",
+      "familia": "Fabaceae-Mimosoideae.",
+      "uso_medicinal": "atua na cicatrização e trata bronquite.",
+      "parte_utilizada": "casca e fruto.",
+      "pagina_catalogo_inicio": 47,
+      "paginas_catalogo": [
+        47
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "ipe-anao",
+      "nome_popular": "Ipê-anão",
+      "nome_cientifico": "Tecoma stans (L.) Juss. ex Kunth",
+      "familia": "Bignoniaceae.",
+      "uso_medicinal": "trata diabetes, problemas digestivos e infecções bacterianas.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 48,
+      "paginas_catalogo": [
+        48
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "ipeca",
+      "nome_popular": "Ipeca",
+      "nome_cientifico": "Carapichea ipecacunha (Brot.) L. Anderson",
+      "familia": "Rubiaceae.",
+      "uso_medicinal": "trata diarreia, amebíase e tosse.",
+      "parte_utilizada": "raiz.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [
+        49,
+        50
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "COSTA, M. P.; PINTO, J. E. B. P.; FRANÇA, S. de C.; LAMEIRA, O. A.; CONCEIÇÃO, H. O. da; SANTIAGO, E. J. A. de. Crescimento e teor de emetina em plantas de ipeca (Cephaelis ipecacuanha A.Richard.) obtidas in vitro e submetidas às condições de soluções nutritivas em casa-de-vegetação. Ciência e Agrotecnologia, v. 24, n. 1, p. 46-53, jan./mar. 2000",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/405818"
+        },
+        {
+          "citacao": "SANTIAGO, E. J. A. de; PINTO, J. E. B. P.; LAMEIRA, O. A.; SILVA, F. G.; LIMA, P. S. G.; SOUZA, A. V.; CORRÊA, R. M. Indução de brotações em rizomas de ipeca. Horticultura Brasileira, v. 18, p. 971-972, jul. 2000. Suplemento. il. Trabalhos e palestras apresentados no 40º. Congresso Brasileiro de Olericultura; 2º Congresso Ibero- Americamo sobre Utilização de Plástico na Agricultura; 1º Simpósio Latino-Americano de Produção de Plantas Medicinais, Aromáticas e Condimentares",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/403840"
+        },
+        {
+          "citacao": "REIS, L. R. de S.; LAMEIRA, O. A.; LOPES, S. da C. Propagação in vitro de duas espécies florestais: cedro (Cedrela odorata) e ipeca (Cephaelis ipecacuanha). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA FCAP, 12.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 6., 2002, Belém, PA. A contribuição do profissional de Ciências Agrárias no uso e conservação da biodiversidade: anais. Belém, PA: FCAP: Embrapa Amazônia Oriental, 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/959120"
+        },
+        {
+          "citacao": "SILVA, F. G.; PINTO, J. E. B. P.; BERTOLUCCI, S. K. V.; LAMEIRA, O. A.; CASTRO, N. E. A. Acúmulo da biomassa em ipeca cultivada em casa-de-vegetação sob diferentes fontes e doses de matéria orgânica. Horticultura Brasileira, v. 20, n. 2, p. 355, jul. 2002. Suplemento 1",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406678"
+        },
+        {
+          "citacao": "DINIZ, I. G.; COSTA, M. R.; LAMEIRA, O. A. Caracterização genética da ipecacuanha (Psychotria ipecacuanha Stokes) através de marcadores RAPD. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA FCAP, 11.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2001), 5., 2001, Belém, PA. Resumos. Belém, PA: FCAP: Embrapa Amazônia Oriental, 2002. p. 195",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/408272"
+        },
+        {
+          "citacao": "LAMEIRA, O. A. Cultivo da ipecacuanha [Psychotria ipecacuanha (Brot.) Stokes]. Belém, PA: Embrapa Amazônia Oriental, 2002. 4 p. il. (Embrapa Amazônia Oriental. Circular técnica, 28)",
+          "url": "http://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/405771"
+        },
+        {
+          "citacao": "LIMA, P. S. G.; REIS, E. S.; CORRÊA, R. M.; CIRILLO, M.; PINTO, J. E. B. P.; SANTOS, J. B. dos; LAMEIRA, O. A. Estabelecimento da concentração de nitrogênio total no meio de cultura para micropropagação de ipeca, Psychotria ipecacuanha (brot.) Stokes. Horticultura Brasileira, v. 20, n. 2, jul. 2002. Suplemento 2. Cópia de trabalho editado em CD-ROM que contém os resumos expandidos do 42º Congresso Brasileiro de Olericultura e 11º Congresso Latino Americano de Horticultura, Uberlândia, 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406322"
+        },
+        {
+          "citacao": "DINIZ, I. G.; COSTA, M. R.; LAMEIRA, O. A. Caracterização genética da ipecacuanha (Psychotria ipecacuanha Stokes) através de marcadores RAPD. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA FCAP, 11.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2001), 5., 2001, Belém, PA. Resumos. Belém, PA: FCAP: Embrapa Amazônia Oriental, 2002. p. 195",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/408272"
+        },
+        {
+          "citacao": "REIS, É. S.; PINTO, J. E. B. P.; CORRÊA, R. M.; BERTOLUCCI, S. K. V.; LAMEIRA, O. A. Tamanhos e posições de explantes e volumes de meio de cultivo na multiplicação de ipeca (Psychotria ipecacuanha (Brot.) Stokes) in vitro. Ciência e Agrotecnologia, v. 28, n. 3, p. 703-709, maio/jun. 2004",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/908281"
+        },
+        {
+          "citacao": "ILKIU-BORGES, F. de S.; RODRIGUES, S. T.; SILVA, R. C. V. M. da; LAMEIRA, O. A.; PEREIRA, M. da S. Caracterização morfológica de Psychotria ipecacuanha dos acessos integrantes do banco de germoplasma da Embrapa Amazônia Oriental. In: CONGRESSO NACIONAL DE BOTÂNICA, 58., 2007, São Paulo. A botânica no Brasil: pesquisa, ensino e políticas públicas ambientais: resumos. São Paulo: Sociedade Botânica do Brasil, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409287"
+        },
+        {
+          "citacao": "MONFORT, L. E. F.; LAMEIRA, O. A.; SALDANHA, L. M. Propagação “in vitro” de acessos de Psychotria ipecacuanha. In: JORNADA DE INICIAÇÃO CIENTÍFICA DO PET, 2., 2007, Belém, PA. Iniciação científica e a formação profissional: anais. Belém, PA: PROEN/UFRA, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409425"
+        },
+        {
+          "citacao": "SILVA, G. M. da; LAMEIRA, O. A.; NONATO, C. V. de F. Efeito de diferentes concentrações de AIB no enraizamento in vitro de Psychotria ipecacuanha - Rubiaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 6.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO - 2008), 12., 2008, Belém, PA. A importância da iniciação científica para a pós-graduação: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2008",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/658936"
+        },
+        {
+          "citacao": "SILVA, G. M. da; LAMEIRA, O. A.; NONATO, C. V. de F. Efeito do BAP no crescimento in vitro de brotos de acessos de Psychotria ipecacuanha - Rubiaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 6.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO - 2008), 12., 2008, Belém, PA. A importância da iniciação científica para a pós-graduação: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2008",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/408926"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; SILVA, G. M. da; NONATO, C. V. de F. Multiplicação in vitro de acessos de ipecacuanha. In: SIMPÓSIO BRASILEIRO DE RECURSOS GENÉTICOS, 2., 2008, Brasília, DF. Anais... Brasília, DF: Embrapa Recursos Genéticos e Biotecnologia, 2008. p. 374",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409646"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; SILVA, G. M. da. Efeito do AIB no enraizamento in vitro de Psychotria ipecacuanha Stokes. In: CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 17.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 4., 2009, Aracaju. Ciência, inovação e sustentabilidade. Aracaju: Embrapa Tabuleiros Costeiros; Cruz das Almas: Embrapa Mandioca e Fruticultura Tropical, 2009. 1 CD-ROM. (Embrapa Tabuleiros Costeiros. Documentos, 150)",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/658936"
+        },
+        {
+          "citacao": "SILVA, G. M. da; LAMEIRA, O. A.; NONATO, C. V. de F. Efeito de diferentes concentrações de sacarose no enraizamento in vitro de ipeca. In: SEMINÁRIO CIENTÍFICO DA UFRA, 7.; SEMINÁRIO [DE INICIAÇÃO CIENTÍFICA] DA EMBRAPA AMAZÔNIA ORIENTAL, 13.; SEMINÁRIO DE PESQUISA DA UFRA, 1., 2009, Belém, PA. Pesquisa e desenvolvimento tecnológico na formação do jovem cientista: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2009. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/661580"
+        },
+        {
+          "citacao": "GOMES, R. S. D. L.; OLIVEIRA, V. del C.; JACOME, R. L. R. P.; PINTO, J. E. B. P.; LAMEIRA, O. A.; BARROS, A. M. D. Estudo morfoanatômico comparativo entre a poaia (Psychotria ipecacuanha (Brot.) Stokes - Rubiaceae) obtida da região Amazônica (habitat original) e proveniente de processo biotecnológico submetida a diferentes tratamentos de interceptação da radiação solar. Revista Brasileira de Farmacognosia, v. 19, n. 1B, p. 276-283, jan./mar. 2009",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/658230"
+        },
+        {
+          "citacao": "SILVA, G. M. da; LAMEIRA, O. A.; NONATO, C. V. de F. Efeito de diferentes concentrações de nitrogênio no desenvolvimento e enraizamento in vitro de Psychotria ipecacuanha - Rubiaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 14., 2010, Belém, PA. Bolsista de iniciação científica: um aporte ao desenvolvimento da pesquisa agropecuária: anais. Belém, PA: Embrapa Amazônia Oriental, 2010. 1 CD-ROM. PIBIC 2010",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/880076"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A. Avaliação do período de floração e frutificação do BAG Ipecacuanha. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 15., 2011, Belém, PA. A ciência de fazer ciência: anais. Belém, PA: Embrapa Amazônia Oriental, 2011. 1 CD-ROM. PIBIC-2011",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/899735"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; ASSIS, R. M. A. de. Avaliação do efeito de AIB no enraizamento de ipeca (Psychotria ipecacuanha Stoke) in vitro. In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 5., 2013, Belém, PA. A importância da tecnologia e do empreendedorismo no desenvolvimento amazônico. Belém, PA: UFRA, 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/974551"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; ASSIS, R. M. A. de. Caracterização fenológica do banco ativo de germoplasma de ipeca (Carapichea ipecacuanha Stoke). In: SEMINÁRIO ANUAL DE INICIAÇÃO CIENTÍFICA DA UFRA, 11., 2013, Belém, PA. Anais. Belém, PA: Universidade Federal Rural da Amazônia, 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/978373"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; RAMOS, G. K. de S.; ASSIS, R. M. A. de. Efeito de diferentes concentrações de BAP e sacarose no cultivo in vitro de Psychotria ipecacuanha Stoke. In: CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 19.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 6., 2013, Recife. Anais dos trabalhos. Recife: UFRPE, 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/978192"
+        },
+        {
+          "citacao": "ANDRADE, C. R. S.; LAMEIRA, O.; TRINDADE, M. J. de S. Padrão de venação de Psychotria ipecacuanha) (Brot.) Stokes - (Rubiaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970467"
+        },
+        {
+          "citacao": "PORTAL, R. K. V. P.; ASSIS, R. M. A. de; LAMEIRA, O. A.; RIBEIRO, F. N. S.; ROCHA, T. T. Enraizamento em estacas da raiz de ipeca em diferentes substratos. In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1001031"
+        },
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; MEDEIROS, A. P. R.; ASSIS, R. M. A. de. Análise microquímica da raiz de Psychotria ipecacuanha. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 19.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 3., 2015, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2015. p. 343-346",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1022867"
+        },
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; MEDEIROS, A. P. R.; ASSIS, R. M. A. de. Caracterização morfológica foliar de acessos do banco ativo de germoplasma de ipeca. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 19.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 3., 2015, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2015. p. 368-371. ASSIS, R. M. A. de; LAMEIRA, O. A.; PORTAL, R. K. V. P.; MEDEIROS, P. R. Efeito de substratos na propagação vegetativa da ipeca - Psychotria ipecacuanha (Brot.) Stokes. (Rubiaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 19.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 3., 2015, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2015. p. 157-161",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1022770"
+        },
+        {
+          "citacao": "RIBEIRO, F. N. S.; HÜTHER, C. M.; OLIVEIRA, E. de; MORAES, J. B. de; MACHADO, T. de B.; LAMEIRA, O. A.; PEREIRA, C. R. Influência de diferentes substratos e níveis de radiação no crescimento de Carapichea ipecacuanha (Brot) L Andersson (ipecacuanha). Revista Cubana de Plantas Medicinales, v. 24, n. 4, e764, 2019. NEVES, R. L. P.; LAMEIRA, O. A.; MEDEIROS, A. P. R.; PIRES, H. C. G.; OLIVEIRA, M. G. de; GERMANO, C. M.; LEÃO, F. M. Caracterização e avaliação morfológica da parte aérea de acessos de Psychotria ipecacuanha (Ipeca). In: SILVA NETO, B. R. da (org.). Inventário de recursos genéticos. Ponta Grossa, PR: Atena, 2019. Cap. 2, p. 13-24",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1112385"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; CORDEIRO, I. M. C. C.; PIRES, H. C. G. (org.). Avaliação dos descritores morfoagronômico e morfoanatomia da lâmina foliar de Pilocarpus microphyllus Stapf ex Wardleworth - Rutaceae, Ananas comosus var. erectifolius (L. B. Smith) Coppens & F. Leal - Bromeliacea e Psychotria ipecacuanha (Brot.) Stokes - Rubiaceae. Curitiba: Appris, 2020. 177 p. SANTOS, C. M. P. P. dos; HUTHER, C. M.; BORELLA, J.; RIBEIRO, F. N. S.; DUARTE, G. C. A.; CARVALHO, L. F. de; OLIVEIRA, E. de; LAMEIRA, O. A.; PINHO, C. F. de; MACHADO, T. de B.; PEREIRA, C. R. Season and shading affect emetine and cephalin production in Carapichea ipecacuanha plants. Plant Biosystems, v. 156, n. 1, p. 51-60, 2022. Published online: 16 Oct. 2020. CAMPELO, M. F.; LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; RAMIRES, A. C. S. Fenologia reprodutiva de Carapichea ipecauanha (Brot.) L. Andersson e sua correlação com a temperatura média do ar e precipitação pluviométrica. Research, Society and Development, v. 10, n. 5, e7610514625, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1139027"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; CAMPELO, M. F.; MOREIRA, R. K. V. P. P.; RODRIGUES, S. de M.; RAMIRES, A. C. S. Substratos alternativos para propagação vegetativa de Psychotria ipecacuanha (Brotero) Stokes. Research, Society and Development, v. 10, n. 5, e49210515158, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1137248"
+        },
+        {
+          "citacao": "PARACAMPO, N. E. N. P.; SOUZA, L. R. S. de; ALMEIDA, J. C.; LAMEIRA, O. A. Chemical characterization of an Ipecac active germplasm bank - a Brazilian endangered medicinal species. Research, Society and Development, v. 10, n. 15, e430101523113, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1136836"
+        },
+        {
+          "citacao": "CAMPELO, M. F.; LAMEIRA, O. A.; MOREIRA, R. K. V. P. P.; RAMIRES, A. C. S. Morphological evaluation of Carapichea ipecacuanha (Brot.) L. Andersson. Research, Society and Development, v. 10, n. 6, p. e23110615282, 2021.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "jaborandi-da-folha-composta",
+      "nome_popular": "Jaborandi-da-folha-composta",
+      "nome_cientifico": "Pilocarpus microphyllus Stapf ex Wardlew.",
+      "familia": "Rutaceae.",
+      "uso_medicinal": "trata glaucoma, atua como diaforético e expectorante.",
+      "parte_utilizada": "folhas e ramos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [
+        51,
+        52
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "LAMEIRA, O. A.; PAES, R. T. S.; GOMES, A. P. do R.; MENEZES, I. C. de; PINTO, J. E. B. P. Micropropagação de jaborandi a partir de segmento nodal e apical. Horticultura Brasileira, v. 18, p. 908-909, jul. 2000. Suplemento. Trabalhos e palestras apresentados no 40º. Congresso Brasileiro de Olericultura; 2º Congresso Ibero-Americamo sobre Utilização de Plástico na Agricultura; 1º Simpósio Latino-Americano de Produção de Plantas Medicinais, Aromáticas e Condimentares",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/403836"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; PAES, R. T. S.; MENEZES, I. C. de; PINTO, J. E. B. P. Regeneração de plântulas de jaborandi a partir da embriogênese somática. In: SIMPÓSIO DE PLANTAS MEDICINAIS DO BRASIL, 16., 2000, Recife. Livro de resumos. Recife: UFPe, 2000. p. 89",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406125"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; TUMA, R.; LUZ, J. M. Q.; PINTO, J. E. B. P.; OHASHI, S. T.; BATISTA, T. F. C.; GAIA, J. M. D. Embriogênese somática de Pilocarpus microphyllus. In: ENCONTRO LATINO-AMERICANO DE BIOTECNOLOGIA VEGETAL, 4., 2001, Goiânia. Programa e resumos. Goiânia: REDBIO, 2001. p. 78. SABÁ, R. T.; LAMEIRA, O. A.; LUZ, J. M. Q.; GOMES, A. P. do R.; INNECCO, R. Micropropagação do jaborandi. Horticultura Brasileira, v. 20, n. 1, p. 106-109, mar. 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406313"
+        },
+        {
+          "citacao": "MOURA, E. F.; PINTO, J. E. B. P.; SANTOS, J. B. dos; NUNES, J. A. R.; LAMEIRA, O. A. Divergência genética entre acessos de jaborandi (Pilocarpus microphyllus) por meio de marcadores fenotípicos. In: CONGRESSO BRASILEIRO DE GENÉTICA, 49., 2003, Águas de Lindóia. A dupla hélice do DNA: [resumos]. Ribeirão Preto: Sociedade Brasileira de Genética, 2003. p. 473",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/958221"
+        },
+        {
+          "citacao": "MOURA, E. F.; PINTO, J. E. B. P.; SANTOS, J. B. dos; LAMEIRA, O. A.; BERTOLUCCI, S. K. V. Diversidade genética entre acessos de jaborandi (Pilocarpus microphyllus) por meio de marcadores RAPD. In: CONGRESSO BRASILEIRO DE MELHORAMENTO DE PLANTAS, 2., 2003, Porto Seguro. Melhoramento da qualidade de vida: [anais]. Porto Seguro: SBMP, 2003. Não paginado. il. MENESES, A. A. S.; LAMEIRA, O. A.; MONFORT, L. E. F. Avaliação, caracterização e manejo de plantas medicinais de ocorrência na Amazônia Oriental. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575761"
+        },
+        {
+          "citacao": "REIS, I. N. R. de S.; LAMEIRA, O. A.; MONFORT, L. E. F.; ALVES, S. A. O.; MENESES, A. A. S. de; AMARAL, L. M. S. Efeito do ácido indolbutírico, em diferentes concentrações, no enraizamento de miniestacas de jaborandi (Stapf). Horticultura Brasileira, v. 23, n. 2, p. 630, ago. 2005. Suplemento. Edição dos resumos: CONGRESSO BRASILEIRO DE OLERICULTURA, 45.; CONGRESSO BRASILEIRO DE FLORICULTURA E PLANTAS ORNAMENTAIS, 15.; CONGRESSO BRASILEIRO DE CULTURA DE TECIDOS DE PLANTAS, 2., 2005, Fortaleza, CE",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/936838REIS,I"
+        },
+        {
+          "citacao": "N. R. de S.; LAMEIRA, O. A. Enraizamento de miniestacas de jaborandi (Pilocarpus microphyllus Stapf) submetidas à imersão em solução de ácido indolbutírico sob diferentes tempos. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575664"
+        },
+        {
+          "citacao": "MOURA, E. F.; PINTO, J. E. B. P.; SANTOS, J. B.; LAMEIRA, O. A. Genetic diversity in a jaborandi (Pilocarpus microphyllus Stapf.) germplasm bank assessed by RAPD markers. Revista Brasileira de Plantas Medicinais, v. 7, n. 3, p. 1-8, jun. 2005",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/579113"
+        },
+        {
+          "citacao": "MOURA, E. F.; PINTO, J. E. B. P.; SANTOS, J. B. dos; LAMEIRA, O. A.; NUNES, J. A. R.; FERREIRA, D. F. Genetic diversity of Pilocarpus microphyllus accessions using leaf traits. Crop Breeding and Applied Biotechnology, v. 5, n. 3, p. 347-353, Sep. 2005. SALDANHA, A. L. M.; LAMEIRA, O. A.; MENEZES, A. A. S. de M.; MONFORT, L. E. F. Avaliação do crescimento de mudas de diferentes acessos de jaborandi (Pilocarpus microphyllus) em composto orgânico. In: JORNADA DE INICIAÇÃO CIENTÍFICA DO PET, 2., 2007, Belém, PA. Iniciação científica e a formação profissional: anais. Belém, PA: PROEN/UFRA, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/409437"
+        },
+        {
+          "citacao": "MENESES, A. A. S. de; LAMEIRA, O. A. Efeito da adubação dos acessos no crescimento de plântulas de jaborandi (Pilocarpus microphyllus) Stapf ex Holm. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 4.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 10., 2007, Belém, PA. Anais... Belém, PA: UFRA: Embrapa Amazônia Oriental, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/377887"
+        },
+        {
+          "citacao": "MENESES, A. A. S. de; LAMEIRA, O. A.; MONFORT, L. F. M.; SALDANHA, A. L. M. Efeito de substratos na germinação de sementes em genótipos de jaborandi (Pilocarpus microphyllus) Stapf ex Holm. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 4.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 10., 2007, Belém, PA. Anais... Belém, PA: UFRA: Embrapa Amazônia Oriental, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/377830"
+        },
+        {
+          "citacao": "RIBEIRO, F. N.; LAMEIRA, O. A.; ROCHA, T. T.; AZULAY, L. B. O. Avaliação da regeneração de ramos de jaborandi (Pilocarpus microphyllus Stapf ex wardleworth). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 15., 2011, Belém, PA. A ciência de fazer ciência: anais. Belém, PA: Embrapa Amazônia Oriental, 2011. 1 CD-ROM. PIBIC-2011",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/899738"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A.; RIBEIRO, F. N.; AZULAY, L. B. O. Avaliação do período de floração e frutificação do banco ativo de germoplasma do jaborandi. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 15., 2011, Belém, PA. A ciência de fazer ciência: anais. Belém, PA: Embrapa Amazônia Oriental, 2011. 1 CD-ROM. PIBIC-2011",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/899739"
+        },
+        {
+          "citacao": "LAMEIRA, O. Banco ativo de germoplasma de jaborandi. In: WORKSHOP DE CURADORES DE GERMOPLASMA DO BRASIL, 2011, Campinas. Anais [e] resumos dos trabalhos. Brasília, DF: Embrapa Recursos Genéticos e Biotecnologia, 2011. p. 258. Editores técnicos: Marília Lobo Burle; Renato Ferraz de Arruda Veiga; Maria do Socorro Maués Albuquerque; Vânia Cristina Rennó Azevedo",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1033933"
+        },
+        {
+          "citacao": "RIBEIRO, F. N. S.; LAMEIRA, O. A.; ROCHA, T. T.; SILVA, C. S. A. da. Avaliação de distâncias de cortes em ramos de jaborandi. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 16., 2012, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/949598CARDOSO,L"
+        },
+        {
+          "citacao": "G. R.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; ROCHA, T. T. Avaliação do desenvolvimento de brotações após a realização de cortes em ramos de Pilocarpus microphyllus Stapf ex Wardleworth. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 16., 2012, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/949617"
+        },
+        {
+          "citacao": "CARDOSO, L. G.; LAMEIRA, O. A.; RIBEIRO, F. N.; ROCHA, T. T. Efeito das diferentes distâncias de corte em ramos de jaborandi (Pilocarpus microphyllus Stapf ex Wardleworth). In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 2., 2012, Belém, PA. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/950944"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; RIBEIRO, F. N.; ROCHA, T. T.; SILVA, C. S. Efeito de cortes no desenvolvimento de brotações em ramos de jaborandi (Pilocarpus microphyllus Stapf ex Wardleworth). In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 2., 2012, Belém, PA. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/950952"
+        },
+        {
+          "citacao": "SILVA, P. A.; PINHEIRO, S. B. da P.; MACÊDO, C. da S.; LAMEIRA, O. A. Propagação vegetativa de jaborandi (Pilocarpus microphyllus Stapf) pelo método de enxertia por garfagem simples. In: SEMANA DE INTEGRAÇÃO EM CIÊNCIA, ARTE E TECNOLOGIA, 2.; FEIRA DE SABERES E SABORES, 1., 2012, Castanhal. Construindo saberes e valorizando sabores amazônicos. [Castanhal: IFPA, 2012]. ASSIS, R. M. A. de; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Análise do período de floração e frutificação do banco ativo de germoplasma de jaborandi (Pilocarpus microphyllus Staf ex Wardleworth). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970400RIBEIRO,F"
+        },
+        {
+          "citacao": "N. S.; LAMEIRA, O. A.; PORTAL, R. K. V. P.; ASSIS, R. M. A. de. Análise do período de floração e frutificação do banco ativo de germoplasma de jaborandi (Pilocarpus microphyllus Stapf ex wardleworth). In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 5., 2013, Belém, PA. A importância da tecnologia e do empreendedorismo no desenvolvimento amazônico. Belém, PA: UFRA, 2013. 1 CD-ROM. RIBEIRO, F. N. S.; LAMEIRA, O. A.; PORTAL, R. K. V. P.; ASSIS, R. M. A. de. Efeito da poda drástica em ramos de jaborandi (Pilocarpus microphyllus Stapf.). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970306"
+        },
+        {
+          "citacao": "OLIVEIRA, C. S. A. de. Fenologia, prospecção fitoquímica e manejo da poda em ramos de jaborandi (Pilocarpus microphyllus Stapf ex Holmes). 2014. 54 f. Tese (Doutorado em Ciências Agrárias) – Universidade Federal Rural da Amazônia; Embrapa Amazônia Oriental, Belém, PA. Orientador: Osmar Alves Lameira, Embrapa Amazônia Oriental. ASSIS, R. M. A. de; LAMEIRA, O. A.; COSTA, K. J. A.; MOURA, R. C.; ALVES, H. F.; SOUZA, S. B. P. Avaliação fenológica da espécie Pilocarpus microphyllus Stapf ex Wardleworth. (Rutaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 137-141",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053833"
+        },
+        {
+          "citacao": "SOUZA, I. N. G.; LAMEIRA, O. A. Avaliação do desenvolvimento de mudas de jaborandi (Pilocarpus microphyllus Stapf ex Holmes) em diferentes tipos de substratos. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 23., 2019, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2019. p. 138-143",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1113352"
+        },
+        {
+          "citacao": "MOREIRA, R. K. V. P. P.; LAMEIRA, O. A.; CAMPELO, M. F.; PACHECO, N. A.; SOUZA, I. N. G. Caracterização fenológica do jaborandi em relação à precipitação pluviometrica e temperatura média do ar. In: SIMPÓSIO INTERNACIONAL DE CLIMATOLOGIA, 8., 2019, Belém, PA. Anais 2019. [S.l.]: SBMET; [Belém, PA]: UFPA, 2019. p. 131-140",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1121289"
+        },
+        {
+          "citacao": "LAMEIRA, O. A.; CORDEIRO, I. M. C. C.; PIRES, H. C. G. (org.). Avaliação dos descritores morfoagronômico e morfoanatomia da lâmina foliar de Pilocarpus microphyllus Stapf ex Wardleworth - Rutaceae, Ananas comosus var. erectifolius (L. B. Smith) Coppens & F. Leal - Bromeliacea e Psychotria ipecacuanha (Brot.) Stokes - Rubiaceae. Curitiba: Appris, 2020. 177 p. SILVA, P. A.; CUNHA, P. S. J.; SANTOS, J. P. dos; OLIVEIRA, I. V. de; LIMA, C. C.; SILVA, C. R. da; SILVA, J. P. da; CRUZ, W. P. da; SILVA, J. N. da; SILVA, V. F. A.; CARVALHO, F. I. M.; LAMEIRA, O. A. Jaborandi (Pilocarpus Microphyllus Stapf ex Holmes): propagação vegetativa pelo método da enxertia por garfagens. In: TÓPICOS em Ciências Agrárias. Belo Horizonte: Poison, 2020. v. 5, cap. 11, p. 96-100. MOREIRA, R. K. V. P. P.; LAMEIRA, O. A.; CAMPELO, M. F.; RAMIRES, A. C. S. Estudo fenológico do germoplasma de Pilocarpus microphyllus Stapf ex Wardleworth correlacionado com elementos climáticos. Research, Society and Development, v. 10, n. 5, e7710514626, 2021",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1134831"
+        },
+        {
+          "citacao": "MOREIRA, R. K. V. P. P. Avaliação fenológica e morfológica de Pilocarpus microphyllus Stapf ex Wardleworth. 2022. 47 f. Tese (Doutorado em Biodiversidade e Biotecnologia) – Universidade Federal do Pará, Belém, PA. Orientador: Osmar Alves Lameira, Embrapa Amazônia Oriental.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "jaborandi-da-folha-simples",
+      "nome_popular": "Jaborandi-da-folha-simples",
+      "nome_cientifico": "Pilocarpus carajaensis Skorupa",
+      "familia": "Rutaceae.",
+      "uso_medicinal": "trata glaucoma e atua como diaforético e expectorante.",
+      "parte_utilizada": "folhas e ramos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "jaboticaba",
+      "nome_popular": "Jaboticaba",
+      "nome_cientifico": "Plinia peruviana (Poir) Govaerts",
+      "familia": "Myrtaceae.",
+      "uso_medicinal": "trata problemas cardíacos, prisão de ventre, asma e estabiliza o açúcar no sangue de diabéticos.",
+      "parte_utilizada": "fruto.",
+      "pagina_catalogo_inicio": 53,
+      "paginas_catalogo": [
+        53
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "japana-branca-e-rosa",
+      "nome_popular": "Japana-branca-e-rosa",
+      "nome_cientifico": "Ayapana triplinervis (M.Vahl.) R.M.King. & H.Rob.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "trata afecções gastrointestinais, da boca, febre, malária e verminoses.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 54,
+      "paginas_catalogo": [
+        54
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "juca",
+      "nome_popular": "Jucá",
+      "nome_cientifico": "Libidibia ferrea (Mart. ex Tul) L.P.Queiroz",
+      "familia": "Fabaceae-Caesapinioideae.",
+      "uso_medicinal": "trata afecções pulmonares e atua como cicatrizante e tônico.",
+      "parte_utilizada": "frutos secos e casca.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "OLIVEIRA, E. C. P.; LAMEIRA, O. A.; RIOS, M. S.; RODRIGUES, M. A. C. M.; PINTO, J. E. B. P. Abordagem fitoquímica, atividade antiinflamatória e toxicidade aguda dos extratos etanólicos de Bryophyllum calicinum, Caesalpinea ferrea e Cordia verbenacea. Horticultura Brasileira, v. 20, n. 2, p. 350-351, jul. 2002. Suplemento 1. 42º Congresso Brasileiro de Olericultura e 11º Congresso Latino Americano de Horticultura, Uberlândia, 2002",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/406317"
+        },
+        {
+          "citacao": "OLIVEIRA, E. P.; LAMEIRA, O. A.; CORDEIRO, I. M. C. C.; PAIVA, J. S.; REIS, L. R. Atividade antiinflamatória dos extratos etanólicos de Bryophyllum calicinum (folha da fortuna), Caesalpinea ferrea (jucá) e Cordia verbenacea (erva baleeira). In: CONGRESSO NACIONAL DE BOTÂNICA, 53.; REUNIÃO NORDESTINA DE BOTÂNICA, 25., 2002, Recife. Resumos. Recife: SBB: UFRPE: UFPE, 2002. p. 15",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/405427"
+        },
+        {
+          "citacao": "COSTA, K. J. A.; LAMEIRA, O. A.; ASSIS, R. M. A. de; MOURA, R. C.; ALMEIDA, L. da S. S. de; FERNANDES, V. S. Aspectos fenológicos do jucá - Libidibia ferrea Martius ex Tul. (Fabaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 125-128",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053825"
+        },
+        {
+          "citacao": "RAMIRES, A. C. S.; LAMEIRA, O. A.; SOUZA, I. N. G.; PORTAL, R. K. V. P.; CAMPELO, M. F. Avaliação fenológica do jucá (Libidibia ferrea) Martius ex Tul. (Fabaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 23., 2019, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2019. p. 119-123",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1113330"
+        }
+      ]
+    },
+    {
+      "id": "lagrima-de-nossa-senhora",
+      "nome_popular": "Lágrima-de-nossa-senhora",
+      "nome_cientifico": "Coix lacryma-jobi L.",
+      "familia": "Poaceae.",
+      "uso_medicinal": "atua como antiasmático e depurativo.",
+      "parte_utilizada": "folhas, invólucro da flor feminina.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "limao",
+      "nome_popular": "Limão",
+      "nome_cientifico": "Citrus limon (L.) Osbeck",
+      "familia": "Rutaceae.",
+      "uso_medicinal": "trata infecção, dor de cabeça, enxaqueca, problema muscular, tosse, resfriado, asma, atua como antifúngico e na limpeza de pele oleosa e caspa.",
+      "parte_utilizada": "suco e pele do fruto.",
+      "pagina_catalogo_inicio": 55,
+      "paginas_catalogo": [
+        55
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "lingua-de-vaca",
+      "nome_popular": "Língua-de-vaca",
+      "nome_cientifico": "Elephantopus mollis Kunth",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "trata catarro pulmonar, dermatose e atua como tônico.",
+      "parte_utilizada": "folhas e raiz.",
+      "pagina_catalogo_inicio": 56,
+      "paginas_catalogo": [
+        56
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "malvarisco",
+      "nome_popular": "Malvarisco",
+      "nome_cientifico": "Piper peltatum L.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "trata escorbuto, escrofulose, resfriado, leucorreia, úlcera, sífilis, doenças gástricas, pleurisias e tumores.",
+      "parte_utilizada": "folhas, caule e raiz.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "mamona",
+      "nome_popular": "Mamona",
+      "nome_cientifico": "Ricinus comunis L.",
+      "familia": "Euphorbiaceae.",
+      "uso_medicinal": "trata acne, furúnculo, verruga, pele seca e dermatite.",
+      "parte_utilizada": "óleo essencial, folhas e sementes.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "mandacaru-com-e-sem-espinho",
+      "nome_popular": "Mandacaru com e sem espinho",
+      "nome_cientifico": "Cereus jamacaru DC.",
+      "familia": "Cactaceae.",
+      "uso_medicinal": "atua como antibiótico, diurético, analgésico e anti-inflamatório.",
+      "parte_utilizada": "parte aérea e fruto.",
+      "pagina_catalogo_inicio": 57,
+      "paginas_catalogo": [
+        57
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; ASSIS, R. M. A. de; BARBOSA, S. M. Avaliação dos aspectos fenológicos da espécie Cereus jamacaru L. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994571"
+        },
+        {
+          "citacao": "MAVÃO, L. dos S.; LAMEIRA, O. A.; SOUZA, I. N. G.; BARBOSA, R. K. da C. Fenofases do mandacaru (Cereus jamacaru L.) em relação com precipitação pluviométrica no município de Belém-PA. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076337"
+        },
+        {
+          "citacao": "CAMPELO, M.; LAMEIRA, O. A.; RAMIRES, A. C. S.; MOREIRA, R. K. V. P. P.; PACHECO, N. A. Fenologia da espécie Cereus jamacaru L. nas condições pluviométricas de Belém-PA. In: SIMPÓSIO DE ESTUDOS E PESQUISAS EM CIÊNCIAS AMBIENTAIS NA AMAZÔNIA, 8., 2019, Belém, PA. Anais. Belém, PA: UEPA, 2019. p. 81.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "manjerona",
+      "nome_popular": "Manjerona",
+      "nome_cientifico": "Origanum majorana L.",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "trata má digestão, contusões e dores reumáticas.",
+      "parte_utilizada": "folhas, caules e botões florais.",
+      "pagina_catalogo_inicio": 58,
+      "paginas_catalogo": [
+        58
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "maracuja",
+      "nome_popular": "Maracujá",
+      "nome_cientifico": "Passiflora edulis Sims",
+      "familia": "Passifloraceae.",
+      "uso_medicinal": "trata ansiedade e diabetes.",
+      "parte_utilizada": "fruta.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SILVA, C. T. B.; ISHIDA, A. K. N.; LEMOS, W. de P.; LAMEIRA, O. A.; SANTOS, R. P. dos. Efeito de extratos alcóolicos de plantas medicinais no controle da mancha bacteriana do maracujazeiro (Passiflora edulis Sims f. flavicarpa Deg). In: CONGRESSO BRASILEIRO DE FITOPATOLOGIA, 48.; CONGRESSO BRASILEIRO DE PATOLOGIA PÓS-COLHEITA, 2., 2015, São Pedro. Fitopatologia de precisão: fronteiras da ciência: anais. Brasília, DF: Sociedade Brasileira de Fitopatologia, 2015. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1022935"
+        }
+      ]
+    },
+    {
+      "id": "marupazinho",
+      "nome_popular": "Marupazinho",
+      "nome_cientifico": "Eleutherine bulbosa (Mill). Urb.",
+      "familia": "Iridaceae.",
+      "uso_medicinal": "trata diarreia, amebíase e hemorroida.",
+      "parte_utilizada": "bulbos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "melao-de-sao-caetano",
+      "nome_popular": "Melão-de-são-caetano",
+      "nome_cientifico": "Momordica charantia L.",
+      "familia": "Cucurbitaceae.",
+      "uso_medicinal": "atua como purgativo, antirreumático e anti-helmíntico.",
+      "parte_utilizada": "folhas, frutos e sementes.",
+      "pagina_catalogo_inicio": 59,
+      "paginas_catalogo": [
+        59
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "melhoral",
+      "nome_popular": "Melhoral",
+      "nome_cientifico": "Evolvulus glomeratus Nees & Mart.",
+      "familia": "Convolvulaceae.",
+      "uso_medicinal": "atua como antitérmico, trata dor na cabeça.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 60,
+      "paginas_catalogo": [
+        60
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; COSTA, K. J. A.; MOURA, R. C.; FERNANDES, V. dos S.; ALVES, H. F. Avaliação fenológica da espécie Evolvulus glomeratus Nees & C. Mart. (Convolvulaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 318-322",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053924"
+        },
+        {
+          "citacao": "MAVÃO, L. dos S.; LAMEIRA, O. A.; CAMPELO, M. F.; BARBOSA, R. K. da C. Análises fenológicas do melhoral - Evolvulus glomeratus Nees & C. Mart. (Convolvulaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076338"
+        }
+      ]
+    },
+    {
+      "id": "meracilina",
+      "nome_popular": "Meracilina",
+      "nome_cientifico": "Alternanthera brasiliana (L.) Kuntze",
+      "familia": "Amaranthaceae.",
+      "uso_medicinal": "atua como diurético, digestivo, depurativo, antidiarreico, antinflamatório, analgésico e antibiótico.",
+      "parte_utilizada": "folhas e flor.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "mirra-de-jesus",
+      "nome_popular": "Mirra-de-jesus",
+      "nome_cientifico": "Tetradenia riparia (Hochst.) Codd.",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "atua como antimicrobiano, antiespasmódico, antitrichomonas e antimalárico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "mogno-brasileiro",
+      "nome_popular": "Mogno-brasileiro",
+      "nome_cientifico": "Swietenia macrophylla King.",
+      "familia": "Meliaceae.",
+      "uso_medicinal": "trata infecções urinárias, vômitos, malária e atua no controle de hiperglicemia e diabetes.",
+      "parte_utilizada": "folhas e casca.",
+      "pagina_catalogo_inicio": 61,
+      "paginas_catalogo": [
+        61
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "mucuraca",
+      "nome_popular": "Mucuracá",
+      "nome_cientifico": "Petiveria alliacea L.",
+      "familia": "Phytolaccaceae.",
+      "uso_medicinal": "atua como antiofídico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 62,
+      "paginas_catalogo": [
+        62
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "murucizeiro",
+      "nome_popular": "Murucizeiro",
+      "nome_cientifico": "Byrsonima spicata (Cav.) DC.",
+      "familia": "Malpighiaceae.",
+      "uso_medicinal": "atua como adstringente, além de tratar diarreia e infecções intestinais.",
+      "parte_utilizada": "casca e fruto.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "nim",
+      "nome_popular": "Nim",
+      "nome_cientifico": "Azadirachta indica A. Juss",
+      "familia": "Meliaceae.",
+      "uso_medicinal": "trata acne e atua como antimicrobiano e antiparasitário.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "none",
+      "nome_popular": "None",
+      "nome_cientifico": "Morinda citrifolia L.",
+      "familia": "Rubiaceae.",
+      "uso_medicinal": "atua na cicatrização e trata hipertensão.",
+      "parte_utilizada": "fruto.",
+      "pagina_catalogo_inicio": 63,
+      "paginas_catalogo": [
+        63
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Avaliação fenológica da espécie Morinda citrifolia Linn. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970410"
+        }
+      ]
+    },
+    {
+      "id": "ora-pro-nobis",
+      "nome_popular": "Ora-pro-nóbis",
+      "nome_cientifico": "Pereskia aculeata Mill.",
+      "familia": "Cactaceae.",
+      "uso_medicinal": "trata anemia, desnutrição e furúnculos.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 64,
+      "paginas_catalogo": [
+        64
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "oriza",
+      "nome_popular": "Oriza",
+      "nome_cientifico": "Pogostemon heyneanus Benth.",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "xarope para combater gripes e tosses.",
+      "parte_utilizada": "folhas e caule.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pariparoba",
+      "nome_popular": "Pariparoba",
+      "nome_cientifico": "Piper umbellatum L.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "estimula as funções estomacais e hepáticas.",
+      "parte_utilizada": "folhas, raízes e caules.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pariri-da-folha-estreita",
+      "nome_popular": "Pariri-da-folha-estreita",
+      "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann.",
+      "familia": "Bignoniaceae.",
+      "uso_medicinal": "trata cólicas intestinais, diarreia e inflamações uterinas.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 65,
+      "paginas_catalogo": [
+        65
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "MONFORT, L. F. M.; LAMEIRA, O. A.; MENESES, A. A. S. de. Efeito do ácido indolbutírico (AIB) no enraizamento de estacas de pariri (Arrabidaea chica). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 4.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 10., 2007, Belém, PA. Anais... Belém, PA: UFRA: Embrapa Amazônia Oriental, 2007. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/388584"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A. Propagação por estaquia de pariri (Arrabidaea chica (Humb. & Bonpl.) B. verl.). In: SEMINÁRIO CIENTÍFICO DA UFRA, 7.; SEMINÁRIO [DE INICIAÇÃO CIENTÍFICA] DA EMBRAPA AMAZÔNIA ORIENTAL, 13.; SEMINÁRIO DE PESQUISA DA UFRA, 1., 2009, Belém, PA. Pesquisa e desenvolvimento tecnológico na formação do jovem cientista: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2009. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/661576"
+        },
+        {
+          "citacao": "ROCHA, T. T.; LAMEIRA, O. A.; RAMOS, T. de J. N.; BATISTA, A. da S. Propagação vegetativa do pariri (Arrabidaea chica). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 14., 2010, Belém, PA. Bolsista de iniciação científica: um aporte ao desenvolvimento da pesquisa agropecuária: anais. Belém, PA: Embrapa Amazônia Oriental, 2010. 1 CD-ROM. PIBIC 2010",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/880024"
+        }
+      ]
+    },
+    {
+      "id": "pariri-da-folha-larga",
+      "nome_popular": "Pariri-da-folha-larga",
+      "nome_cientifico": "Tanaecium bilabiatum (Sprague) Sandwith",
+      "familia": "Bignoniaceae.",
+      "uso_medicinal": "trata cólicas intestinais, diarreia e inflamações uterinas.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 66,
+      "paginas_catalogo": [
+        66
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pata-de-vaca-da-flor-branca",
+      "nome_popular": "Pata-de-vaca-da-flor-branca",
+      "nome_cientifico": "Bauhinia variegata L.",
+      "familia": "Fabaceae-Caesalpinioideae.",
+      "uso_medicinal": "atua como diurético e antidiabetico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SOUSA, V. C. S. de; SANTOS, D. L. dos; FERREIRA, R. D. S.; MÜLLER, M. S.; MÜLLER, R. C. S.; LAMEIRA, O. A. Analise físico-química das folhas da especie Bauhinia variegata (Leguminosae) em diferentes períodos de maturação. In: CONGRESSO BRASILEIRO DE QUÍMICA, 53., 2013, Natal. Química e sociedade: motores da sustentabilidade: anais. Natal: ABQ; UFRN, 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/987671"
+        },
+        {
+          "citacao": "SCHMIDT, M. E. P.; PIRES, F. B.; BRESSAN, L. P.; SILVA JUNIOR, F. V. da; LAMEIRA, O. A.; ROSA, M. B. da. Some triterpenic compounds in extracts of Cecropia and Bauhinia species for different sampling years. Revista Brasileira de Farmacognosia, v. 28, n. 1, p. 21-26, Jan./Feb. 2018",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1087842"
+        },
+        {
+          "citacao": "RAMIRES, A. C. S.; LAMEIRA, O. A.; CAMPELO, M. F.; MOREIRA, R. K. V. P. P.; PACHECO, N. A. Caracterização fenologica da especie Bauhinia variegata. In: SIMPÓSIO DE ESTUDOS E PESQUISAS EM CIÊNCIAS AMBIENTAIS NA AMAZÔNIA, 8., 2019, Belém, PA. Anais. Belém, PA: UEPA, 2019. p. 84.",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "pata-de-vaca-da-flor-rosa",
+      "nome_popular": "Pata-de-vaca-da-flor-rosa",
+      "nome_cientifico": "Bauhinia purpurea L.",
+      "familia": "Fabaceae-Caesalpinioideae.",
+      "uso_medicinal": "atua como diurético e antidiabetico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Avaliação fenológica e screening fitoquímico da pata-de-vaca (Bauhinia spp.). In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 5., 2013, Belém, PA. A importância da tecnologia e do empreendedorismo no desenvolvimento amazônico. Belém, PA: UFRA, 2013. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/974554"
+        }
+      ]
+    },
+    {
+      "id": "patchuli",
+      "nome_popular": "Patchuli",
+      "nome_cientifico": "Chrysopogon zizanioides (L.) Roberty.",
+      "familia": "Poaceae.",
+      "uso_medicinal": "usado na aromaterapia para aliviar o stress e relaxar.",
+      "parte_utilizada": "raízes.",
+      "pagina_catalogo_inicio": 67,
+      "paginas_catalogo": [
+        67
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "COSTA, M. P. da; LAMEIRA, O. A.; INNECO, R.; BARBOSA, S. M. Produção de mudas in vitro para a indústria de perfumaria. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994748"
+        }
+      ]
+    },
+    {
+      "id": "pega-pinto",
+      "nome_popular": "Pega-pinto",
+      "nome_cientifico": "Boerhavia diffusa L.",
+      "familia": "Nyctaginaceae.",
+      "uso_medicinal": "trata hepatite, icterícia, cistite e atua como diurético.",
+      "parte_utilizada": "folhas e raízes.",
+      "pagina_catalogo_inicio": 68,
+      "paginas_catalogo": [
+        68
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "piao-branco",
+      "nome_popular": "Pião-branco",
+      "nome_cientifico": "Jatropha curcas L.",
+      "familia": "Euphorbiaceae.",
+      "uso_medicinal": "trata hemorroidas.",
+      "parte_utilizada": "caules, pecíolos e frutos.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "não possui produção científica da equipe do horto",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "piao-roxo",
+      "nome_popular": "Pião-roxo",
+      "nome_cientifico": "Jatropha gossypiifolia L.",
+      "familia": "Euphorbiaceae.",
+      "uso_medicinal": "atua como anticoagulante, antioxidante, antimicrobiano, anti- -inflamatório, antidiarreico, anti-hipertensivo e anticancerígeno.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "TRINDADE, M. J. de S.; LAMEIRA, O. A.; PARACAMPO, N. E. N. P.; ANDRADE, C. R. S. Aspectos fenológicos de Jatropha gossypiifolia L. (Euphorbiaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 17.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 1., 2013, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2013. 1 CD-ROM. PIBIC 2013",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/970477"
+        },
+        {
+          "citacao": "SILVEIRA, R. da S.; LEAL, G. C.; DAL MOLIN, T. D.; FACCIN, H.; GOBO, L. A.; SILVEIRA, G. D. da; SOUZA, M. T. da S.; LAMEIRA, O. A.; CARVALHO, L. M. de; VIANA, C. Determination of phenolic and triterpenic compounds in Jatropha gossypiifolia L. by ultra-high performance liquid chromatography-tandem mass spectrometric (UHPLC-MS/MS). Brazilian Journal of Pharmaceutical Sciences, v. 56, e17262, 2020",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1121639"
+        }
+      ]
+    },
+    {
+      "id": "picao",
+      "nome_popular": "Picão",
+      "nome_cientifico": "Bidens cynapiifolia L. Kunth.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "trata icterícia, fígado, diabete e verminose.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": 69,
+      "paginas_catalogo": [
+        69
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pimenta-do-reino",
+      "nome_popular": "Pimenta-do-reino",
+      "nome_cientifico": "Piper nigrum L.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "auxilia a digestão, melhora o apetite, trata tosse, constipação, cólica, problema respiratório e cardíaco.",
+      "parte_utilizada": "fruto seco.",
+      "pagina_catalogo_inicio": 70,
+      "paginas_catalogo": [
+        70
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pimenta-longa",
+      "nome_popular": "Pimenta-longa",
+      "nome_cientifico": "Piper amalago L.",
+      "familia": "Piperaceae.",
+      "uso_medicinal": "atua como anti-inflamatório, antimicrobiano, cicatrizante e calmante.",
+      "parte_utilizada": "folhas e inflorescência.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pirarucu",
+      "nome_popular": "Pirarucu",
+      "nome_cientifico": "Kalanchoe pinnata (Lam.) Pers.",
+      "familia": "Crassulaceae.",
+      "uso_medicinal": "trata afecções pulmonares e funciona como antiúlceras.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "priprioca",
+      "nome_popular": "Priprioca",
+      "nome_cientifico": "Cyperus articulatus L.",
+      "familia": "Cyperaceae.",
+      "uso_medicinal": "atua como anti-inflamatório, sedativo e anticonvulsivo, sendo também usado como planta aromática.",
+      "parte_utilizada": "rizoma.",
+      "pagina_catalogo_inicio": 71,
+      "paginas_catalogo": [
+        71
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "puiupucum",
+      "nome_popular": "Puiupucum",
+      "nome_cientifico": "Curcuma alismatifolia",
+      "familia": "Zingiberaceae.",
+      "uso_medicinal": "atua como antidiarreico e antioxidante.",
+      "parte_utilizada": "raiz e folhas.",
+      "pagina_catalogo_inicio": 72,
+      "paginas_catalogo": [
+        72
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "pupunha",
+      "nome_popular": "Pupunha",
+      "nome_cientifico": "Bactris gasipaes Kunth",
+      "familia": "Arecaceae.",
+      "uso_medicinal": "trata cárie dental.",
+      "parte_utilizada": "óleo do fruto.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "quebra-pedra",
+      "nome_popular": "Quebra-pedra",
+      "nome_cientifico": "Phyllanthus urinaria L.",
+      "familia": "Phyllanthaceae.",
+      "uso_medicinal": "auxilia na eliminação de cálculos renais, nefrites e cistites.",
+      "parte_utilizada": "parte aérea.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "quina",
+      "nome_popular": "Quina",
+      "nome_cientifico": "Quassia amara L.",
+      "familia": "Simaroubaceae.",
+      "uso_medicinal": "atua como febrífugo, tônico e digestivo.",
+      "parte_utilizada": "folhas e lenho.",
+      "pagina_catalogo_inicio": 73,
+      "paginas_catalogo": [
+        73,
+        74
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "LAMEIRA, O. A.; PINTO, J. E. B. P.; CERQUEIRA, E. S.; ARRIGONE-BLANK, M. de F.; CASTRO, A. H. F. Indução de calos em quina (Quassia amara L.). In: SEMINÁRIO MINEIRO DE PLANTAS MEDICINAIS, 2., 1996, Lavras. Anais... Lavras: UFLA, 1996. LAMEIRA, O. A.; PINTO, J. E. B. P.; ARRIGONI-BLANK, M. de F.; PEREIRA, F. D. Estabelecimento da curva de crescimento de calos de quina (Quassia Amara L.). Horticultura Brasileira, v. 14, n. 1, p. 92, maio 1996. Edição dos Resumos do 36º Congresso Brasileiro de Olericultura, Rio de Janeiro, 1996. SOUZA, M. C.; LAMEIRA, O. A.; GOMES, A. P. do R.; BEM-BOM, L. S. P.; BORGES, F. I.; RODRIGUES, I. A.; PINTO, J. E. B. P.; CONCEIÇÃO, H. E. O. da. Germinação in vitro de sementes de quina (Quassia amara L.). In: REUNIÃO DOS BOTÂNICOS DA AMAZÔNIA, 2., 1997, Salinópolis, PA. Programas e resumos. Belém, PA: Sociedade Botânica do Brasil-Seccional da Amazônia: MPEG, 1997. p. 51-52",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/395015"
+        },
+        {
+          "citacao": "MENESES, A. A. S.; LAMEIRA, O. A.; MONFORT, L. E. F. Avaliação, caracterização e manejo de plantas medicinais de ocorrência na Amazônia Oriental. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575761"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; ROCHA, T. T.; GERMANO, C. M.; ASSIS, R. M. A. de; LAMEIRA, O. A. Fenologia reprodutiva de Quassia amara L. (Simaroubaceae). Enciclopédia Biosfera, v. 13, n. 24, p. 545-552, 2016",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1058731"
+        },
+        {
+          "citacao": "ALMEIDA, L. da S. S. de; LAMEIRA, O. A.; ASSIS, R. M. A. de; MOURA, R. C.; FERNANDES, V. S.; SOUSA, S. B. P. Aspectos fenológicos da quina - Quassia amara L. (Simaroubaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 20.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 4., 2016, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2016. p. 133-136",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1053832"
+        },
+        {
+          "citacao": "SOUZA, I. N. G.; LAMEIRA, O. A.; SILVA, E. R. M.; COSTA, K. J. A. Avaliação fenológica da quina (Quassia amara L.) Simaroubaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL, 21., 2017, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2017",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1076296"
+        },
+        {
+          "citacao": "MEDEIROS, A. P. R.; LAMEIRA, O. A.; NEVES, R. L. P.; GERMANO, C. M.; PIRES, H. C. G.; LEÃO, F. M.; OLIVEIRA, M. G. de. Fenologia reprodutiva de Quassia amara L. (Simaroubaceae). In: SILVA NETO, B. R. da (org.). Inventário de recursos genéticos. Ponta Grossa, PR: Atena, 2019. Cap. 13, p. 130-137",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1112384"
+        }
+      ]
+    },
+    {
+      "id": "rambota",
+      "nome_popular": "Rambotã",
+      "nome_cientifico": "Nephelium lappaceum L.",
+      "familia": "Sapindaceae.",
+      "uso_medicinal": "atua como antioxidante.",
+      "parte_utilizada": "fruto.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "rinchao",
+      "nome_popular": "Rinchão",
+      "nome_cientifico": "Stachytarpheta cayennensis (Rich.) Vahl.",
+      "familia": "Verbenaceae.",
+      "uso_medicinal": "trata hemorroidas e bronquite, além de atuar como diurético.",
+      "parte_utilizada": "raiz e folha.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "sabugueiro",
+      "nome_popular": "Sabugueiro",
+      "nome_cientifico": "Sambucus nigra L.",
+      "familia": "Adoxaceae.",
+      "uso_medicinal": "atua como sudorífico e diurético, além de tratar sarampo.",
+      "parte_utilizada": "folhas, flores e casca.",
+      "pagina_catalogo_inicio": 75,
+      "paginas_catalogo": [
+        75
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "SILVA, A. dos S.; LAMEIRA, O. A.; FAIAL, K. do C. F.; MÜLLER, R. C. S.; BRASIL, D. do S. B. Estudo químico de chás de folhas de sabugueiro (Sambucus australis). Brazilian Journal of Development, v. 6, n. 6, p. 40603-40618, 2020. DOI: 10.34117/bjdv6n6-556",
+          "url": "https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/view/12174"
+        }
+      ]
+    },
+    {
+      "id": "sacaca-comum",
+      "nome_popular": "Sacaca-comum",
+      "nome_cientifico": "Croton cajucara Benth.",
+      "familia": "Euphorbiaceae.",
+      "uso_medicinal": "trata dores estomáticas, diarreia e problemas hepáticos.",
+      "parte_utilizada": "folhas e casca.",
+      "pagina_catalogo_inicio": 76,
+      "paginas_catalogo": [
+        76
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "ASSIS, R. M. A. de; LAMEIRA, O. A.; RIBEIRO, F. N. S.; PORTAL, R. K. V. P. Análise fenológica e screening fitoquímico de Croton cajucara Benth. In: ENCONTRO AMAZÔNICO DE AGRÁRIAS, 5., 2013, Belém, PA. A importância da tecnologia e do empreendedorismo no desenvolvimento amazônico. Belém, PA: UFRA, 2013. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/974553"
+        }
+      ]
+    },
+    {
+      "id": "salva-do-marajo",
+      "nome_popular": "Salva-do-marajó",
+      "nome_cientifico": "Lippia grandis Schauer",
+      "familia": "Verbenaceae.",
+      "uso_medicinal": "atua como antimicrobiano.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "NEVES, R. L. P.; LAMEIRA, O. A.; ASSIS, R. M. A. de; PORTAL, R. K. V. P. Avaliação fenológica da espécie Hyptis crenata Pohl ex Benth. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994718"
+        },
+        {
+          "citacao": "NEVES, R. L. P.; MEDEIROS, A. P. R.; LAMEIRA, O. A.; ROCHA, T. T.; RIBEIRO, F. N. S. Caracterização fenológica da espécie Hyptis crenata Pohl ex Benth no campus da Embrapa Amazônia Oriental. In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1001002"
+        }
+      ]
+    },
+    {
+      "id": "sao-joao-caa",
+      "nome_popular": "São-joão-caá",
+      "nome_cientifico": "Unxia camphorata L.f.",
+      "familia": "Asteraceae.",
+      "uso_medicinal": "trata hepatite e distúrbio digestivo.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "sucuuba",
+      "nome_popular": "Sucuuba",
+      "nome_cientifico": "Himatanthus sucuuba (Vahl) Woodson",
+      "familia": "Apocynaceae.",
+      "uso_medicinal": "atua como anticâncer, antifúngico, antibacteriano, anti-inflamatório, analgésico e antimicrobiano.",
+      "parte_utilizada": "casca, folha e látex.",
+      "pagina_catalogo_inicio": 77,
+      "paginas_catalogo": [
+        77
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "terramicina",
+      "nome_popular": "Terramicina",
+      "nome_cientifico": "Alternanthera dentata (Moench) Stuchlík ex R.E.Fr.",
+      "familia": "Amaranthaceae.",
+      "uso_medicinal": "atua como diurético, digestivo, depurativo e antidiarreico.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 78,
+      "paginas_catalogo": [
+        78
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "trapueraba",
+      "nome_popular": "Trapueraba",
+      "nome_cientifico": "Tradescantia zebrina Heynh. ex Bosse.",
+      "familia": "Commelinaceae.",
+      "uso_medicinal": "alivia cistites, dor na bexiga, trata infecção urinária, problemas vasculares, afecções do útero, baixa a pressão arterial e trata amenorreia.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "trevo-cumaru",
+      "nome_popular": "Trevo-cumaru",
+      "nome_cientifico": "Justicia pectoralis Jcq.",
+      "familia": "Acanthaceae.",
+      "uso_medicinal": "atua como expectorante, antimicrobiano, anticoagulante, antitérmico, anti-inflamatório e analgésico.",
+      "parte_utilizada": "folhas e flores.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "MENESES, A. A. S.; LAMEIRA, O. A.; MONFORT, L. E. F. Avaliação, caracterização e manejo de plantas medicinais de ocorrência na Amazônia Oriental. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575761"
+        }
+      ]
+    },
+    {
+      "id": "trevo-roxo",
+      "nome_popular": "Trevo-roxo",
+      "nome_cientifico": "Scutellaria agrestis A.St.-Hil. ex Benth.",
+      "familia": "Lamiaceae.",
+      "uso_medicinal": "atua como analgésico e anti-inflamatório.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": 79,
+      "paginas_catalogo": [
+        79
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "unha-de-gato",
+      "nome_popular": "Unha-de-gato",
+      "nome_cientifico": "Uncaria guianensis (Aubl.) J.F.Gmel",
+      "familia": "Rubiaceae.",
+      "uso_medicinal": "atua como anti-inflamatório e trata câncer de próstata.",
+      "parte_utilizada": "folhas.",
+      "pagina_catalogo_inicio": 80,
+      "paginas_catalogo": [
+        80
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "MENESES, A. A. S.; LAMEIRA, O. A.; MONFORT, L. E. F. Avaliação, caracterização e manejo de plantas medicinais de ocorrência na Amazônia Oriental. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UFRA, 2.; SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA AMAZÔNIA ORIENTAL (AVALIAÇÃO-2004), 8., 2005, Belém, PA. Ciência e tecnologia com inclusão social: anais. Belém, PA: UFRA: Embrapa Amazônia Oriental, 2005. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/575761"
+        }
+      ]
+    },
+    {
+      "id": "urucum",
+      "nome_popular": "Urucum",
+      "nome_cientifico": "Bixa orellana L.",
+      "familia": "Bixaceae.",
+      "uso_medicinal": "trata bronquite e faringite, além de atuar como expectorante.",
+      "parte_utilizada": "folhas, sementes e raiz.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "vassoura-de-botao",
+      "nome_popular": "Vassoura-de-botão",
+      "nome_cientifico": "Borreria verticillata (L.) G.Mey.",
+      "familia": "Rubiaceae.",
+      "uso_medicinal": "trata hemorroidas, erisipela e varizes.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "vassourinha",
+      "nome_popular": "Vassourinha",
+      "nome_cientifico": "Scoparia dulcis L.",
+      "familia": "Plantaginaceae.",
+      "uso_medicinal": "trata diabetes, bronquite e asma.",
+      "parte_utilizada": "toda a planta.",
+      "pagina_catalogo_inicio": 81,
+      "paginas_catalogo": [
+        81
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "vinagreira-da-folha-branca",
+      "nome_popular": "Vinagreira-da-folha-branca",
+      "nome_cientifico": "Hibiscus sabdariffa L.",
+      "familia": "Malvaceae.",
+      "uso_medicinal": "atua como digestivo, laxante e diurético.",
+      "parte_utilizada": "folhas, sementes e cálice.",
+      "pagina_catalogo_inicio": 82,
+      "paginas_catalogo": [
+        82
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "FAÇANHA, T. P.; LAMEIRA, O. A.; RIBEIRO, F. N. S.; BATISTA, W. R. Avaliação fenológica de Gossypium hirsutum L. e Hibiscus sabdariffa L. pertencentes à família Malvaceae. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA EMBRAPA, 16., 2012, Belém, PA. Anais... Belém, PA: Embrapa Amazônia Oriental, 2012. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/949666"
+        },
+        {
+          "citacao": "CARVALHO, A. C. M.; LAMEIRA, O. A.; PIRES, H. C. G.; ASSIS, M. A. de. Aspectos fenológicos de Hibiscus sabdariff L. (Malvaceae). In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS-GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994692"
+        },
+        {
+          "citacao": "PIRES, H. C. G.; LAMEIRA, O. A.; CARVALHO, A. C. M.; CORREIA, R. G.; RODRIGUES, Y. H. T. de M. Aspectos fenológicos de Hibiscus sabdariff L. (Malvaceae). In: CONGRESSO BRASILEIRO DE RECURSOS GENÉTICOS, 3., 2014, Santos. Anais... Brasília, DF: Sociedade Brasileira de Recursos Genéticos, 2014",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/1001017"
+        }
+      ]
+    },
+    {
+      "id": "vinca",
+      "nome_popular": "Vinca",
+      "nome_cientifico": "Catharanthus roseus (L.) Don",
+      "familia": "Apocynaceae.",
+      "uso_medicinal": "atua como cicatrizante, diurético e antidiabético.",
+      "parte_utilizada": "folhas e flores.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": [
+        {
+          "citacao": "PORTAL, R. K. V. P.; LAMEIRA, O. A.; ASSIS, R. M. A. de; MEDEIROS, A. P. R. Caracterização fenológica da espécie Catharanthus roseus [L.] G. In: SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 18.; SEMINÁRIO DE PÓS- GRADUAÇÃO DA EMBRAPA AMAZÔNIA ORIENTAL, 2., 2014, Belém, PA. Anais. Belém, PA: Embrapa Amazônia Oriental, 2014. 1 CD-ROM",
+          "url": "http://www.alice.cnptia.embrapa.br/alice/handle/doc/994572"
+        }
+      ]
+    },
+    {
+      "id": "vindicar-aromatico",
+      "nome_popular": "Vindicar-aromático",
+      "nome_cientifico": "Hedychium coronarium J. Koening.",
+      "familia": "Zingiberaceae.",
+      "uso_medicinal": "tem ação bactericida, inseticida e trata pressão arterial.",
+      "parte_utilizada": "folhas e rizoma.",
+      "pagina_catalogo_inicio": null,
+      "paginas_catalogo": [],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "vindicar-paje",
+      "nome_popular": "Vindicar-pajé",
+      "nome_cientifico": "Hedychium coronarium J. Koenig.",
+      "familia": "Zingiberaceae.",
+      "uso_medicinal": "trata dores, ferimentos, infecções em geral, inflamações na garganta e reumatismo.",
+      "parte_utilizada": "folhas e rizoma.",
+      "pagina_catalogo_inicio": 83,
+      "paginas_catalogo": [
+        83
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    },
+    {
+      "id": "virola",
+      "nome_popular": "Virola",
+      "nome_cientifico": "Virola surinamensis (Rol. ex Rottb.) Warb.",
+      "familia": "Myristicaceae.",
+      "uso_medicinal": "trata úlceras, erisipelas, cólicas e dispepsias, além de atuar na assepsia e cicatrização de feridas.",
+      "parte_utilizada": "casca, fruto e folha.",
+      "pagina_catalogo_inicio": 84,
+      "paginas_catalogo": [
+        84
+      ],
+      "fonte": "embrapa_horto_catalogo_2024",
+      "revisar_manualmente": false,
+      "enriquecimento": {
+        "nome_cientifico_aceito_flora_brasil": null,
+        "gbif_taxon_key": null,
+        "distribuicao_geografica": null,
+        "imagem_url": null
+      },
+      "publicacoes": []
+    }
+  ]
+}

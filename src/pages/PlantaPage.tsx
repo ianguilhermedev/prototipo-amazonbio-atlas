@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { getPlantaBySlug } from '../data/plants';
+import { getPlantaBySlug } from '../data/catalog';
 import { PlantaHeader } from '../components/planta/PlantaHeader';
 import { TabBar } from '../components/planta/TabBar';
 import { VisaoGeral } from '../components/planta/panels/VisaoGeral';

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import type { Planta } from '../../../data/plants';
-import { getPlantaBySlug } from '../../../data/plants';
+import { getPlantaBySlug } from '../../../data/catalog';
 import { plantImages } from '../../../data/plantImages';
 import { IllustrativeBadge } from '../../common/IllustrativeBadge';
 

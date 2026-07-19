@@ -10,28 +10,38 @@ interface SearchResultCardProps {
 }
 
 export function SearchResultCard({ planta }: SearchResultCardProps) {
-  const dotColor = EVIDENCIA[planta.propriedades[0].evidencia].color;
+  const foto = plantImages[planta.slug];
+  const dotColor = planta.propriedades[0] ? EVIDENCIA[planta.propriedades[0].evidencia].color : undefined;
 
   return (
     <div className="bg-white border border-line rounded-3xl overflow-hidden flex flex-col transition-colors duration-200 hover:border-line-hover">
       <div
-        className="relative h-[190px] bg-cover bg-center"
-        style={{ backgroundImage: `url(${plantImages[planta.slug]})` }}
+        className={`relative h-[190px] bg-cover bg-center ${!foto ? 'bg-gradient-to-br from-forest-700 to-forest-900 flex items-center justify-center' : ''}`}
+        style={foto ? { backgroundImage: `url(${foto})` } : undefined}
       >
-        <div
-          className="absolute inset-0"
-          style={{ background: 'linear-gradient(180deg, rgba(22,54,42,0) 55%, rgba(22,54,42,0.35))' }}
-        />
+        {foto && (
+          <div
+            className="absolute inset-0"
+            style={{ background: 'linear-gradient(180deg, rgba(22,54,42,0) 55%, rgba(22,54,42,0.35))' }}
+          />
+        )}
+        {!foto && (
+          <span className="font-mono text-[10.5px] tracking-[0.14em] uppercase text-cream-100/45 text-center px-8">
+            Foto não disponível
+          </span>
+        )}
         <span className="absolute top-[18px] left-5 font-mono text-[10.5px] tracking-[0.16em] uppercase text-cream-100/95 bg-forest-900/50 backdrop-blur-[3px] px-3 py-[6px] rounded-full">
           {planta.regiao}
         </span>
       </div>
 
       <div className="p-6 flex flex-col flex-1">
-        <div className="inline-flex self-start items-center gap-2 font-mono text-[11px] font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-3 py-[5px] rounded-full mb-4">
-          <EvidenceDot color={dotColor} />
-          ÍNDICE {planta.indice}
-        </div>
+        {planta.indice != null && dotColor && (
+          <div className="inline-flex self-start items-center gap-2 font-mono text-[11px] font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-3 py-[5px] rounded-full mb-4">
+            <EvidenceDot color={dotColor} />
+            ÍNDICE {planta.indice}
+          </div>
+        )}
 
         <div className="font-display text-2xl leading-tight text-forest-900">{planta.nomePopular}</div>
         <div className="font-display italic font-light text-[15px] text-forest-900/60 mt-1">

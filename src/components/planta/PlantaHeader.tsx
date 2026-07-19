@@ -11,13 +11,16 @@ interface PlantaHeaderProps {
 
 export function PlantaHeader({ planta }: PlantaHeaderProps) {
   const niveisPresentes = [...new Set(planta.propriedades.map((p) => p.evidencia))];
+  const foto = plantImages[planta.slug];
 
   return (
     <div className="relative bg-forest-900">
-      <div
-        className="absolute inset-0 pointer-events-none bg-cover bg-center opacity-70"
-        style={{ backgroundImage: `url(${plantImages[planta.slug]})` }}
-      />
+      {foto && (
+        <div
+          className="absolute inset-0 pointer-events-none bg-cover bg-center opacity-70"
+          style={{ backgroundImage: `url(${foto})` }}
+        />
+      )}
       <div
         className="absolute inset-0 pointer-events-none"
         style={{
@@ -48,10 +51,12 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
         </div>
 
         <div className="flex flex-wrap items-center gap-3 mt-8">
-          <div className="inline-flex items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-cream-100 bg-cream-100/10 border border-cream-100/15 px-[13px] py-[7px] rounded-full">
-            <EvidenceDot color={EVIDENCIA[planta.propriedades[0].evidencia].color} />
-            ÍNDICE {planta.indice}
-          </div>
+          {planta.indice != null && planta.propriedades[0] && (
+            <div className="inline-flex items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-cream-100 bg-cream-100/10 border border-cream-100/15 px-[13px] py-[7px] rounded-full">
+              <EvidenceDot color={EVIDENCIA[planta.propriedades[0].evidencia].color} />
+              ÍNDICE {planta.indice}
+            </div>
+          )}
           {niveisPresentes.map((nivel) => (
             <div
               key={nivel}

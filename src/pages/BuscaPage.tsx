@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { plantas, type NivelEvidencia } from '../data/plants';
+import type { NivelEvidencia } from '../data/plants';
+import { todasAsPlantas as plantas } from '../data/catalog';
 import { filtrarPlantas } from '../lib/search';
 import { BuscaHeader } from '../components/busca/BuscaHeader';
 import { EvidenceFilter } from '../components/busca/EvidenceFilter';
