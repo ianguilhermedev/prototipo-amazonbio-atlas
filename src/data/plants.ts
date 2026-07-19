@@ -1,8 +1,10 @@
 // Dataset ilustrativo — mock data para o MVP de demonstração do AmazonBio Atlas.
-// As 4 espécies abaixo replicam os textos já aprovados no arquivo de design de
-// referência; os campos ausentes do arquivo original (familia, sintomasDoencas,
-// similaridade, timeline, referencias) foram redigidos no mesmo tom editorial,
-// mas não representam pesquisa real.
+// As 4 primeiras espécies replicam os textos já aprovados no arquivo de design
+// de referência; os campos ausentes do arquivo original (familia,
+// sintomasDoencas, similaridade, timeline, referencias), assim como as
+// espécies adicionadas depois (jambu, pracaxi, ...), foram redigidos no mesmo
+// tom editorial a partir de fontes gerais, mas não representam pesquisa
+// curada ou revisada por pares.
 
 export type NivelEvidencia = 'clinica' | 'pre-clinica' | 'in-vitro' | 'tradicional';
 
@@ -87,7 +89,7 @@ export const plantas: Planta[] = [
       { nome: 'Repelente', evidencia: 'tradicional' },
     ],
     sintomasDoencas: ['Feridas superficiais', 'Picadas de inseto', 'Inflamação da pele'],
-    similaridade: ['copaiba'],
+    similaridade: ['copaiba', 'pracaxi'],
     usoTradicional:
       'Óleo das sementes usado em massagens, no cuidado de feridas e queimaduras e como base de velas repelentes em comunidades ribeirinhas.',
     timeline: [
@@ -151,7 +153,7 @@ export const plantas: Planta[] = [
       { nome: 'Alcaloides', evidencia: 'in-vitro' },
     ],
     sintomasDoencas: ['Glaucoma', 'Xerostomia', 'Baixa salivação'],
-    similaridade: [],
+    similaridade: ['jambu'],
     usoTradicional:
       'Infusão das folhas usada tradicionalmente como sudorífico e para estimular a salivação e o couro cabeludo.',
     timeline: [
@@ -162,6 +164,70 @@ export const plantas: Planta[] = [
     referencias: [
       'Holmstedt et al., "Jaborandi: an interdisciplinary approach", Journal of Ethnopharmacology.',
       'Fox, "Pilocarpine and cevimeline in the treatment of xerostomia", Clinical Reviews.',
+    ],
+  },
+  {
+    slug: 'jambu',
+    nomePopular: 'Jambu',
+    nomeCientifico: 'Acmella oleracea',
+    familia: 'Asteraceae',
+    regiao: 'Baixo Amazonas',
+    indice: 79,
+    fotoDescricao: 'Macro das flores amareladas em formato de botão, folhagem verde ao fundo, fundo neutro.',
+    descricaoCurta:
+      'Planta herbácea cujas flores e folhas produzem uma sensação característica de formigamento e dormência, usada na culinária e na medicina popular amazônica.',
+    descricaoLonga:
+      'Nativa da Amazônia e cultivada principalmente no Pará, o jambu é ingrediente central de pratos como o tacacá e o pato no tucupi. Suas flores e folhas contêm espilantol, um alcamida responsável pela sensação de dormência e formigamento na boca, historicamente explorada como anestésico tópico e estimulante da salivação.',
+    compostos: ['Espilantol', 'Flavonoides', 'Óleos essenciais'],
+    propriedades: [
+      { nome: 'Anestésico tópico', evidencia: 'pre-clinica' },
+      { nome: 'Anti-inflamatório', evidencia: 'in-vitro' },
+      { nome: 'Sialagogo', evidencia: 'tradicional' },
+    ],
+    sintomasDoencas: ['Dor de dente', 'Aftas', 'Baixa salivação'],
+    similaridade: ['jaborandi'],
+    usoTradicional:
+      'Flores mastigadas in natura ou em infusão para aliviar dores de dente e estimular a salivação; também consumido como estimulante do apetite em pratos típicos paraenses.',
+    timeline: [
+      { ano: 1899, evento: 'Primeiras descrições botânicas da espécie no Norte do Brasil.' },
+      { ano: 1996, evento: 'Isolamento e caracterização do espilantol como composto responsável pelo efeito anestésico.' },
+      { ano: 2012, evento: 'Estudos pré-clínicos avaliam potencial anestésico tópico em odontologia.' },
+    ],
+    referencias: [
+      'Prachayasittikul et al., "Acmella oleracea: A plant with a long history of use", Molecules.',
+      'Barbosa et al., "Spilanthol content and topical anesthetic effect of Acmella oleracea", Journal of Ethnopharmacology.',
+    ],
+  },
+  {
+    slug: 'pracaxi',
+    nomePopular: 'Pracaxi',
+    nomeCientifico: 'Pentaclethra macroloba',
+    familia: 'Fabaceae',
+    regiao: 'Baixo Amazonas',
+    indice: 81,
+    fotoDescricao: 'Macro das sementes descascadas sobre folha de bananeira, tom castanho-claro, fundo neutro.',
+    descricaoCurta:
+      'Árvore de várzea cujas sementes fornecem um óleo rico em ácidos graxos, tradicionalmente usado no cuidado da pele e dos cabelos.',
+    descricaoLonga:
+      'O pracaxi é uma árvore comum nas florestas alagáveis da Amazônia. Suas sementes, após processamento, fornecem uma manteiga vegetal rica em ácido behênico e outros ácidos graxos de cadeia longa, empregada por comunidades ribeirinhas na cicatrização de feridas e no fortalecimento capilar, com uso crescente na indústria cosmética.',
+    compostos: ['Ácido behênico', 'Ácido oleico', 'Saponinas'],
+    propriedades: [
+      { nome: 'Cicatrizante', evidencia: 'pre-clinica' },
+      { nome: 'Anti-inflamatório', evidencia: 'in-vitro' },
+      { nome: 'Emoliente', evidencia: 'tradicional' },
+    ],
+    sintomasDoencas: ['Feridas', 'Ressecamento da pele', 'Queda capilar'],
+    similaridade: ['andiroba'],
+    usoTradicional:
+      'Óleo extraído das sementes aplicado sobre feridas, picadas de inseto e no couro cabeludo para fortalecer os cabelos, uso disseminado entre comunidades ribeirinhas do baixo Amazonas.',
+    timeline: [
+      { ano: 1978, evento: 'Primeiros registros etnobotânicos do uso do óleo de pracaxi por comunidades ribeirinhas.' },
+      { ano: 2009, evento: 'Caracterização química da manteiga de pracaxi e seu alto teor de ácido behênico.' },
+      { ano: 2017, evento: 'Expansão do uso da manteiga de pracaxi na indústria cosmética nacional.' },
+    ],
+    referencias: [
+      'Oliveira et al., "Pentaclethra macroloba seed oil: composition and skin applications", Industrial Crops and Products.',
+      'Rodrigues et al., "Traditional use and phytochemistry of Amazonian oilseeds", Economia Botânica.',
     ],
   },
 ];
