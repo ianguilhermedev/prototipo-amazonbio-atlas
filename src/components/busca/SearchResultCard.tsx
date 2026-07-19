@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import type { Planta } from '../../data/plants';
 import { plantImages } from '../../data/plantImages';
 import { EVIDENCIA } from '../../lib/evidence';
+import { useCart } from '../../lib/cart';
 import { Pill } from '../common/Pill';
 import { EvidenceDot } from '../common/EvidenceDot';
 
@@ -12,6 +13,8 @@ interface SearchResultCardProps {
 export function SearchResultCard({ planta }: SearchResultCardProps) {
   const foto = plantImages[planta.slug];
   const dotColor = planta.propriedades[0] ? EVIDENCIA[planta.propriedades[0].evidencia].color : undefined;
+  const { isInCart, toggle } = useCart();
+  const naSelecao = isInCart(planta.slug);
 
   return (
     <div className="bg-white border border-line rounded-3xl overflow-hidden flex flex-col transition-colors duration-200 hover:border-line-hover">
@@ -55,12 +58,25 @@ export function SearchResultCard({ planta }: SearchResultCardProps) {
           ))}
         </div>
 
-        <Link
-          to={`/planta/${planta.slug}`}
-          className="inline-flex items-center gap-2 self-start bg-lime-400 text-forest-900 font-semibold text-sm px-5 py-[11px] rounded-full mt-5 transition-colors duration-150 hover:bg-lime-300"
-        >
-          Ver detalhes <span className="text-base leading-none">→</span>
-        </Link>
+        <div className="flex items-center gap-3 mt-5">
+          <Link
+            to={`/planta/${planta.slug}`}
+            className="inline-flex items-center gap-2 bg-lime-400 text-forest-900 font-semibold text-sm px-5 py-[11px] rounded-full transition-colors duration-150 hover:bg-lime-300"
+          >
+            Ver detalhes <span className="text-base leading-none">→</span>
+          </Link>
+          <button
+            type="button"
+            onClick={() => toggle(planta.slug)}
+            className={`inline-flex items-center gap-2 font-semibold text-sm px-5 py-[11px] rounded-full border transition-colors duration-150 ${
+              naSelecao
+                ? 'bg-forest-900 text-cream-100 border-forest-900'
+                : 'bg-transparent text-forest-900 border-forest-700/25 hover:border-forest-900'
+            }`}
+          >
+            {naSelecao ? '✓ Na seleção' : '+ Adicionar'}
+          </button>
+        </div>
       </div>
     </div>
   );

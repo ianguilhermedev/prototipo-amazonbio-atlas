@@ -3,6 +3,7 @@ import type { Planta } from '../../data/plants';
 import { plantImages } from '../../data/plantImages';
 import { getAtribuicaoFoto } from '../../data/photoAttribution';
 import { EVIDENCIA } from '../../lib/evidence';
+import { useCart } from '../../lib/cart';
 import { EvidenceDot } from '../common/EvidenceDot';
 import { Nav } from '../layout/Nav';
 
@@ -14,6 +15,8 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
   const niveisPresentes = [...new Set(planta.propriedades.map((p) => p.evidencia))];
   const foto = plantImages[planta.slug];
   const atribuicao = getAtribuicaoFoto(planta.slug);
+  const { isInCart, toggle } = useCart();
+  const naSelecao = isInCart(planta.slug);
 
   return (
     <div className="relative bg-forest-900">
@@ -78,6 +81,17 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
               {EVIDENCIA[nivel].label}
             </div>
           ))}
+          <button
+            type="button"
+            onClick={() => toggle(planta.slug)}
+            className={`inline-flex items-center gap-2 font-semibold text-sm px-[18px] py-[9px] rounded-full border transition-colors duration-150 ${
+              naSelecao
+                ? 'bg-lime-400 text-forest-900 border-lime-400'
+                : 'bg-cream-100/10 text-cream-100 border-cream-100/25 hover:border-lime-400 hover:text-lime-400'
+            }`}
+          >
+            {naSelecao ? '✓ Na seleção para relatório' : '+ Adicionar à seleção'}
+          </button>
         </div>
       </div>
     </div>

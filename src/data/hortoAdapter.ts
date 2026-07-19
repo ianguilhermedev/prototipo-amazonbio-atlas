@@ -82,6 +82,16 @@ function paraReferencias(publicacoes: PublicacaoHorto[]): string[] {
   return publicacoes.map((p) => (p.url ? `${p.citacao} — ${p.url}` : p.citacao));
 }
 
+// Índice = uma medida de "quanto já documentamos" desta espécie (nº de
+// propriedades derivadas + nº de publicações reais vinculadas), não uma nota
+// de eficácia terapêutica — não há base para isso no catálogo-fonte. Mesma
+// lógica de honestidade das seções de evidência: number visível, mas
+// calculado de forma transparente, nunca um valor de opinião por espécie.
+function calcularIndice(numTermos: number, numReferencias: number): number {
+  const bruto = 40 + numTermos * 6 + Math.min(numReferencias, 8) * 5;
+  return Math.min(95, Math.max(35, bruto));
+}
+
 const dataset = raw as { especies: EspecieHorto[] };
 
 export const plantasHorto: Planta[] = dataset.especies
@@ -94,14 +104,16 @@ export const plantasHorto: Planta[] = dataset.especies
     // Alguns registros trazem anotações extras após o nome da família (ex.:
     // "Asparagaceae. Uso ornamental."); mantemos só a primeira sentença.
     const familia = e.familia.split('.')[0].trim();
+    const referencias = paraReferencias(e.publicacoes);
 
     return {
       slug: SLUG_OVERRIDES[e.id] ?? e.id,
       nomePopular: e.nome_popular,
       nomeCientifico: e.nome_cientifico,
       familia,
+      indice: calcularIndice(termos.length, referencias.length),
       regiao: 'Horto de Plantas Medicinais — Belém, PA',
-      fotoDescricao: 'Foto real ainda não disponível para esta espécie no catálogo-fonte.',
+      fotoDescricao: 'Foto real obtida via GBIF — ver atribuição na página da espécie.',
       descricaoCurta: descricao,
       descricaoLonga: parteUtilizada ? `${descricao} Parte utilizada: ${parteUtilizada}.` : descricao,
       compostos: [],
@@ -110,7 +122,7 @@ export const plantasHorto: Planta[] = dataset.especies
       similaridade: [],
       usoTradicional: usoMedicinalTexto,
       timeline: [],
-      referencias: paraReferencias(e.publicacoes),
+      referencias,
       fonteReal: true,
     };
   });

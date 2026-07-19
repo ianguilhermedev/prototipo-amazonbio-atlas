@@ -20,7 +20,7 @@ function pad2(n: number) {
 
 export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: SpeciesCarouselProps) {
   const plant = plants[idx];
-  const dotColor = EVIDENCIA[plant.propriedades[0].evidencia].color;
+  const dotColor = plant.propriedades[0] ? EVIDENCIA[plant.propriedades[0].evidencia].color : undefined;
 
   return (
     <section className="bg-cream-100 text-forest-900">
@@ -31,12 +31,12 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
               Espécies em destaque
             </div>
             <h2 className="font-display font-normal text-[32px] md:text-[46px] leading-[1.08] tracking-[-0.01em] max-w-[16ch]">
-              Registros com evidência <em className="italic text-forest-700">consolidada</em>
+              Um recorte <em className="italic text-forest-700">rotativo</em> do acervo
             </h2>
           </div>
           <p className="text-[15px] leading-relaxed text-forest-900/66 max-w-[34ch] md:text-right">
-            Uma seleção curada de espécies cujo perfil químico e terapêutico já foi revisado por pares e cruzado com
-            registros etnobotânicos.
+            Uma amostra do que já catalogamos — muda a cada visita. Cada espécie carrega seu próprio nível de
+            evidência, do ensaio clínico ao registro tradicional.
           </p>
         </div>
 
@@ -59,10 +59,12 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
             </div>
 
             <div className="p-8 md:p-12 flex flex-col justify-center">
-              <div className="inline-flex self-start items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-[13px] py-[6px] rounded-full mb-[22px]">
-                <EvidenceDot color={dotColor} />
-                ÍNDICE {plant.indice}
-              </div>
+              {plant.indice != null && dotColor && (
+                <div className="inline-flex self-start items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-[13px] py-[6px] rounded-full mb-[22px]">
+                  <EvidenceDot color={dotColor} />
+                  ÍNDICE {plant.indice}
+                </div>
+              )}
               <div className="font-display text-[32px] md:text-[42px] leading-[1.05] tracking-[-0.015em] text-forest-900">
                 {plant.nomePopular}
               </div>
