@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest-900: #16362a;
+  --color-forest-700: #1e4436;
+  --color-cream-100: #f4f1e8;
+  --color-cream-200: #eae6da;
+  --color-lime-400: #b6e06a;
+  --color-lime-300: #c7ea86;
+
+  --color-evidence-clinica: #4ea36a;
+  --color-evidence-preclinica: #4a86c4;
+  --color-evidence-invitro: #e0c15a;
+  --color-evidence-tradicional: #9a9a8e;
+
+  /* structural neutrals for card/thumbnail borders */
+  --color-line: #ded9cb;
+  --color-line-hover: #cfc9b8;
+  --color-line-thumb-hover: #c9c2af;
+
+  --font-display: "Newsreader", serif;
+  --font-body: "Hanken Grotesk", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply font-body bg-cream-100 text-forest-900;
+    margin: 0;
+  }
+
+  ::selection {
+    background: var(--color-lime-400);
+    color: var(--color-forest-900);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(2px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 260ms ease;
+}
