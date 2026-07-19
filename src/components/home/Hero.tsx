@@ -1,4 +1,5 @@
 import type { Planta } from '../../data/plants';
+import { todasAsPlantas } from '../../data/catalog';
 import { heroBgImg } from '../../data/plantImages';
 import { Nav } from '../layout/Nav';
 import { HeroSearchBar } from './HeroSearchBar';
@@ -8,6 +9,8 @@ interface HeroProps {
 }
 
 export function Hero({ activePlant }: HeroProps) {
+  const totalEspecies = todasAsPlantas.length;
+
   return (
     <div className="relative bg-forest-900">
       <div
@@ -44,7 +47,7 @@ export function Hero({ activePlant }: HeroProps) {
 
         <div className="inline-flex items-center gap-[9px] mt-16 font-mono text-[11px] tracking-[0.16em] uppercase text-cream-100/50">
           <span className="w-[7px] h-[7px] rounded-full bg-lime-400 shadow-[0_0_0_4px_rgba(182,224,106,0.16)]" />
-          +1.000 espécies em catalogação contínua
+          {totalEspecies.toLocaleString('pt-BR')} espécies em catalogação contínua
         </div>
       </header>
     </div>

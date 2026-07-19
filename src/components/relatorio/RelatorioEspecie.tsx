@@ -39,9 +39,10 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
 
       {foto && (
         <figure className="mb-6">
-          <div
-            className="w-full h-[220px] rounded-2xl bg-cover bg-center"
-            style={{ backgroundImage: `url(${foto})` }}
+          <img
+            src={foto}
+            alt={planta.nomePopular}
+            className="w-full h-[220px] object-cover rounded-2xl print:break-inside-avoid"
           />
           {atribuicao && (
             <figcaption className="font-mono text-[10px] text-forest-900/45 mt-2">
