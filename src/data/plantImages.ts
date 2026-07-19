@@ -10,9 +10,23 @@ import spPracaxi from '../assets/images/sp-pracaxi.png';
 export const logoImg = logo;
 export const heroBgImg = heroBg;
 
+// Fotos buscadas automaticamente (ver scripts/fetch-gbif-photos.mjs) caem
+// nesta pasta com o nome do arquivo = slug da espécie. Descobertas em tempo
+// de build via glob — basta o arquivo existir, sem precisar editar código.
+const fotosHortoModules = import.meta.glob('../assets/images/horto/*.{jpg,jpeg,png}', {
+  eager: true,
+  import: 'default',
+}) as Record<string, string>;
+
+const fotosHorto: Record<string, string> = {};
+for (const [caminho, url] of Object.entries(fotosHortoModules)) {
+  const slug = caminho.split('/').pop()!.replace(/\.(jpg|jpeg|png)$/i, '');
+  fotosHorto[slug] = url;
+}
+
 // Real macro photos exist only for species with a matching entry here.
-// Species added later without one should fall back to a neutral placeholder
-// in the UI rather than throwing.
+// Species without one fall back to a neutral placeholder in the UI rather
+// than throwing.
 export const plantImages: Record<string, string> = {
   'unha-de-gato': spUnha,
   andiroba: spAndiroba,
@@ -20,4 +34,5 @@ export const plantImages: Record<string, string> = {
   jaborandi: spJaborandi,
   jambu: spJambu,
   pracaxi: spPracaxi,
+  ...fotosHorto,
 };

@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import type { Planta } from '../../data/plants';
 import { plantImages } from '../../data/plantImages';
+import { getAtribuicaoFoto } from '../../data/photoAttribution';
 import { EVIDENCIA } from '../../lib/evidence';
 import { EvidenceDot } from '../common/EvidenceDot';
 import { Nav } from '../layout/Nav';
@@ -12,6 +13,7 @@ interface PlantaHeaderProps {
 export function PlantaHeader({ planta }: PlantaHeaderProps) {
   const niveisPresentes = [...new Set(planta.propriedades.map((p) => p.evidencia))];
   const foto = plantImages[planta.slug];
+  const atribuicao = getAtribuicaoFoto(planta.slug);
 
   return (
     <div className="relative bg-forest-900">
@@ -20,6 +22,16 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
           className="absolute inset-0 pointer-events-none bg-cover bg-center opacity-70"
           style={{ backgroundImage: `url(${foto})` }}
         />
+      )}
+      {atribuicao && (
+        <a
+          href={atribuicao.fonte}
+          target="_blank"
+          rel="noreferrer"
+          className="absolute bottom-2 right-3 z-10 font-mono text-[10px] tracking-[0.04em] text-cream-100/45 hover:text-cream-100/70 transition-colors duration-150"
+        >
+          Foto: {atribuicao.creator} · {atribuicao.licenseLabel} via GBIF
+        </a>
       )}
       <div
         className="absolute inset-0 pointer-events-none"

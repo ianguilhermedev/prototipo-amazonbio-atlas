@@ -1,5 +1,6 @@
 import type { Planta, Propriedade } from './plants';
 import raw from './plantas_horto.json';
+import overrides from './hortoOverrides.json';
 
 interface PublicacaoHorto {
   citacao: string;
@@ -16,16 +17,10 @@ interface EspecieHorto {
   publicacoes: PublicacaoHorto[];
 }
 
-// Já catalogadas com ficha mais rica (foto real, compostos, timeline) sob um
-// nome popular diferente no dataset curado — mesma espécie, evita duplicar.
-const JA_CATALOGADAS_COMO = new Set(['andirobeira', 'jaborandi-da-folha-composta']);
-
-// "Unha-de-gato" no catálogo do horto é Uncaria guianensis — espécie
-// diferente da Uncaria tomentosa já curada, mas com o mesmo nome popular e,
-// por isso, o mesmo id/slug gerado. Renomeado para não colidir.
-const SLUG_OVERRIDES: Record<string, string> = {
-  'unha-de-gato': 'unha-de-gato-guianensis',
-};
+// Compartilhado com scripts/fetch-gbif-photos.mjs — mantém a mesma lista de
+// espécies e slugs entre o app e o pipeline de fotos.
+const JA_CATALOGADAS_COMO = new Set(overrides.jaCatalogadasComo);
+const SLUG_OVERRIDES: Record<string, string> = overrides.slugOverrides;
 
 const LEAD_INS = [
   /^atua como\s+/i,
@@ -95,7 +90,7 @@ export const plantasHorto: Planta[] = dataset.especies
     const termos = extrairTermos(e.uso_medicinal);
     const usoMedicinalTexto = e.uso_medicinal.trim() || 'Uso medicinal não detalhado no catálogo-fonte.';
     const descricao = capitalizar(usoMedicinalTexto);
-    const parteUtilizada = e.parte_utilizada.trim();
+    const parteUtilizada = e.parte_utilizada.trim().replace(/\.$/, '');
     // Alguns registros trazem anotações extras após o nome da família (ex.:
     // "Asparagaceae. Uso ornamental."); mantemos só a primeira sentença.
     const familia = e.familia.split('.')[0].trim();

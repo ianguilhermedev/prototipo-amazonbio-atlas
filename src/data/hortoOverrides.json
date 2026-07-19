@@ -1,0 +1,6 @@
+{
+  "jaCatalogadasComo": ["andirobeira", "jaborandi-da-folha-composta"],
+  "slugOverrides": {
+    "unha-de-gato": "unha-de-gato-guianensis"
+  }
+}
