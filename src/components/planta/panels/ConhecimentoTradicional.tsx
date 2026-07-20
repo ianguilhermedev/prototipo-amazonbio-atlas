@@ -10,14 +10,14 @@ export function ConhecimentoTradicional({ planta }: ConhecimentoTradicionalProps
     <div>
       {planta.fonteReal ? (
         <p className="font-mono text-[11px] tracking-[0.14em] uppercase text-forest-900/45 mb-6">
-          Fonte: catálogo do Horto de Plantas Medicinais e Aromáticas, Embrapa Amazônia Oriental (2024)
+          Source: catalog of the Medicinal and Aromatic Plants Garden, Embrapa Eastern Amazon (2024)
         </p>
       ) : (
         <>
           <IllustrativeBadge />
           <p className="text-[15px] leading-relaxed text-forest-900/70 max-w-[60ch] mt-4 mb-6">
-            Exemplo de painel: em uma versão futura, este espaço reuniria múltiplos registros etnobotânicos com
-            fonte, comunidade e data de coleta. Por ora, um único relato-síntese ilustra o formato.
+            Example panel: in a future version, this space would gather multiple ethnobotanical records with
+            source, community, and collection date. For now, a single summary account illustrates the format.
           </p>
         </>
       )}

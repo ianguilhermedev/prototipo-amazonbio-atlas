@@ -33,7 +33,7 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
           rel="noreferrer"
           className="absolute bottom-2 right-3 z-10 font-mono text-[10px] tracking-[0.04em] text-cream-100/45 hover:text-cream-100/70 transition-colors duration-150"
         >
-          Foto: {atribuicao.creator} · {atribuicao.licenseLabel} via GBIF
+          Photo: {atribuicao.creator} · {atribuicao.licenseLabel} via GBIF
         </a>
       )}
       <div
@@ -51,7 +51,7 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
           to="/"
           className="inline-flex items-center gap-2 font-mono text-xs tracking-[0.1em] uppercase text-cream-100/60 transition-colors duration-150 hover:text-lime-400 mb-10"
         >
-          ← Voltar ao acervo
+          ← Back to the collection
         </Link>
 
         <div className="font-mono text-xs tracking-[0.28em] uppercase text-lime-400 mb-5">
@@ -69,7 +69,7 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
           {planta.indice != null && planta.propriedades[0] && (
             <div className="inline-flex items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-cream-100 bg-cream-100/10 border border-cream-100/15 px-[13px] py-[7px] rounded-full">
               <EvidenceDot color={EVIDENCIA[planta.propriedades[0].evidencia].color} />
-              ÍNDICE {planta.indice}
+              INDEX {planta.indice}
             </div>
           )}
           {niveisPresentes.map((nivel) => (
@@ -90,7 +90,7 @@ export function PlantaHeader({ planta }: PlantaHeaderProps) {
                 : 'bg-cream-100/10 text-cream-100 border-cream-100/25 hover:border-lime-400 hover:text-lime-400'
             }`}
           >
-            {naSelecao ? '✓ Na seleção para relatório' : '+ Adicionar à seleção'}
+            {naSelecao ? '✓ In report selection' : '+ Add to selection'}
           </button>
         </div>
       </div>

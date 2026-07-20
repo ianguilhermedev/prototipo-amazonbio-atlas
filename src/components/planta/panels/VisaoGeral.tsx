@@ -7,10 +7,10 @@ interface VisaoGeralProps {
 
 export function VisaoGeral({ planta }: VisaoGeralProps) {
   const stats = [
-    { label: 'Família', value: planta.familia },
-    { label: 'Região', value: planta.regiao },
-    ...(planta.indice != null ? [{ label: 'Índice', value: String(planta.indice) }] : []),
-    { label: 'Compostos documentados', value: String(planta.compostos.length) },
+    { label: 'Family', value: planta.familia },
+    { label: 'Region', value: planta.regiao },
+    ...(planta.indice != null ? [{ label: 'Index', value: String(planta.indice) }] : []),
+    { label: 'Documented compounds', value: String(planta.compostos.length) },
   ];
 
   return (
@@ -21,7 +21,7 @@ export function VisaoGeral({ planta }: VisaoGeralProps) {
         {planta.sintomasDoencas.length > 0 && (
           <>
             <div className="font-mono text-xs tracking-[0.16em] uppercase text-forest-900/50 mt-10 mb-3">
-              Sintomas e condições associadas
+              Associated symptoms and conditions
             </div>
             <div className="flex flex-wrap gap-2">
               {planta.sintomasDoencas.map((s) => (

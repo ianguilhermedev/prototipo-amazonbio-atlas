@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import type { Planta } from '../../data/plants';
 import { Pill } from '../common/Pill';
 
-const chips = ['Uncaria tomentosa', 'Anti-inflamatório', 'Alcaloides', 'Cicatrizante'];
+const chips = ['Uncaria tomentosa', 'Anti-inflammatory', 'Alkaloids', 'Wound healing'];
 
 interface HeroSearchBarProps {
   activePlant: Planta;
@@ -25,21 +25,21 @@ export function HeroSearchBar({ activePlant }: HeroSearchBarProps) {
         className="flex items-center gap-3 bg-cream-100 rounded-full pl-5 md:pl-[26px] pr-[9px] py-[9px] shadow-[0_24px_60px_-30px_rgba(0,0,0,0.55)]"
       >
         <span className="hidden sm:inline font-mono text-[11px] tracking-[0.18em] uppercase text-forest-900/42 whitespace-nowrap">
-          Buscar
+          Search
         </span>
         <div className="hidden sm:block w-px h-[26px] bg-forest-900/14" />
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Espécie, composto ativo ou propriedade terapêutica…"
+          placeholder="Species, active compound, or therapeutic property…"
           className="flex-1 min-w-0 border-none outline-none bg-transparent font-body text-[17px] text-forest-900 py-3 px-1"
         />
         <button
           type="submit"
           className="flex items-center gap-[9px] bg-lime-400 text-forest-900 font-semibold text-[15px] px-5 md:px-7 py-[15px] rounded-full whitespace-nowrap transition-colors duration-150 hover:bg-lime-300"
         >
-          <span className="hidden sm:inline">Pesquisar</span>
+          <span className="hidden sm:inline">Search</span>
           <span className="text-[17px] leading-none">→</span>
         </button>
       </form>
@@ -67,7 +67,7 @@ export function HeroSearchBar({ activePlant }: HeroSearchBarProps) {
       <div className="mt-6 md:mt-7">
         <div className="inline-flex items-center gap-[9px] font-mono text-[11px] tracking-[0.18em] uppercase text-cream-100/55 mb-3">
           <span className="w-[6px] h-[6px] rounded-full bg-lime-400 animate-pulse" />
-          Em foco no acervo
+          In focus in the collection
         </div>
         <div className="rounded-2xl bg-cream-100/[0.08] border border-cream-100/15 backdrop-blur-sm px-5 py-4">
           <div key={activePlant.slug} className="animate-fade-in flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5">

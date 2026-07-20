@@ -28,15 +28,15 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 md:gap-12 mb-10 md:mb-[52px]">
           <div>
             <div className="font-mono text-xs tracking-[0.3em] uppercase text-forest-900/50 mb-5">
-              Espécies em destaque
+              Featured species
             </div>
             <h2 className="font-display font-normal text-[32px] md:text-[46px] leading-[1.08] tracking-[-0.01em] max-w-[16ch]">
-              Um recorte <em className="italic text-forest-700">rotativo</em> do acervo
+              A <em className="italic text-forest-700">rotating</em> slice of the collection
             </h2>
           </div>
           <p className="text-[15px] leading-relaxed text-forest-900/66 max-w-[34ch] md:text-right">
-            Uma amostra do que já catalogamos — muda a cada visita. Cada espécie carrega seu próprio nível de
-            evidência, do ensaio clínico ao registro tradicional.
+            A sample of what we've already cataloged — changes on every visit. Each species carries its own level
+            of evidence, from clinical trial to traditional record.
           </p>
         </div>
 
@@ -62,7 +62,7 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
               {plant.indice != null && dotColor && (
                 <div className="inline-flex self-start items-center gap-2 font-mono text-xs font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-[13px] py-[6px] rounded-full mb-[22px]">
                   <EvidenceDot color={dotColor} />
-                  ÍNDICE {plant.indice}
+                  INDEX {plant.indice}
                 </div>
               )}
               <div className="font-display text-[32px] md:text-[42px] leading-[1.05] tracking-[-0.015em] text-forest-900">
@@ -84,7 +84,7 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
                   to={`/planta/${plant.slug}`}
                   className="inline-flex items-center gap-[9px] bg-lime-400 text-forest-900 font-bold text-[15px] px-[26px] py-[14px] rounded-full transition-colors duration-150 hover:bg-lime-300"
                 >
-                  Ver detalhes <span className="text-base leading-none">→</span>
+                  View details <span className="text-base leading-none">→</span>
                 </Link>
               </div>
             </div>
@@ -92,14 +92,14 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
 
           <button
             onClick={onPrev}
-            aria-label="Anterior"
+            aria-label="Previous"
             className="hidden md:flex absolute top-[210px] -left-5 w-[52px] h-[52px] rounded-full border border-line bg-white text-forest-900 text-xl items-center justify-center shadow-[0_12px_30px_-14px_rgba(22,54,42,0.4)] transition-colors duration-150 hover:bg-forest-900 hover:border-forest-900 hover:text-cream-100"
           >
             ←
           </button>
           <button
             onClick={onNext}
-            aria-label="Próxima"
+            aria-label="Next"
             className="hidden md:flex absolute top-[210px] -right-5 w-[52px] h-[52px] rounded-full border border-line bg-white text-forest-900 text-xl items-center justify-center shadow-[0_12px_30px_-14px_rgba(22,54,42,0.4)] transition-colors duration-150 hover:bg-forest-900 hover:border-forest-900 hover:text-cream-100"
           >
             →
@@ -109,14 +109,14 @@ export function SpeciesCarousel({ plants, idx, onPrev, onNext, onSelect }: Speci
         <div className="flex md:hidden justify-center gap-4 mt-5">
           <button
             onClick={onPrev}
-            aria-label="Anterior"
+            aria-label="Previous"
             className="w-11 h-11 rounded-full border border-line bg-white text-forest-900 text-lg flex items-center justify-center"
           >
             ←
           </button>
           <button
             onClick={onNext}
-            aria-label="Próxima"
+            aria-label="Next"
             className="w-11 h-11 rounded-full border border-line bg-white text-forest-900 text-lg flex items-center justify-center"
           >
             →

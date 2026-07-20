@@ -23,14 +23,14 @@ export function PlantaPage() {
       <div className="min-h-screen flex items-center justify-center bg-cream-100 text-forest-900 px-6">
         <div className="text-center max-w-md">
           <div className="font-mono text-xs tracking-[0.3em] uppercase text-forest-900/50 mb-4">
-            Espécie não encontrada
+            Species not found
           </div>
-          <h1 className="font-display text-3xl mb-8">Não há registro para este slug no acervo.</h1>
+          <h1 className="font-display text-3xl mb-8">There is no record for this slug in the collection.</h1>
           <Link
             to="/"
             className="inline-flex items-center gap-2 bg-lime-400 text-forest-900 font-semibold text-sm px-6 py-3 rounded-full transition-colors duration-150 hover:bg-lime-300"
           >
-            ← Voltar para a Home
+            ← Back to Home
           </Link>
         </div>
       </div>

@@ -1,5 +1,7 @@
 import type { Planta, Propriedade } from './plants';
-import raw from './plantas_horto.json';
+// TEMP (English swap): points at the translated catalog. Revert to
+// './plantas_horto.json' to restore the Portuguese source.
+import raw from './plantas_horto.en.json';
 import overrides from './hortoOverrides.json';
 
 interface PublicacaoHorto {
@@ -23,17 +25,18 @@ const JA_CATALOGADAS_COMO = new Set(overrides.jaCatalogadasComo);
 const SLUG_OVERRIDES: Record<string, string> = overrides.slugOverrides;
 
 const LEAD_INS = [
-  /^atua como\s+/i,
-  /^atua em\s+/i,
-  /^trata\s+/i,
-  /^auxilia no\s+/i,
-  /^auxilia na\s+/i,
-  /^auxilia\s+/i,
-  /^tem atividade\s+/i,
-  /^ação\s+/i,
-  /^além de\s+/i,
-  /^também\s+/i,
-  /^é usad[ao]\s+(para|como)?\s*/i,
+  /^acts as (a |an )?/i,
+  /^acts on\s+/i,
+  /^treats\s+/i,
+  /^aids in\s+/i,
+  /^aids\s+/i,
+  /^helps control\s+/i,
+  /^has\s+/i,
+  /^also treats\s+/i,
+  /^also\s+/i,
+  /^used as\s+/i,
+  /^used to\s+/i,
+  /^is\s+/i,
 ];
 
 function stripLeadIn(text: string) {
@@ -56,7 +59,7 @@ function extrairTermos(usoMedicinal: string): string[] {
   if (!texto) return [];
 
   const partes = texto
-    .split(/,| e (?=[a-zàáâãéêíóôõúü])/i)
+    .split(/,| and (?=[a-z])/i)
     .map(stripLeadIn)
     .map((p) => p.trim())
     .filter((p) => p.length > 1 && p.length <= 40);
@@ -98,7 +101,7 @@ export const plantasHorto: Planta[] = dataset.especies
   .filter((e) => !JA_CATALOGADAS_COMO.has(e.id))
   .map((e): Planta => {
     const termos = extrairTermos(e.uso_medicinal);
-    const usoMedicinalTexto = e.uso_medicinal.trim() || 'Uso medicinal não detalhado no catálogo-fonte.';
+    const usoMedicinalTexto = e.uso_medicinal.trim() || 'Medicinal use not detailed in the source catalog.';
     const descricao = capitalizar(usoMedicinalTexto);
     const parteUtilizada = e.parte_utilizada.trim().replace(/\.$/, '');
     // Alguns registros trazem anotações extras após o nome da família (ex.:
@@ -112,10 +115,10 @@ export const plantasHorto: Planta[] = dataset.especies
       nomeCientifico: e.nome_cientifico,
       familia,
       indice: calcularIndice(termos.length, referencias.length),
-      regiao: 'Horto de Plantas Medicinais — Belém, PA',
-      fotoDescricao: 'Foto real obtida via GBIF — ver atribuição na página da espécie.',
+      regiao: 'Medicinal Plants Garden — Belém, PA',
+      fotoDescricao: 'Real photo obtained via GBIF — see attribution on the species page.',
       descricaoCurta: descricao,
-      descricaoLonga: parteUtilizada ? `${descricao} Parte utilizada: ${parteUtilizada}.` : descricao,
+      descricaoLonga: parteUtilizada ? `${descricao} Part used: ${parteUtilizada}.` : descricao,
       compostos: [],
       propriedades: paraPropriedades(termos),
       sintomasDoencas: termos,

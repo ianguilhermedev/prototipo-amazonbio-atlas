@@ -30,7 +30,7 @@ export function SearchResultCard({ planta }: SearchResultCardProps) {
         )}
         {!foto && (
           <span className="font-mono text-[10.5px] tracking-[0.14em] uppercase text-cream-100/45 text-center px-8">
-            Foto não disponível
+            Photo not available
           </span>
         )}
         <span className="absolute top-[18px] left-5 font-mono text-[10.5px] tracking-[0.16em] uppercase text-cream-100/95 bg-forest-900/50 backdrop-blur-[3px] px-3 py-[6px] rounded-full">
@@ -42,7 +42,7 @@ export function SearchResultCard({ planta }: SearchResultCardProps) {
         {planta.indice != null && dotColor && (
           <div className="inline-flex self-start items-center gap-2 font-mono text-[11px] font-medium tracking-[0.08em] text-forest-900 bg-cream-200 px-3 py-[5px] rounded-full mb-4">
             <EvidenceDot color={dotColor} />
-            ÍNDICE {planta.indice}
+            INDEX {planta.indice}
           </div>
         )}
 
@@ -63,7 +63,7 @@ export function SearchResultCard({ planta }: SearchResultCardProps) {
             to={`/planta/${planta.slug}`}
             className="inline-flex items-center gap-2 bg-lime-400 text-forest-900 font-semibold text-sm px-5 py-[11px] rounded-full transition-colors duration-150 hover:bg-lime-300"
           >
-            Ver detalhes <span className="text-base leading-none">→</span>
+            View details <span className="text-base leading-none">→</span>
           </Link>
           <button
             type="button"
@@ -74,7 +74,7 @@ export function SearchResultCard({ planta }: SearchResultCardProps) {
                 : 'bg-transparent text-forest-900 border-forest-700/25 hover:border-forest-900'
             }`}
           >
-            {naSelecao ? '✓ Na seleção' : '+ Adicionar'}
+            {naSelecao ? '✓ In selection' : '+ Add'}
           </button>
         </div>
       </div>

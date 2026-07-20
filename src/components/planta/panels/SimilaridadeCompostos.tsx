@@ -15,12 +15,12 @@ export function SimilaridadeCompostos({ planta }: SimilaridadeCompostosProps) {
     <div>
       <IllustrativeBadge />
       <p className="text-[15px] leading-relaxed text-forest-900/70 max-w-[60ch] mt-4 mb-6">
-        Exemplo de visualização: espécies com perfil de compostos ou propriedades próximas ao registro atual. Em uma
-        versão futura, esta comparação seria calculada a partir da similaridade estrutural real dos compostos.
+        Example visualization: species with a compound or property profile close to the current record. In a
+        future version, this comparison would be calculated from the real structural similarity of the compounds.
       </p>
 
       {relacionadas.length === 0 ? (
-        <p className="text-sm text-forest-900/50">Nenhuma espécie similar catalogada ainda para este registro.</p>
+        <p className="text-sm text-forest-900/50">No similar species cataloged yet for this record.</p>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-[640px]">
           {relacionadas.map((rel) => (

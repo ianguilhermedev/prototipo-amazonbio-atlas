@@ -7,14 +7,15 @@ export function EvidenceSystem() {
       <div className="max-w-[1240px] mx-auto px-6 py-16 md:px-12 md:py-[104px] grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-[72px] items-center">
         <div>
           <div className="font-mono text-xs tracking-[0.3em] uppercase text-forest-900/50 mb-[22px]">
-            Sistema de evidências
+            Evidence system
           </div>
           <h2 className="font-display font-normal text-[32px] md:text-[46px] leading-[1.08] tracking-[-0.01em] max-w-[15ch]">
-            Nem toda afirmação tem o mesmo <em className="italic text-forest-700">peso</em>
+            Not every claim carries the same <em className="italic text-forest-700">weight</em>
           </h2>
           <p className="text-[16.5px] leading-[1.68] text-forest-900/72 max-w-[46ch] mt-[26px]">
-            Cada propriedade atribuída a uma espécie é classificada por um nível de evidência explícito — de ensaios
-            clínicos revisados a relatos etnobotânicos documentados. Você sempre sabe sobre o que está pisando.
+            Every property assigned to a species is classified by an explicit level of evidence — from
+            peer-reviewed clinical trials to documented ethnobotanical accounts. You always know what you're
+            standing on.
           </p>
         </div>
 

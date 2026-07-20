@@ -29,7 +29,7 @@ export function ThumbnailTrack({ plants, idx, onSelect }: ThumbnailTrackProps) {
                 {plant.nomePopular}
               </div>
               <div className="font-mono text-[10.5px] tracking-[0.1em] text-forest-900/55 mt-1">
-                ÍNDICE {plant.indice}
+                INDEX {plant.indice}
               </div>
             </div>
           </button>

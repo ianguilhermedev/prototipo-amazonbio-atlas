@@ -1,12 +1,12 @@
-// Espécies curadas à mão para a demo — fotos reais, dados mais completos
-// (compostos, timeline, propriedades com evidência variada). As 4 primeiras
-// replicam os textos já aprovados no arquivo de design de referência; os
-// campos ausentes dele, assim como as espécies adicionadas depois (jambu,
-// pracaxi, ...), foram redigidos no mesmo tom editorial a partir de fontes
-// gerais, mas não representam pesquisa curada ou revisada por pares.
+// Hand-curated species for the demo — real photos, richer data
+// (compounds, timeline, properties with varied evidence). The first 4
+// replicate the text already approved in the reference design file; fields
+// missing from it, as well as species added later (jambu, pracaxi, ...),
+// were written in the same editorial tone from general sources, but do not
+// represent curated or peer-reviewed research.
 //
-// O grosso do acervo (centenas de espécies) vem de um catálogo real via
-// hortoAdapter.ts — ver src/data/catalog.ts para a lista combinada.
+// The bulk of the collection (hundreds of species) comes from a real
+// catalog via hortoAdapter.ts — see src/data/catalog.ts for the merged list.
 
 export type NivelEvidencia = 'clinica' | 'pre-clinica' | 'in-vitro' | 'tradicional';
 
@@ -26,49 +26,49 @@ export interface Planta {
   nomeCientifico: string;
   familia: string;
   regiao: string;
-  indice?: number; // 0–100, quando o registro tem uma base para o score
-  fotoDescricao: string; // orientação para a foto real usada (macro, fundo neutro)
+  indice?: number; // 0-100, when the record has a basis for the score
+  fotoDescricao: string; // guidance for the real photo used (macro, neutral background)
   descricaoCurta: string;
   descricaoLonga: string;
   compostos: string[];
   propriedades: Propriedade[];
   sintomasDoencas: string[];
-  similaridade: string[]; // slugs de outras plantas
+  similaridade: string[]; // slugs of other plants
   usoTradicional: string;
   timeline: EventoTimeline[];
   referencias: string[];
-  // true para espécies vindas de um catálogo real (ex.: hortoAdapter.ts) —
-  // nesse caso usoTradicional/referencias são dados reais, não ilustrativos.
+  // true for species coming from a real catalog (e.g. hortoAdapter.ts) — in
+  // that case usoTradicional/referencias are real data, not illustrative.
   fonteReal?: boolean;
 }
 
 export const plantas: Planta[] = [
   {
     slug: 'unha-de-gato',
-    nomePopular: 'Unha-de-gato',
+    nomePopular: "Cat's claw",
     nomeCientifico: 'Uncaria tomentosa',
     familia: 'Rubiaceae',
-    regiao: 'Amazônia Ocidental',
+    regiao: 'Western Amazon',
     indice: 92,
-    fotoDescricao: 'Macro do córtex seco e fragmentado, tom castanho-avermelhado, fundo neutro.',
+    fotoDescricao: 'Macro of dried, fragmented bark, reddish-brown tone, neutral background.',
     descricaoCurta:
-      'Trepadeira lenhosa cujo córtex concentra alcaloides oxindólicos com forte ação sobre o sistema imune.',
+      'Woody vine whose bark concentrates oxindole alkaloids with a strong action on the immune system.',
     descricaoLonga:
-      'Cipó nativo das florestas de terra firme, a unha-de-gato tem seu córtex interno historicamente decoccionado. Os alcaloides oxindólicos pentacíclicos são associados à modulação da resposta imune e ao controle de processos inflamatórios crônicos, com o corpo de evidência mais robusto entre as espécies desta seleção.',
-    compostos: ['Alcaloides oxindólicos', 'Glicosídeos do ácido quinóvico', 'Polifenóis'],
+      "A vine native to terra firme forests, cat's claw has its inner bark historically prepared as a decoction. Pentacyclic oxindole alkaloids are associated with immune response modulation and control of chronic inflammatory processes, with the most robust body of evidence among the species in this selection.",
+    compostos: ['Oxindole alkaloids', 'Quinovic acid glycosides', 'Polyphenols'],
     propriedades: [
-      { nome: 'Imunomodulador', evidencia: 'clinica' },
-      { nome: 'Anti-inflamatório', evidencia: 'clinica' },
-      { nome: 'Antioxidante', evidencia: 'pre-clinica' },
+      { nome: 'Immunomodulator', evidencia: 'clinica' },
+      { nome: 'Anti-inflammatory', evidencia: 'clinica' },
+      { nome: 'Antioxidant', evidencia: 'pre-clinica' },
     ],
-    sintomasDoencas: ['Inflamação articular', 'Baixa imunidade', 'Artrite'],
+    sintomasDoencas: ['Joint inflammation', 'Low immunity', 'Arthritis'],
     similaridade: ['copaiba'],
     usoTradicional:
-      'Empregada por povos amazônicos em decocções do córtex para inflamações articulares e como fortificante geral do organismo.',
+      'Used by Amazonian peoples in bark decoctions for joint inflammation and as a general body fortifier.',
     timeline: [
-      { ano: 1994, evento: 'Primeiros isolamentos de alcaloides oxindólicos pentacíclicos documentados em literatura científica.' },
-      { ano: 2001, evento: 'Ensaios clínicos iniciais avaliam efeito sobre marcadores inflamatórios em humanos.' },
-      { ano: 2015, evento: 'Revisões sistemáticas consolidam uso como adjuvante imunomodulador.' },
+      { ano: 1994, evento: 'First isolations of pentacyclic oxindole alkaloids documented in scientific literature.' },
+      { ano: 2001, evento: 'Initial clinical trials assess effect on inflammatory markers in humans.' },
+      { ano: 2015, evento: 'Systematic reviews consolidate use as an immunomodulatory adjuvant.' },
     ],
     referencias: [
       'Keplinger et al., "Uncaria tomentosa (Willd.) DC. — Ethnomedicinal use and pharmacological results", Journal of Ethnopharmacology.',
@@ -80,27 +80,27 @@ export const plantas: Planta[] = [
     nomePopular: 'Andiroba',
     nomeCientifico: 'Carapa guianensis',
     familia: 'Meliaceae',
-    regiao: 'Baixo Amazonas',
+    regiao: 'Lower Amazon',
     indice: 88,
-    fotoDescricao: 'Macro do óleo denso extraído das sementes, tom âmbar, fundo neutro.',
+    fotoDescricao: 'Macro of dense oil extracted from the seeds, amber tone, neutral background.',
     descricaoCurta:
-      'Árvore de grande porte cujas sementes fornecem um óleo denso, tradicionalmente usado em cicatrização e repelência.',
+      'Large tree whose seeds provide a dense oil, traditionally used for wound healing and as a repellent.',
     descricaoLonga:
-      'O óleo extraído das sementes da andiroba é rico em ácidos graxos e limonoides como a andirobina. É aplicado topicamente em processos cicatriciais, contra inflamações da pele e como repelente natural de insetos, com respaldo pré-clínico consistente e amplo registro etnobotânico.',
-    compostos: ['Andirobina', 'Limonoides', 'Ácidos graxos insaturados'],
+      'The oil extracted from andiroba seeds is rich in fatty acids and limonoids such as andirobin. It is applied topically for wound healing, against skin inflammation, and as a natural insect repellent, with consistent pre-clinical support and extensive ethnobotanical record.',
+    compostos: ['Andirobin', 'Limonoids', 'Unsaturated fatty acids'],
     propriedades: [
-      { nome: 'Cicatrizante', evidencia: 'pre-clinica' },
-      { nome: 'Antisséptico', evidencia: 'in-vitro' },
-      { nome: 'Repelente', evidencia: 'tradicional' },
+      { nome: 'Wound healing', evidencia: 'pre-clinica' },
+      { nome: 'Antiseptic', evidencia: 'in-vitro' },
+      { nome: 'Repellent', evidencia: 'tradicional' },
     ],
-    sintomasDoencas: ['Feridas superficiais', 'Picadas de inseto', 'Inflamação da pele'],
+    sintomasDoencas: ['Superficial wounds', 'Insect bites', 'Skin inflammation'],
     similaridade: ['copaiba', 'pracaxi'],
     usoTradicional:
-      'Óleo das sementes usado em massagens, no cuidado de feridas e queimaduras e como base de velas repelentes em comunidades ribeirinhas.',
+      'Seed oil used in massages, wound and burn care, and as a base for repellent candles in riverside communities.',
     timeline: [
-      { ano: 1985, evento: 'Estudos etnobotânicos catalogam o uso ribeirinho do óleo extraído a frio.' },
-      { ano: 2006, evento: 'Pesquisas isolam a andirobina e caracterizam seu perfil de limonoides.' },
-      { ano: 2018, evento: 'Ensaios pré-clínicos avaliam ação cicatrizante tópica em modelos animais.' },
+      { ano: 1985, evento: 'Ethnobotanical studies catalog riverside use of the cold-extracted oil.' },
+      { ano: 2006, evento: 'Research isolates andirobin and characterizes its limonoid profile.' },
+      { ano: 2018, evento: 'Pre-clinical trials assess topical wound-healing action in animal models.' },
     ],
     referencias: [
       'Penido et al., "Anti-inflammatory effects of Carapa guianensis oil", Journal of Ethnopharmacology.',
@@ -109,30 +109,30 @@ export const plantas: Planta[] = [
   },
   {
     slug: 'copaiba',
-    nomePopular: 'Copaíba',
+    nomePopular: 'Copaiba',
     nomeCientifico: 'Copaifera officinalis',
     familia: 'Fabaceae',
-    regiao: 'Amazônia Central',
+    regiao: 'Central Amazon',
     indice: 90,
-    fotoDescricao: 'Macro da oleorresina translúcida em recipiente de vidro, fundo neutro.',
+    fotoDescricao: 'Macro of translucent oleoresin in a glass container, neutral background.',
     descricaoCurta:
-      'Árvore que exsuda uma oleorresina translúcida, uma das substâncias medicinais mais estudadas da floresta.',
+      'Tree that exudes a translucent oleoresin, one of the most studied medicinal substances of the forest.',
     descricaoLonga:
-      'A oleorresina de copaíba, coletada por perfuração do tronco, concentra sesquiterpenos como o β-cariofileno e ácidos diterpênicos. É investigada por suas ações analgésica, anti-inflamatória e antimicrobiana, figurando entre os produtos florestais não-madeireiros mais comercializados.',
-    compostos: ['β-cariofileno', 'Ácido copálico', 'Sesquiterpenos'],
+      'Copaiba oleoresin, collected by drilling the trunk, concentrates sesquiterpenes such as β-caryophyllene and diterpene acids. It is investigated for its analgesic, anti-inflammatory, and antimicrobial actions, ranking among the most commercially traded non-timber forest products.',
+    compostos: ['β-caryophyllene', 'Copalic acid', 'Sesquiterpenes'],
     propriedades: [
-      { nome: 'Analgésico', evidencia: 'clinica' },
-      { nome: 'Antimicrobiano', evidencia: 'in-vitro' },
-      { nome: 'Anti-inflamatório', evidencia: 'clinica' },
+      { nome: 'Analgesic', evidencia: 'clinica' },
+      { nome: 'Antimicrobial', evidencia: 'in-vitro' },
+      { nome: 'Anti-inflammatory', evidencia: 'clinica' },
     ],
-    sintomasDoencas: ['Dor muscular', 'Feridas', 'Afecções respiratórias'],
+    sintomasDoencas: ['Muscle pain', 'Wounds', 'Respiratory conditions'],
     similaridade: ['unha-de-gato', 'andiroba'],
     usoTradicional:
-      'A resina é ingerida em pequenas doses ou aplicada sobre a pele para dores, feridas e afecções respiratórias.',
+      'The resin is ingested in small doses or applied to the skin for pain, wounds, and respiratory conditions.',
     timeline: [
-      { ano: 1972, evento: 'Levantamentos farmacognósticos catalogam as espécies de Copaifera usadas na região.' },
-      { ano: 2008, evento: 'Estudos caracterizam o perfil de sesquiterpenos e sua ação anti-inflamatória.' },
-      { ano: 2019, evento: 'Ensaios clínicos avaliam eficácia analgésica tópica em pequenas amostras.' },
+      { ano: 1972, evento: 'Pharmacognostic surveys catalog the Copaifera species used in the region.' },
+      { ano: 2008, evento: 'Studies characterize the sesquiterpene profile and its anti-inflammatory action.' },
+      { ano: 2019, evento: 'Clinical trials assess topical analgesic efficacy in small samples.' },
     ],
     referencias: [
       'Veiga Jr. & Pinto, "O gênero Copaifera", Química Nova.',
@@ -144,27 +144,27 @@ export const plantas: Planta[] = [
     nomePopular: 'Jaborandi',
     nomeCientifico: 'Pilocarpus microphyllus',
     familia: 'Rutaceae',
-    regiao: 'Amazônia Oriental',
+    regiao: 'Eastern Amazon',
     indice: 84,
-    fotoDescricao: 'Macro de folhas secas empilhadas, tom verde-oliva, fundo neutro.',
+    fotoDescricao: 'Macro of stacked dried leaves, olive-green tone, neutral background.',
     descricaoCurta:
-      'Arbusto cujas folhas são a fonte natural da pilocarpina, alcaloide de uso oftalmológico consagrado.',
+      'Shrub whose leaves are the natural source of pilocarpine, an alkaloid with an established ophthalmological use.',
     descricaoLonga:
-      'As folhas do jaborandi contêm pilocarpina, alcaloide colinérgico extraído industrialmente para o tratamento do glaucoma e da xerostomia. A espécie ilustra a ponte entre o conhecimento tradicional e a farmacologia moderna, ainda que parte de suas indicações populares careça de validação clínica.',
-    compostos: ['Pilocarpina', 'Isopilocarpina', 'Óleos essenciais'],
+      "Jaborandi leaves contain pilocarpine, a cholinergic alkaloid industrially extracted for the treatment of glaucoma and xerostomia. The species illustrates the bridge between traditional knowledge and modern pharmacology, even though part of its popular indications lack clinical validation.",
+    compostos: ['Pilocarpine', 'Isopilocarpine', 'Essential oils'],
     propriedades: [
-      { nome: 'Estimulante', evidencia: 'tradicional' },
-      { nome: 'Sialagogo', evidencia: 'clinica' },
-      { nome: 'Alcaloides', evidencia: 'in-vitro' },
+      { nome: 'Stimulant', evidencia: 'tradicional' },
+      { nome: 'Sialagogue', evidencia: 'clinica' },
+      { nome: 'Alkaloids', evidencia: 'in-vitro' },
     ],
-    sintomasDoencas: ['Glaucoma', 'Xerostomia', 'Baixa salivação'],
+    sintomasDoencas: ['Glaucoma', 'Xerostomia', 'Low salivation'],
     similaridade: ['jambu'],
     usoTradicional:
-      'Infusão das folhas usada tradicionalmente como sudorífico e para estimular a salivação e o couro cabeludo.',
+      'Leaf infusion traditionally used as a sudorific and to stimulate salivation and the scalp.',
     timeline: [
-      { ano: 1875, evento: 'Isolamento inicial da pilocarpina a partir das folhas do jaborandi.' },
-      { ano: 1950, evento: 'Uso da pilocarpina se consolida no tratamento do glaucoma.' },
-      { ano: 1994, evento: 'Aprovação de formulação oral para xerostomia pós-radioterapia.' },
+      { ano: 1875, evento: 'Initial isolation of pilocarpine from jaborandi leaves.' },
+      { ano: 1950, evento: 'Use of pilocarpine becomes established in glaucoma treatment.' },
+      { ano: 1994, evento: 'Approval of an oral formulation for post-radiotherapy xerostomia.' },
     ],
     referencias: [
       'Holmstedt et al., "Jaborandi: an interdisciplinary approach", Journal of Ethnopharmacology.',
@@ -173,30 +173,30 @@ export const plantas: Planta[] = [
   },
   {
     slug: 'jambu',
-    nomePopular: 'Jambu',
+    nomePopular: 'Toothache plant',
     nomeCientifico: 'Acmella oleracea',
     familia: 'Asteraceae',
-    regiao: 'Baixo Amazonas',
+    regiao: 'Lower Amazon',
     indice: 79,
-    fotoDescricao: 'Macro das flores amareladas em formato de botão, folhagem verde ao fundo, fundo neutro.',
+    fotoDescricao: 'Macro of small yellow button-shaped flowers, green foliage in the background, neutral background.',
     descricaoCurta:
-      'Planta herbácea cujas flores e folhas produzem uma sensação característica de formigamento e dormência, usada na culinária e na medicina popular amazônica.',
+      'Herbaceous plant whose flowers and leaves produce a characteristic tingling and numbing sensation, used in cooking and Amazonian folk medicine.',
     descricaoLonga:
-      'Nativa da Amazônia e cultivada principalmente no Pará, o jambu é ingrediente central de pratos como o tacacá e o pato no tucupi. Suas flores e folhas contêm espilantol, um alcamida responsável pela sensação de dormência e formigamento na boca, historicamente explorada como anestésico tópico e estimulante da salivação.',
-    compostos: ['Espilantol', 'Flavonoides', 'Óleos essenciais'],
+      "Native to the Amazon and cultivated mainly in Pará, jambu is a central ingredient in dishes like tacacá and duck in tucupi. Its flowers and leaves contain spilanthol, an alkylamide responsible for the numbing, tingling sensation in the mouth, historically explored as a topical anesthetic and salivation stimulant.",
+    compostos: ['Spilanthol', 'Flavonoids', 'Essential oils'],
     propriedades: [
-      { nome: 'Anestésico tópico', evidencia: 'pre-clinica' },
-      { nome: 'Anti-inflamatório', evidencia: 'in-vitro' },
-      { nome: 'Sialagogo', evidencia: 'tradicional' },
+      { nome: 'Topical anesthetic', evidencia: 'pre-clinica' },
+      { nome: 'Anti-inflammatory', evidencia: 'in-vitro' },
+      { nome: 'Sialagogue', evidencia: 'tradicional' },
     ],
-    sintomasDoencas: ['Dor de dente', 'Aftas', 'Baixa salivação'],
+    sintomasDoencas: ['Toothache', 'Mouth ulcers', 'Low salivation'],
     similaridade: ['jaborandi'],
     usoTradicional:
-      'Flores mastigadas in natura ou em infusão para aliviar dores de dente e estimular a salivação; também consumido como estimulante do apetite em pratos típicos paraenses.',
+      'Flowers chewed fresh or taken as an infusion to relieve toothache and stimulate salivation; also consumed as an appetite stimulant in typical dishes from Pará.',
     timeline: [
-      { ano: 1899, evento: 'Primeiras descrições botânicas da espécie no Norte do Brasil.' },
-      { ano: 1996, evento: 'Isolamento e caracterização do espilantol como composto responsável pelo efeito anestésico.' },
-      { ano: 2012, evento: 'Estudos pré-clínicos avaliam potencial anestésico tópico em odontologia.' },
+      { ano: 1899, evento: 'First botanical descriptions of the species in northern Brazil.' },
+      { ano: 1996, evento: 'Isolation and characterization of spilanthol as the compound responsible for the anesthetic effect.' },
+      { ano: 2012, evento: 'Pre-clinical studies assess topical anesthetic potential in dentistry.' },
     ],
     referencias: [
       'Prachayasittikul et al., "Acmella oleracea: A plant with a long history of use", Molecules.',
@@ -208,27 +208,27 @@ export const plantas: Planta[] = [
     nomePopular: 'Pracaxi',
     nomeCientifico: 'Pentaclethra macroloba',
     familia: 'Fabaceae',
-    regiao: 'Baixo Amazonas',
+    regiao: 'Lower Amazon',
     indice: 81,
-    fotoDescricao: 'Macro das sementes descascadas sobre folha de bananeira, tom castanho-claro, fundo neutro.',
+    fotoDescricao: 'Macro of peeled seeds on a banana leaf, light brown tone, neutral background.',
     descricaoCurta:
-      'Árvore de várzea cujas sementes fornecem um óleo rico em ácidos graxos, tradicionalmente usado no cuidado da pele e dos cabelos.',
+      'Floodplain tree whose seeds provide an oil rich in fatty acids, traditionally used for skin and hair care.',
     descricaoLonga:
-      'O pracaxi é uma árvore comum nas florestas alagáveis da Amazônia. Suas sementes, após processamento, fornecem uma manteiga vegetal rica em ácido behênico e outros ácidos graxos de cadeia longa, empregada por comunidades ribeirinhas na cicatrização de feridas e no fortalecimento capilar, com uso crescente na indústria cosmética.',
-    compostos: ['Ácido behênico', 'Ácido oleico', 'Saponinas'],
+      'Pracaxi is a common tree in the flooded forests of the Amazon. Its seeds, after processing, yield a vegetable butter rich in behenic acid and other long-chain fatty acids, used by riverside communities for wound healing and hair strengthening, with growing use in the cosmetics industry.',
+    compostos: ['Behenic acid', 'Oleic acid', 'Saponins'],
     propriedades: [
-      { nome: 'Cicatrizante', evidencia: 'pre-clinica' },
-      { nome: 'Anti-inflamatório', evidencia: 'in-vitro' },
-      { nome: 'Emoliente', evidencia: 'tradicional' },
+      { nome: 'Wound healing', evidencia: 'pre-clinica' },
+      { nome: 'Anti-inflammatory', evidencia: 'in-vitro' },
+      { nome: 'Emollient', evidencia: 'tradicional' },
     ],
-    sintomasDoencas: ['Feridas', 'Ressecamento da pele', 'Queda capilar'],
+    sintomasDoencas: ['Wounds', 'Dry skin', 'Hair loss'],
     similaridade: ['andiroba'],
     usoTradicional:
-      'Óleo extraído das sementes aplicado sobre feridas, picadas de inseto e no couro cabeludo para fortalecer os cabelos, uso disseminado entre comunidades ribeirinhas do baixo Amazonas.',
+      'Seed oil applied to wounds, insect bites, and the scalp to strengthen hair, widely used among riverside communities of the lower Amazon.',
     timeline: [
-      { ano: 1978, evento: 'Primeiros registros etnobotânicos do uso do óleo de pracaxi por comunidades ribeirinhas.' },
-      { ano: 2009, evento: 'Caracterização química da manteiga de pracaxi e seu alto teor de ácido behênico.' },
-      { ano: 2017, evento: 'Expansão do uso da manteiga de pracaxi na indústria cosmética nacional.' },
+      { ano: 1978, evento: 'First ethnobotanical records of pracaxi oil use by riverside communities.' },
+      { ano: 2009, evento: 'Chemical characterization of pracaxi butter and its high behenic acid content.' },
+      { ano: 2017, evento: 'Expansion of pracaxi butter use in the domestic cosmetics industry.' },
     ],
     referencias: [
       'Oliveira et al., "Pentaclethra macroloba seed oil: composition and skin applications", Industrial Crops and Products.',

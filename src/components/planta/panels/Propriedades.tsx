@@ -8,7 +8,7 @@ interface PropriedadesProps {
 
 export function Propriedades({ planta }: PropriedadesProps) {
   if (planta.propriedades.length === 0) {
-    return <p className="text-sm text-forest-900/50">Nenhuma propriedade documentada ainda para esta espécie.</p>;
+    return <p className="text-sm text-forest-900/50">No properties documented yet for this species.</p>;
   }
 
   return (

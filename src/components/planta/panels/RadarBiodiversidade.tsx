@@ -1,11 +1,11 @@
 import { IllustrativeBadge } from '../../common/IllustrativeBadge';
 
 const EIXOS = [
-  { label: 'Diversidade genética', valor: 0.62 },
-  { label: 'Endemismo', valor: 0.74 },
-  { label: 'Grau de ameaça', valor: 0.4 },
-  { label: 'Uso documentado', valor: 0.85 },
-  { label: 'Distribuição geográfica', valor: 0.55 },
+  { label: 'Genetic diversity', valor: 0.62 },
+  { label: 'Endemism', valor: 0.74 },
+  { label: 'Threat level', valor: 0.4 },
+  { label: 'Documented use', valor: 0.85 },
+  { label: 'Geographic distribution', valor: 0.55 },
 ];
 
 const SIZE = 220;
@@ -29,8 +29,8 @@ export function RadarBiodiversidade() {
     <div>
       <IllustrativeBadge />
       <p className="text-[15px] leading-relaxed text-forest-900/70 max-w-[60ch] mt-4 mb-8">
-        Exemplo de visualização: um índice comparativo de biodiversidade cruzando genética, endemismo, ameaça e
-        distribuição. Os valores abaixo são fictícios, apenas para ilustrar o formato do gráfico.
+        Example visualization: a comparative biodiversity index crossing genetics, endemism, threat, and
+        distribution. The values below are fictional, only to illustrate the chart format.
       </p>
 
       <div className="bg-white border border-line rounded-2xl p-8 max-w-[520px] flex flex-col items-center gap-6">

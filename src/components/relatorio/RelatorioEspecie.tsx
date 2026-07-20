@@ -29,7 +29,7 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
               : 'text-forest-900/55 border-line bg-cream-200'
           }`}
         >
-          {planta.fonteReal ? 'Fonte: catálogo real (Horto/Embrapa)' : 'Dados ilustrativos — não revisados por pares'}
+          {planta.fonteReal ? 'Source: real catalog (Horto/Embrapa)' : 'Illustrative data — not peer-reviewed'}
         </span>
       </div>
       <div className="font-display italic font-light text-lg text-forest-900/60 mb-1">{planta.nomeCientifico}</div>
@@ -46,7 +46,7 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
           />
           {atribuicao && (
             <figcaption className="font-mono text-[10px] text-forest-900/45 mt-2">
-              Foto: {atribuicao.creator} · {atribuicao.licenseLabel} · {atribuicao.fonte}
+              Photo: {atribuicao.creator} · {atribuicao.licenseLabel} · {atribuicao.fonte}
             </figcaption>
           )}
         </figure>
@@ -56,13 +56,13 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
       <p className="text-[15px] leading-relaxed text-forest-900/70 mb-6">{planta.descricaoLonga}</p>
 
       {planta.compostos.length > 0 && (
-        <Bloco titulo="Compostos ativos">
+        <Bloco titulo="Active compounds">
           <p className="text-sm text-forest-900/75">{planta.compostos.join(', ')}</p>
         </Bloco>
       )}
 
       {planta.propriedades.length > 0 && (
-        <Bloco titulo="Propriedades farmacológicas">
+        <Bloco titulo="Pharmacological properties">
           <ul className="space-y-1">
             {planta.propriedades.map((p) => (
               <li key={p.nome} className="text-sm text-forest-900/75 flex items-center gap-2">
@@ -78,19 +78,19 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
       )}
 
       {planta.sintomasDoencas.length > 0 && (
-        <Bloco titulo="Indicações e sintomas associados">
+        <Bloco titulo="Associated indications and symptoms">
           <p className="text-sm text-forest-900/75">{planta.sintomasDoencas.join(', ')}</p>
         </Bloco>
       )}
 
       {planta.usoTradicional && (
-        <Bloco titulo="Uso tradicional">
+        <Bloco titulo="Traditional use">
           <p className="text-sm text-forest-900/75">{planta.usoTradicional}</p>
         </Bloco>
       )}
 
       {planta.timeline.length > 0 && (
-        <Bloco titulo="Linha do tempo">
+        <Bloco titulo="Timeline">
           <ul className="space-y-1">
             {planta.timeline.map((e) => (
               <li key={e.ano} className="text-sm text-forest-900/75">
@@ -102,7 +102,7 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
       )}
 
       {planta.referencias.length > 0 && (
-        <Bloco titulo="Referências bibliográficas">
+        <Bloco titulo="Bibliographic references">
           <ol className="space-y-1.5 list-decimal list-inside">
             {planta.referencias.map((r) => (
               <li key={r} className="text-sm text-forest-900/75">
@@ -114,7 +114,7 @@ export function RelatorioEspecie({ planta, indice }: RelatorioEspecieProps) {
       )}
 
       {planta.similaridade.length > 0 && (
-        <Bloco titulo="Espécies relacionadas">
+        <Bloco titulo="Related species">
           <p className="text-sm text-forest-900/75">{planta.similaridade.join(', ')}</p>
         </Bloco>
       )}

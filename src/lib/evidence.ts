@@ -10,24 +10,24 @@ interface EvidenciaInfo {
 // app must read from here — never hard-code a label/color pair elsewhere.
 export const EVIDENCIA: Record<NivelEvidencia, EvidenciaInfo> = {
   clinica: {
-    label: 'Evidência Clínica',
+    label: 'Clinical Evidence',
     color: '#4ea36a',
-    description: 'Estudos controlados e revisados por pares em populações humanas.',
+    description: 'Controlled, peer-reviewed studies in human populations.',
   },
   'pre-clinica': {
-    label: 'Estudos Pré-clínicos',
+    label: 'Pre-clinical Studies',
     color: '#4a86c4',
-    description: 'Evidência em modelos animais, ainda sem validação clínica.',
+    description: 'Evidence in animal models, not yet clinically validated.',
   },
   'in-vitro': {
-    label: 'Estudos In Vitro',
+    label: 'In Vitro Studies',
     color: '#e0c15a',
-    description: 'Pesquisa em laboratório, fora de organismos vivos.',
+    description: 'Laboratory research, outside living organisms.',
   },
   tradicional: {
-    label: 'Uso Tradicional',
+    label: 'Traditional Use',
     color: '#9a9a8e',
-    description: 'Registro etnobotânico documentado, sem confirmação clínica.',
+    description: 'Documented ethnobotanical record, without clinical confirmation.',
   },
 };
 

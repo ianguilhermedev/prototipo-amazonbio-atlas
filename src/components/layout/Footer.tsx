@@ -1,6 +1,6 @@
 import { logoImg } from '../../data/plantImages';
 
-const links = ['Metodologia', 'API de dados', 'Instituições parceiras', 'Contato'];
+const links = ['Methodology', 'Data API', 'Partner institutions', 'Contact'];
 
 export function Footer() {
   return (
@@ -15,7 +15,7 @@ export function Footer() {
           ))}
         </div>
         <div className="font-mono text-[11px] tracking-[0.14em] uppercase text-cream-100/40">
-          © 2026 · Base aberta
+          © 2026 · Open base
         </div>
       </div>
     </footer>
