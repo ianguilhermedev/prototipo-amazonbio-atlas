@@ -5,6 +5,8 @@ MVP interativo do AmazonBio Atlas, fiel ao arquivo de design aprovado
 visual para a busca e a página de espécie. Construído com Vite + React +
 TypeScript + Tailwind CSS + React Router.
 
+LINK: https://prototipo-amazonbio-atlas.vercel.app/
+
 ## Rodando o projeto
 
 ```bash
